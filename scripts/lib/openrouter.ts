@@ -18,6 +18,43 @@ export class OpenRouterClient {
     this.model = model;
   }
 
+  private async fetchWithRetry(
+    url: string,
+    options: RequestInit,
+    maxRetries: number = 3
+  ): Promise<Response> {
+    let lastError: Error | null = null;
+
+    for (let attempt = 1; attempt <= maxRetries; attempt++) {
+      try {
+        console.log(`API request attempt ${attempt}/${maxRetries}...`);
+
+        // Create an AbortController for timeout
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 120000); // 2 minute timeout
+
+        const response = await fetch(url, {
+          ...options,
+          signal: controller.signal,
+        });
+
+        clearTimeout(timeoutId);
+        return response;
+      } catch (error) {
+        lastError = error as Error;
+        console.error(`Attempt ${attempt} failed:`, (error as Error).message);
+
+        if (attempt < maxRetries) {
+          const delay = attempt * 5000; // 5s, 10s, 15s
+          console.log(`Retrying in ${delay / 1000}s...`);
+          await new Promise((resolve) => setTimeout(resolve, delay));
+        }
+      }
+    }
+
+    throw lastError || new Error('All retry attempts failed');
+  }
+
   async summarize(messages: DiscordMessage[], date: string): Promise<DailyIssue> {
     // Filter messages
     const filteredMessages = this.filterMessages(messages);
@@ -25,7 +62,7 @@ export class OpenRouterClient {
 
     const prompt = this.buildPrompt(filteredMessages);
 
-    const response = await fetch(`${this.baseUrl}/chat/completions`, {
+    const response = await this.fetchWithRetry(`${this.baseUrl}/chat/completions`, {
       method: 'POST',
       headers: {
         Authorization: `Bearer ${this.apiKey}`,
