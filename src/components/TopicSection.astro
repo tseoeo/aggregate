@@ -1,0 +1,41 @@
+---
+import type { Topic } from '../../scripts/lib/types';
+import TopicTag from './TopicTag.astro';
+
+interface Props {
+  topic: Topic;
+}
+
+const { topic } = Astro.props;
+---
+
+<article class="p-6 bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700">
+  <h2 class="text-xl font-semibold">{topic.title}</h2>
+
+  <div class="mt-3 flex flex-wrap gap-2">
+    {topic.tags.map(tag => <TopicTag tag={tag} />)}
+  </div>
+
+  <p class="mt-4 text-gray-700 dark:text-gray-300 leading-relaxed">
+    {topic.summary}
+  </p>
+
+  {topic.highlights && topic.highlights.length > 0 && (
+    <ul class="mt-4 space-y-2">
+      {topic.highlights.map(highlight => (
+        <li class="flex items-start gap-2 text-sm text-gray-600 dark:text-gray-400">
+          <span class="text-blue-500 mt-1">•</span>
+          <span>{highlight}</span>
+        </li>
+      ))}
+    </ul>
+  )}
+
+  <div class="mt-4 flex flex-wrap gap-2 text-xs text-gray-500 dark:text-gray-400">
+    {topic.sources.map(source => (
+      <span class="px-2 py-1 bg-gray-100 dark:bg-gray-700 rounded">
+        {source}
+      </span>
+    ))}
+  </div>
+</article>

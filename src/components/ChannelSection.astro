@@ -1,0 +1,65 @@
+---
+import type { ChannelSummary } from '../../scripts/lib/types';
+
+interface Props {
+  channel: ChannelSummary;
+}
+
+const { channel } = Astro.props;
+const isActive = channel.status === 'active';
+---
+
+<article class={`p-5 rounded-xl border ${isActive ? 'bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700' : 'bg-gray-50 dark:bg-gray-800/50 border-gray-100 dark:border-gray-800'}`}>
+  <div class="flex items-center gap-3 mb-3">
+    <h2 class="text-lg font-semibold font-mono">#{channel.channel}</h2>
+    <span class={`px-2 py-0.5 text-xs rounded-full ${isActive ? 'bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400' : 'bg-gray-200 text-gray-500 dark:bg-gray-700 dark:text-gray-400'}`}>
+      {isActive ? 'Active' : 'Not Important'}
+    </span>
+  </div>
+
+  {channel.summary && (
+    <p class={`text-sm mb-4 ${isActive ? 'text-gray-700 dark:text-gray-300' : 'text-gray-500 dark:text-gray-400 italic'}`}>
+      {channel.summary}
+    </p>
+  )}
+
+  {isActive && channel.highlights && channel.highlights.length > 0 && (
+    <div class="space-y-3">
+      {channel.highlights.map((highlight) => (
+        <div class="pl-4 border-l-2 border-blue-300 dark:border-blue-600">
+          <div class="flex items-center gap-2 mb-1">
+            <span class={`px-1.5 py-0.5 text-xs rounded font-medium uppercase tracking-wide
+              ${highlight.type === 'tool' ? 'bg-purple-100 text-purple-700 dark:bg-purple-900/30 dark:text-purple-400' : ''}
+              ${highlight.type === 'research' ? 'bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-400' : ''}
+              ${highlight.type === 'news' ? 'bg-orange-100 text-orange-700 dark:bg-orange-900/30 dark:text-orange-400' : ''}
+              ${highlight.type === 'discussion' ? 'bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400' : ''}
+              ${highlight.type === 'resource' ? 'bg-yellow-100 text-yellow-700 dark:bg-yellow-900/30 dark:text-yellow-400' : ''}
+            `}>
+              {highlight.type}
+            </span>
+            <span class="font-medium text-gray-900 dark:text-gray-100">{highlight.title}</span>
+          </div>
+          <p class="text-sm text-gray-600 dark:text-gray-400">{highlight.details}</p>
+          {highlight.link && (
+            <a href={highlight.link} target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1 mt-1 text-xs text-blue-600 dark:text-blue-400 hover:underline">
+              <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+              </svg>
+              View link
+            </a>
+          )}
+        </div>
+      ))}
+    </div>
+  )}
+
+  {isActive && channel.mentions && channel.mentions.length > 0 && (
+    <div class="mt-4 flex flex-wrap gap-2">
+      {channel.mentions.map((mention) => (
+        <span class="px-2 py-1 text-xs bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 rounded">
+          {mention}
+        </span>
+      ))}
+    </div>
+  )}
+</article>

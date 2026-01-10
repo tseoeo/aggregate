@@ -1,0 +1,11 @@
+{
+  "discord": {
+    "servers": [
+      {
+        "id": "709752884257882135",
+        "name": "My Server",
+        "channels": "all"
+      }
+    ]
+  }
+}
