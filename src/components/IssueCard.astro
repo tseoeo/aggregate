@@ -18,10 +18,13 @@ const formattedDate = date.toLocaleDateString('en-US', {
   month: 'short',
   day: 'numeric',
 });
+
+// Build link with serverId
+const href = `/issue/${issue.serverId}/${issue.date}`;
 ---
 
 <a
-  href={`/issue/${issue.date}`}
+  href={href}
   class="block p-6 bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 hover:border-blue-300 dark:hover:border-blue-600 hover:shadow-lg transition-all group"
 >
   <div class="flex items-start justify-between gap-4">
@@ -37,7 +40,7 @@ const formattedDate = date.toLocaleDateString('en-US', {
           <span class="w-2 h-2 bg-green-500 rounded-full"></span>
           {activeChannels.length} active
         </span>
-        <span class="text-gray-400">•</span>
+        <span class="text-gray-400">-</span>
         <span>{issue.stats?.totalMessages || 0} messages</span>
       </div>
       {activeChannels.length > 0 && (

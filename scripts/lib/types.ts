@@ -1,6 +1,7 @@
 // Raw message data from Discord
 export interface DiscordMessage {
   id: string;
+  serverId: string;
   content: string;
   author: {
     id: string;
@@ -33,6 +34,8 @@ export interface ChannelSummary {
     title: string;
     details: string;
     link?: string;
+    discordLink?: string;
+    messageId?: string;
   }[];
   mentions?: string[];
 }
@@ -40,6 +43,8 @@ export interface ChannelSummary {
 // Final daily issue structure
 export interface DailyIssue {
   date: string;
+  serverId: string;
+  serverName: string;
   title: string;
   generatedAt: string;
   channels: ChannelSummary[];
@@ -48,6 +53,15 @@ export interface DailyIssue {
     activeChannels: number;
     sourcesUsed: string[];
   };
+}
+
+// Raw data per server
+export interface RawServerData {
+  date: string;
+  serverId: string;
+  serverName: string;
+  collectedAt: string;
+  messages: DiscordMessage[];
 }
 
 // Configuration for Discord sources

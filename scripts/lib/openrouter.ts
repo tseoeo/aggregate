@@ -55,7 +55,7 @@ export class OpenRouterClient {
     throw lastError || new Error('All retry attempts failed');
   }
 
-  async summarize(messages: DiscordMessage[], date: string): Promise<DailyIssue> {
+  async summarize(messages: DiscordMessage[], date: string, serverId: string, serverName: string): Promise<DailyIssue> {
     // Filter messages
     const filteredMessages = this.filterMessages(messages);
     console.log(`Using ${filteredMessages.length} messages after filtering (from ${messages.length})`);
@@ -75,7 +75,7 @@ export class OpenRouterClient {
         messages: [
           {
             role: 'system',
-            content: `You summarize Bellingcat Discord (OSINT/investigative journalism) discussions organized BY CHANNEL.
+            content: `You summarize Discord server discussions organized BY CHANNEL for the "${serverName}" server.
 
 Return ONLY valid JSON (no markdown, no backticks):
 {
@@ -89,7 +89,8 @@ Return ONLY valid JSON (no markdown, no backticks):
           "type": "tool|research|news|discussion|resource",
           "title": "Specific name of tool/topic/article",
           "details": "What it does, why it matters, key findings",
-          "link": "URL if shared"
+          "link": "URL if shared in the message",
+          "messageId": "ID from [MSG:xxx] tag of the source message"
         }
       ],
       "mentions": ["Person or org mentioned", "Specific tool name"]
@@ -106,8 +107,9 @@ IMPORTANT RULES:
 - Organize output BY CHANNEL, one entry per channel
 - Use "status": "not-important" for channels with trivial/routine messages
 - Use "status": "active" for channels with substantive content
-- Be SPECIFIC: name exact tools (e.g., "Bellingcat Online Investigation Toolkit"), articles, research topics
-- Include URLs when shared
+- Be SPECIFIC: name exact tools, articles, research topics
+- Include URLs when shared in the message content
+- ALWAYS include "messageId" with the ID from the [MSG:xxx] tag of the most relevant source message for each highlight
 - "highlights" should have specific, actionable items - not vague summaries
 - "mentions" should list specific people, organizations, tools, or technologies discussed`,
           },
@@ -154,13 +156,28 @@ IMPORTANT RULES:
       throw new Error(`Invalid JSON response from API: ${(e as Error).message}`);
     }
 
+    // Generate Discord links from messageIds
+    for (const channel of parsed.channels || []) {
+      const channelMessages = filteredMessages.filter(m => m.channelName === channel.channel);
+      for (const highlight of channel.highlights || []) {
+        if (highlight.messageId) {
+          const msg = channelMessages.find(m => m.id === highlight.messageId);
+          if (msg) {
+            highlight.discordLink = `https://discord.com/channels/${serverId}/${msg.channelId}/${msg.id}`;
+          }
+        }
+      }
+    }
+
     // Count active channels
     const activeChannels = (parsed.channels || []).filter(c => c.status === 'active').length;
 
     // Build the final issue
     const issue: DailyIssue = {
       date,
-      title: this.generateTitle(date),
+      serverId,
+      serverName,
+      title: this.generateTitle(date, serverName),
       generatedAt: new Date().toISOString(),
       channels: parsed.channels || [],
       stats: {
@@ -224,28 +241,28 @@ IMPORTANT RULES:
       groupedByChannel.get(key)!.push(msg);
     }
 
-    let prompt = `Bellingcat Discord messages from the last 24 hours:\n\n`;
+    let prompt = `Discord messages from the last 24 hours:\n\n`;
 
     for (const [channel, msgs] of groupedByChannel) {
       prompt += `## #${channel} (${msgs.length} messages)\n\n`;
       for (const msg of msgs.slice(0, 15)) { // Max 15 per channel
         const reactions = msg.reactionCount > 0 ? ` [${msg.reactionCount}👍]` : '';
         const content = msg.content.length > 400 ? msg.content.slice(0, 400) + '...' : msg.content;
-        prompt += `**${msg.author.displayName}**${reactions}: ${content}\n\n`;
+        prompt += `[MSG:${msg.id}] **${msg.author.displayName}**${reactions}: ${content}\n\n`;
       }
     }
 
     return prompt;
   }
 
-  private generateTitle(date: string): string {
+  private generateTitle(date: string, serverName: string): string {
     const d = new Date(date);
     const options: Intl.DateTimeFormatOptions = {
       month: 'long',
       day: 'numeric',
       year: 'numeric',
     };
-    return `Daily Summary - ${d.toLocaleDateString('en-US', options)}`;
+    return `${serverName} - ${d.toLocaleDateString('en-US', options)}`;
   }
 
   private extractUniqueSources(messages: DiscordMessage[]): string[] {

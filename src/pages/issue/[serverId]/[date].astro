@@ -1,0 +1,153 @@
+---
+import Base from '../../../layouts/Base.astro';
+import ChannelSection from '../../../components/ChannelSection.astro';
+import type { DailyIssue, SourcesConfig } from '../../../../scripts/lib/types';
+import { readdirSync, readFileSync, existsSync } from 'fs';
+import { join } from 'path';
+
+export function getStaticPaths() {
+  const dataDir = join(process.cwd(), 'data', 'issues');
+  const configPath = join(process.cwd(), 'config', 'sources.json');
+  const paths: { params: { serverId: string; date: string }; props: { issue: DailyIssue; servers: { id: string; name: string }[] } }[] = [];
+
+  if (!existsSync(dataDir) || !existsSync(configPath)) {
+    return paths;
+  }
+
+  // Load server config
+  const config: SourcesConfig = JSON.parse(readFileSync(configPath, 'utf-8'));
+  const servers = config.discord.servers.map(s => ({ id: s.id, name: s.name }));
+
+  // Get all server directories
+  const serverDirs = readdirSync(dataDir, { withFileTypes: true })
+    .filter(d => d.isDirectory())
+    .map(d => d.name);
+
+  for (const serverId of serverDirs) {
+    const serverDir = join(dataDir, serverId);
+    const files = readdirSync(serverDir).filter(f => f.endsWith('.json'));
+
+    for (const file of files) {
+      const date = file.replace('.json', '');
+      const content = readFileSync(join(serverDir, file), 'utf-8');
+      const issue = JSON.parse(content) as DailyIssue;
+
+      paths.push({
+        params: { serverId, date },
+        props: { issue, servers },
+      });
+    }
+  }
+
+  return paths;
+}
+
+interface Props {
+  issue: DailyIssue;
+  servers: { id: string; name: string }[];
+}
+
+const { issue, servers } = Astro.props;
+const { serverId, date } = Astro.params;
+
+const formattedDate = new Date(issue.date).toLocaleDateString('en-US', {
+  weekday: 'long',
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+
+// Separate active and not-important channels
+const activeChannels = issue.channels?.filter(c => c.status === 'active') || [];
+const quietChannels = issue.channels?.filter(c => c.status === 'not-important') || [];
+
+// Check if other servers have data for the same date
+const otherServersWithData = servers.filter(s => {
+  if (s.id === serverId) return true;
+  const otherPath = join(process.cwd(), 'data', 'issues', s.id, `${date}.json`);
+  return existsSync(otherPath);
+});
+---
+
+<Base title={issue.title}>
+  <article class="space-y-8">
+    <header>
+      <a
+        href="/"
+        class="inline-flex items-center gap-1 text-sm text-gray-500 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+      >
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+        </svg>
+        Back to all issues
+      </a>
+
+      <h1 class="mt-4 text-3xl font-bold">{issue.title}</h1>
+
+      <div class="mt-2 flex flex-wrap items-center gap-4 text-sm text-gray-500 dark:text-gray-400">
+        <time datetime={issue.date}>{formattedDate}</time>
+        <span>-</span>
+        <span>{issue.stats?.totalMessages || 0} messages processed</span>
+        <span>-</span>
+        <span>{issue.stats?.activeChannels || activeChannels.length} active channels</span>
+      </div>
+
+      <!-- Server tabs -->
+      {otherServersWithData.length > 1 && (
+        <nav class="mt-6 flex gap-2 border-b border-gray-200 dark:border-gray-700">
+          {otherServersWithData.map(server => (
+            <a
+              href={`/issue/${server.id}/${date}`}
+              class={`px-4 py-2 text-sm font-medium border-b-2 transition-colors ${
+                server.id === serverId
+                  ? 'border-blue-500 text-blue-600 dark:text-blue-400'
+                  : 'border-transparent text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300'
+              }`}
+            >
+              {server.name}
+            </a>
+          ))}
+        </nav>
+      )}
+    </header>
+
+    {activeChannels.length > 0 && (
+      <section>
+        <h2 class="text-xl font-semibold mb-4 flex items-center gap-2">
+          <span class="w-2 h-2 bg-green-500 rounded-full"></span>
+          Active Channels ({activeChannels.length})
+        </h2>
+        <div class="space-y-4">
+          {activeChannels.map(channel => (
+            <ChannelSection channel={channel} defaultOpen={true} />
+          ))}
+        </div>
+      </section>
+    )}
+
+    {quietChannels.length > 0 && (
+      <section>
+        <h2 class="text-lg font-medium text-gray-500 dark:text-gray-400 mb-3 flex items-center gap-2">
+          <span class="w-2 h-2 bg-gray-400 rounded-full"></span>
+          Quiet Channels ({quietChannels.length})
+        </h2>
+        <div class="space-y-3">
+          {quietChannels.map(channel => (
+            <ChannelSection channel={channel} defaultOpen={false} />
+          ))}
+        </div>
+      </section>
+    )}
+
+    <footer class="pt-8 border-t border-gray-200 dark:border-gray-700">
+      <h3 class="text-sm font-medium text-gray-500 dark:text-gray-400">Data Sources</h3>
+      <div class="mt-2 flex flex-wrap gap-2">
+        {(issue.stats?.sourcesUsed || []).map(source => (
+          <span class="px-2 py-1 text-xs bg-gray-100 dark:bg-gray-700 rounded font-mono">
+            {source}
+          </span>
+        ))}
+      </div>
+    </footer>
+  </article>
+</Base>

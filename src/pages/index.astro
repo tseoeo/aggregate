@@ -1,48 +1,146 @@
 ---
 import Base from '../layouts/Base.astro';
 import IssueCard from '../components/IssueCard.astro';
-import type { DailyIssue } from '../../scripts/lib/types';
+import type { DailyIssue, SourcesConfig } from '../../scripts/lib/types';
 import { readdirSync, readFileSync, existsSync } from 'fs';
 import { join } from 'path';
 
-// Load all issues
+// Load server config
+const configPath = join(process.cwd(), 'config', 'sources.json');
+let servers: { id: string; name: string }[] = [];
+
+if (existsSync(configPath)) {
+  const config: SourcesConfig = JSON.parse(readFileSync(configPath, 'utf-8'));
+  servers = config.discord.servers.map(s => ({ id: s.id, name: s.name }));
+}
+
+// Load all issues grouped by server
 const issuesDir = join(process.cwd(), 'data', 'issues');
-let issues: DailyIssue[] = [];
+const issuesByServer: Record<string, DailyIssue[]> = {};
 
 if (existsSync(issuesDir)) {
-  const files = readdirSync(issuesDir)
-    .filter(f => f.endsWith('.json'))
-    .sort()
-    .reverse();
+  for (const server of servers) {
+    const serverDir = join(issuesDir, server.id);
+    if (existsSync(serverDir)) {
+      const files = readdirSync(serverDir)
+        .filter(f => f.endsWith('.json'))
+        .sort()
+        .reverse();
 
-  issues = files.map(file => {
-    const content = readFileSync(join(issuesDir, file), 'utf-8');
-    return JSON.parse(content) as DailyIssue;
-  });
+      issuesByServer[server.id] = files.map(file => {
+        const content = readFileSync(join(serverDir, file), 'utf-8');
+        return JSON.parse(content) as DailyIssue;
+      });
+    } else {
+      issuesByServer[server.id] = [];
+    }
+  }
 }
+
+// Default to first server
+const defaultServer = servers[0]?.id || '';
 ---
 
-<Base title="Daily Summary">
+<Base title="i see all">
   <div class="space-y-8">
     <section class="text-center">
-      <h1 class="text-3xl font-bold">Daily Summary</h1>
+      <h1 class="text-3xl font-bold">Daily Summaries</h1>
       <p class="mt-2 text-gray-600 dark:text-gray-400">
         Curated highlights from Discord discussions
       </p>
     </section>
 
-    {issues.length === 0 ? (
+    {servers.length === 0 ? (
       <div class="text-center py-12">
         <p class="text-gray-500 dark:text-gray-400">
-          No summaries yet. Check back after the first daily update runs.
+          No servers configured. Add servers to config/sources.json.
         </p>
       </div>
     ) : (
-      <section class="space-y-4">
-        {issues.map(issue => (
-          <IssueCard issue={issue} />
+      <>
+        <!-- Server tabs -->
+        <nav class="flex gap-2 border-b border-gray-200 dark:border-gray-700" id="server-tabs">
+          {servers.map((server, i) => (
+            <button
+              type="button"
+              class={`server-tab px-4 py-2 text-sm font-medium border-b-2 transition-colors ${
+                i === 0
+                  ? 'border-blue-500 text-blue-600 dark:text-blue-400'
+                  : 'border-transparent text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300'
+              }`}
+              data-server-id={server.id}
+            >
+              {server.name}
+            </button>
+          ))}
+        </nav>
+
+        <!-- Issues for each server -->
+        {servers.map((server, i) => (
+          <section
+            class={`server-issues ${i === 0 ? '' : 'hidden'}`}
+            data-server-id={server.id}
+          >
+            {(!issuesByServer[server.id] || issuesByServer[server.id].length === 0) ? (
+              <div class="text-center py-12">
+                <p class="text-gray-500 dark:text-gray-400">
+                  No summaries yet for {server.name}. Check back after the first daily update runs.
+                </p>
+              </div>
+            ) : (
+              <div class="space-y-4">
+                {issuesByServer[server.id].map(issue => (
+                  <IssueCard issue={issue} />
+                ))}
+              </div>
+            )}
+          </section>
         ))}
-      </section>
+      </>
     )}
   </div>
 </Base>
+
+<script>
+  // Handle server tab switching (client-side, no reload)
+  const tabs = document.querySelectorAll('.server-tab');
+  const sections = document.querySelectorAll('.server-issues');
+
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      const serverId = tab.getAttribute('data-server-id');
+
+      // Update tab styles
+      tabs.forEach(t => {
+        if (t.getAttribute('data-server-id') === serverId) {
+          t.classList.remove('border-transparent', 'text-gray-500', 'dark:text-gray-400');
+          t.classList.add('border-blue-500', 'text-blue-600', 'dark:text-blue-400');
+        } else {
+          t.classList.remove('border-blue-500', 'text-blue-600', 'dark:text-blue-400');
+          t.classList.add('border-transparent', 'text-gray-500', 'dark:text-gray-400');
+        }
+      });
+
+      // Show/hide sections
+      sections.forEach(section => {
+        if (section.getAttribute('data-server-id') === serverId) {
+          section.classList.remove('hidden');
+        } else {
+          section.classList.add('hidden');
+        }
+      });
+
+      // Store preference
+      localStorage.setItem('selectedServer', serverId || '');
+    });
+  });
+
+  // Restore selected server on page load
+  const savedServer = localStorage.getItem('selectedServer');
+  if (savedServer) {
+    const tab = document.querySelector(`.server-tab[data-server-id="${savedServer}"]`);
+    if (tab) {
+      (tab as HTMLButtonElement).click();
+    }
+  }
+</script>
