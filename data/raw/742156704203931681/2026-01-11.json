@@ -1,0 +1,328 @@
+{
+  "date": "2026-01-11",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "collectedAt": "2026-01-11T05:56:57.657Z",
+  "messages": [
+    {
+      "id": "1459741045180072103",
+      "serverId": "742156704203931681",
+      "content": "gtk that",
+      "author": {
+        "id": "1447948101523476677",
+        "username": "azibch",
+        "displayName": "Azzii"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-11T02:49:45.848Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1459722426471420158",
+      "serverId": "742156704203931681",
+      "content": "Spend 0 time on it and hire somebody that know it. It's a more effective use of time.",
+      "author": {
+        "id": "812207270041354241",
+        "username": "cm84.",
+        "displayName": "cm84"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-11T01:35:46.802Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1459682245366255677",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "945887783090794547",
+        "username": "jeremyd0147",
+        "displayName": "Jeremy"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-10T22:56:06.880Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1459669488399028425",
+      "serverId": "742156704203931681",
+      "content": "I'm an expert",
+      "author": {
+        "id": "1250149255633440829",
+        "username": "neuralic",
+        "displayName": "Neuralic"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-10T22:05:25.382Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1459668474023510088",
+      "serverId": "742156704203931681",
+      "content": "Tbh, building a pyramid would be easier than this. Why don’t you share your method, and I can tell you where you can do better?",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-10T22:01:23.536Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1459657688794267710",
+      "serverId": "742156704203931681",
+      "content": "I’m not a full-time web dev, but I do help with data-heavy setups (forms, Sheets, CSVs, basic integrations).\nWhat are you trying to build?",
+      "author": {
+        "id": "1456590944743981056",
+        "username": "yany_automation",
+        "displayName": "Yany"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-10T21:18:32.137Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1459592499323605073",
+      "serverId": "742156704203931681",
+      "content": "could you tell me how did you run backlink campaign in detail? I am very interested",
+      "author": {
+        "id": "198706654332583936",
+        "username": "soulmoons",
+        "displayName": "Soulmoons"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-10T16:59:29.756Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1459517786916393064",
+      "serverId": "742156704203931681",
+      "content": "Hey is there any BEGINNER web developer here?",
+      "author": {
+        "id": "1326336647037587468",
+        "username": "intiyaz_68759",
+        "displayName": "intiyaz Shaik (Adam)"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-10T12:02:36.930Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1459500763179909245",
+      "serverId": "742156704203931681",
+      "content": "I don’t run an SMMA, but I work with AI automations.\nYou can use AI mainly for:\n\nDM/chatbot automation to qualify leads and book calls\nand automate email marketing with personalization",
+      "author": {
+        "id": "1457066640490365175",
+        "username": "immortal_008",
+        "displayName": "IMMORTAL"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-10T10:54:58.155Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1459494864067760355",
+      "serverId": "742156704203931681",
+      "content": "Hey. What are the ways that you guys are using AI in your SMMA businesses?",
+      "author": {
+        "id": "683906420005142538",
+        "username": "legenddeep",
+        "displayName": "legenddeep"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-10T10:31:31.697Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1459486610411229387",
+      "serverId": "742156704203931681",
+      "content": "100%, and use Ask Reddit too",
+      "author": {
+        "id": "989673885844799538",
+        "username": "alinaqvi99",
+        "displayName": "Ali Naqvi"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-10T09:58:43.872Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1459483028643381380",
+      "serverId": "742156704203931681",
+      "content": "do it with perplexity and also use grok to see what are people talking about this based on the posts grok can find on this topic, this way you will find and understand patterns based on real convos from people.",
+      "author": {
+        "id": "803268259281371147",
+        "username": "aaa.tech.product",
+        "displayName": "AaA | Tech & Automations"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-10T09:44:29.912Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1459454763677647027",
+      "serverId": "742156704203931681",
+      "content": "Try veo3, and grok on official sites.\nBest free IMO",
+      "author": {
+        "id": "989673885844799538",
+        "username": "alinaqvi99",
+        "displayName": "Ali Naqvi"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-10T07:52:11.019Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1457798334444994581",
+      "serverId": "742156704203931681",
+      "content": "besides...authority is a really shit metric. you can't really measure it",
+      "author": {
+        "id": "119170167136583680",
+        "username": "ph1l",
+        "displayName": "ph1l"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-05T18:10:07.515Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "1457760609071403008",
+      "serverId": "742156704203931681",
+      "content": "There are multiple ways for that. Content is still very important, and shareable content even more. Without budget, it's important to create value for the user. Users like to talk about your content and love to share it. You'll get backlinks pretty natural that way. Another way is using reddit, which is a topic of it's own. Building a fanbase of users is always important, but that's more marketing than SEO related (even though it's pretty much interconnected).\nif the budget they're paying goes directly to you, but they don't want to pay for backlinks directly, start working on building up a network for them (PR Work). It will help them in the long run, but you need to do this whitelabeled (best with an email adress of the client). But overall, with small clients, it's better to focus on the basics",
+      "author": {
+        "id": "119170167136583680",
+        "username": "ph1l",
+        "displayName": "ph1l"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-05T15:40:13.085Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1457354471918145741",
+      "serverId": "742156704203931681",
+      "content": "Working on a new project called **AI Stack** because I think there is so much we can learn from other founders and how they use their AI tools.\n\nSome impressions of the landing page I'm working on:",
+      "author": {
+        "id": "269541496384913409",
+        "username": "alp82",
+        "displayName": "Alper"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-04T12:46:22.442Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1449460597216383076",
+      "serverId": "742156704203931681",
+      "content": "If you can, go through <#1310603650518749297> to understand the community better and if you see yourself fitting in. This is a minor episode but everything from hereon shapes how we view you, just be you and temporarily forget about getting a job here",
+      "author": {
+        "id": "1125226612045131777",
+        "username": "thebrandexperience",
+        "displayName": "Adam"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-13T17:58:56.052Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1448705751605579807",
+      "serverId": "742156704203931681",
+      "content": "Here's 10 ways to lose weight,  brought to you by Corn Syrup",
+      "author": {
+        "id": "945887783090794547",
+        "username": "jeremyd0147",
+        "displayName": "Jeremy"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-11T15:59:26.834Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1445729316062367846",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1050052480756633680",
+        "username": "DAOWL",
+        "displayName": "DAOWL"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-03T10:52:09.301Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "1427481097372958794",
+      "serverId": "742156704203931681",
+      "content": "It stands for SEO",
+      "author": {
+        "id": "802297330333646858",
+        "username": "nalagori",
+        "displayName": "Kixia [RoD, DoD, Toril]"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-10-14T02:20:14.930Z",
+      "reactionCount": 5,
+      "replyCount": 0
+    }
+  ]
+}

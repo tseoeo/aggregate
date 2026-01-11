@@ -1,0 +1,127 @@
+{
+  "date": "2026-01-11",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - January 11, 2026",
+  "generatedAt": "2026-01-11T05:59:07.128Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "active",
+      "summary": "Discussion on practical, low-budget SEO approaches, focusing on content-based backlink strategies, skepticism about authority metrics, and suggestions to either learn or outsource backlink campaigns.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "Content-led backlink strategy without budget",
+          "details": "Explains that high‑value, shareable content is key for organic backlink acquisition when you lack budget. Emphasizes creating genuine user value so people naturally talk about and share your content, and mentions using Reddit as a separate, powerful channel plus building a fanbase as a broader marketing effort.",
+          "link": null,
+          "messageId": "1457760609071403008",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1457760609071403008"
+        },
+        {
+          "type": "discussion",
+          "title": "Skepticism about using authority as a core SEO metric",
+          "details": "Argues that 'authority' is a poor and hard‑to‑measure metric, implying SEOs should not over‑optimize around abstract authority scores and instead focus on more concrete levers like content and user value.",
+          "link": null,
+          "messageId": "1457798334444994581",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1457798334444994581"
+        },
+        {
+          "type": "discussion",
+          "title": "Advice on handling backlink campaigns",
+          "details": "One member asks for detailed methods on running a backlink campaign, while another suggests that the most effective use of time may be to outsource SEO to someone experienced rather than DIY, highlighting the complexity and time cost of backlink work.",
+          "link": null,
+          "messageId": "1459722426471420158",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1459722426471420158"
+        }
+      ],
+      "mentions": [
+        "ph1l",
+        "Hamza",
+        "cm84",
+        "Soulmoons",
+        "Reddit",
+        "SEO",
+        "backlink campaigns"
+      ]
+    },
+    {
+      "channel": "📊│geo",
+      "status": "not-important",
+      "summary": "Light, mostly off-topic chatter including a clarification that an acronym stands for SEO, a note about reading another channel to understand the community, and a joking weight-loss remark; no substantive geo or technical discussion."
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Active conversation about AI projects, how agencies use AI for automation, recommendations for specific AI tools (Perplexity, Grok, Veo3), and a request for beginner-friendly web development help related to AI setups.",
+      "highlights": [
+        {
+          "type": "tool",
+          "title": "AI Stack project for sharing founder AI workflows",
+          "details": "A member is building 'AI Stack', a project and landing page aimed at showcasing how different founders use their AI tools, with the goal of letting others learn from real-world AI workflows and tool stacks.",
+          "link": null,
+          "messageId": "1457354471918145741",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1457354471918145741"
+        },
+        {
+          "type": "discussion",
+          "title": "Using AI for SMMA automations",
+          "details": "Outlines practical AI use cases for social media marketing agencies, focusing on DM/chatbot automation to qualify leads and book calls, and automated but personalized email marketing, positioning AI as a way to streamline lead gen and nurture.",
+          "link": null,
+          "messageId": "1459500763179909245",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1459500763179909245"
+        },
+        {
+          "type": "research",
+          "title": "Leveraging Perplexity and Grok plus Reddit content for market insights",
+          "details": "Recommends using Perplexity for research and Grok to analyze what people are saying about a topic based on real posts. Suggests pairing this with Reddit (including AskReddit) to detect patterns in real conversations, helping understand audience interests and pain points.",
+          "link": null,
+          "messageId": "1459483028643381380",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1459483028643381380"
+        },
+        {
+          "type": "resource",
+          "title": "Free AI tools: Veo3 and Grok",
+          "details": "Mentions Veo3 and Grok (via their official sites) as strong free AI options, implying they are useful starting points for users exploring AI tools without budget.",
+          "link": null,
+          "messageId": "1459454763677647027",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1459454763677647027"
+        },
+        {
+          "type": "discussion",
+          "title": "Beginner web development help for data-heavy AI setups",
+          "details": "A user asks for beginner web developers, and another offers help specifically with data-heavy configurations like forms, Google Sheets, CSVs, and basic integrations, relevant for simple AI-powered or automation-heavy projects.",
+          "link": null,
+          "messageId": "1459657688794267710",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1459657688794267710"
+        }
+      ],
+      "mentions": [
+        "Alper",
+        "AI Stack",
+        "IMMORTAL",
+        "legenddeep",
+        "AaA | Tech & Automations",
+        "Ali Naqvi",
+        "Yany",
+        "Perplexity",
+        "Grok",
+        "Veo3",
+        "Reddit",
+        "AskReddit",
+        "SMMA",
+        "chatbots",
+        "email marketing automation"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 20,
+    "activeChannels": 2,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}
