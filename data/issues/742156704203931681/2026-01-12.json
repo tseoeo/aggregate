@@ -1,0 +1,82 @@
+{
+  "date": "2026-01-12",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - January 12, 2026",
+  "generatedAt": "2026-01-12T03:33:04.041Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "active",
+      "summary": "Discussion on practical SEO link-building via valuable, shareable content and Reddit, skepticism about 'authority' as a metric, plus a shared article on Google’s new agentic commerce tools.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "Organic backlink strategies and the limits of 'authority' metrics",
+          "details": "ph1l emphasizes creating user-value and highly shareable content to earn natural backlinks without budget, including leveraging Reddit and building a fanbase, while criticizing 'authority' as an unreliable SEO metric.",
+          "link": "",
+          "messageId": "1457760609071403008",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1457760609071403008"
+        },
+        {
+          "type": "news",
+          "title": "Google’s new tech and tools for agentic commerce",
+          "details": "Shared article covering Google’s latest technologies and tools aimed at enabling more automated, agentic commerce workflows, relevant for SEO and e‑commerce strategy planning.",
+          "link": "https://juniortoexpert.com/en/googles-new-tech-and-tools-for-agentic-commerce/",
+          "messageId": "1460063997364535369",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1460063997364535369"
+        }
+      ],
+      "mentions": [
+        "Google",
+        "Reddit",
+        "SEO",
+        "agentic commerce",
+        "backlinks"
+      ]
+    },
+    {
+      "channel": "📊│geo",
+      "status": "not-important",
+      "summary": "Light chat including a clarification that an acronym stands for SEO, a general note about getting to know the community, and a humorous comment about weight loss."
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Conversation about a new founder-focused AI project and a shared resource on the state of AI agents, plus a brief moderation note about spam.",
+      "highlights": [
+        {
+          "type": "tool",
+          "title": "AI Stack – founder use-cases for AI tools",
+          "details": "Alper introduces 'AI Stack', a new project/landing page aimed at showcasing how different founders use their AI tools, to help others learn from real-world AI workflows.",
+          "link": "",
+          "messageId": "1457354471918145741",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1457354471918145741"
+        },
+        {
+          "type": "research",
+          "title": "Thread on the current state of AI agents",
+          "details": "Alper shares an X (Twitter) post described as a strong overview of the current landscape and progress of AI agents, useful for staying updated on agent capabilities and trends.",
+          "link": "https://x.com/i/status/2009148543022379398",
+          "messageId": "1459806841868386427",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1459806841868386427"
+        }
+      ],
+      "mentions": [
+        "AI Stack",
+        "AI agents",
+        "founders",
+        "X (Twitter)"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 11,
+    "activeChannels": 2,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}
