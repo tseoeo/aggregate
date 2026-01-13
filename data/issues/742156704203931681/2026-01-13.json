@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-13",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - January 13, 2026",
+  "generatedAt": "2026-01-13T03:25:01.478Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "active",
+      "summary": "Ongoing discussion about practical SEO tactics: building backlinks without budget through valuable content, structuring sites (including blogs and multi-language pages), and using hub-based internal linking to strengthen key pages.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "Using valuable, shareable content and Reddit to earn natural backlinks",
+          "details": "ph1l explains that without budget, SEO should focus on creating high-value, shareable content that users naturally talk about and link to. They suggest leveraging Reddit and building a fanbase to generate organic backlinks rather than chasing abstract metrics like 'authority.'",
+          "link": "",
+          "messageId": "1457760609071403008",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1457760609071403008"
+        },
+        {
+          "type": "discussion",
+          "title": "Applying a HUB strategy to strengthen important pages",
+          "details": "Hamza recommends a HUB strategy for site structure: organizing related content around key hub pages to boost their authority, keep content fresh, and improve indexability, especially for tools or service-based websites.",
+          "link": "",
+          "messageId": "1460370684352921610",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1460370684352921610"
+        },
+        {
+          "type": "discussion",
+          "title": "Scaling multi-language pages and indexing",
+          "details": "Mateusz discusses finishing and indexing multiple language versions of pages to see how much traffic impact this internationalization effort will have.",
+          "link": "",
+          "messageId": "1460361749265121342",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1460361749265121342"
+        }
+      ],
+      "mentions": [
+        "ph1l",
+        "Hamza",
+        "Mateusz Kielbasa",
+        "Valentina | basicpitch.vc",
+        "M. Talha",
+        "Saboor - SEO",
+        "Ali | A.i Consultant | Founder",
+        "Reddit",
+        "HUB strategy"
+      ]
+    },
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Light general chat plus an invite to a session on rapidly improving brand visibility in AI search results using a researched playbook and the Spotlight tool.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "Playbook to grow brand visibility in AI results from 0% to 20% in 2 weeks",
+          "details": "Michael shares that after a year of research across millions of prompt responses for 1000+ brands, he has a proven playbook for rapidly increasing brand visibility in AI-generated answers. He invites members to a session on doing this with free tools and how Spotlight can automate parts of the process.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "Kixia [RoD, DoD, Toril]",
+        "Adam",
+        "Jeremy",
+        "Spotlight"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Brief updates about AI tooling: a new project to showcase founders' AI stacks and a shared X/Twitter post related to AI.",
+      "highlights": [
+        {
+          "type": "tool",
+          "title": "AI Stack – showcasing how founders use AI tools",
+          "details": "Alper is building a project called AI Stack with a landing page that aims to share how different founders use their AI tools, enabling others to learn from real-world AI workflows.",
+          "link": "",
+          "messageId": "1457354471918145741",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1457354471918145741"
+        },
+        {
+          "type": "resource",
+          "title": "Shared AI-related X/Twitter post",
+          "details": "Bhavya shares an X/Twitter status link; the specific content isn't described in the message but is likely AI-related given the channel context.",
+          "link": "https://x.com/i/status/2010327404322103631",
+          "messageId": "1460133556079693895",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1460133556079693895"
+        }
+      ],
+      "mentions": [
+        "Alper",
+        "Bhavya",
+        "AI Stack",
+        "X (Twitter)"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 36,
+    "activeChannels": 3,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}
