@@ -1,0 +1,180 @@
+{
+  "date": "2026-01-14",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - January 14, 2026",
+  "generatedAt": "2026-01-14T03:33:14.513Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "active",
+      "summary": "Ongoing discussion about future of SEO in an LLM/zero-click world, plus a new Notion-based SEO freelancer dashboard, tooling ideas, and tactics for content, backlinks, and technical setup.",
+      "highlights": [
+        {
+          "type": "tool",
+          "title": "SEO Freelancer Notion Dashboard (CRM + reporting + task management)",
+          "details": "ph1l introduced a Notion-based dashboard aimed at solo SEOs and freelancers with 5–20 clients. It functions as a lightweight CRM, reporting hub, and task management system so you don’t miss client meetings or report deadlines. ph1l is selling it and also looking for 2–3 SEO freelancer test users who lack a CRM or want more structure.",
+          "link": "",
+          "messageId": "1460601548987170970",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1460601548987170970"
+        },
+        {
+          "type": "discussion",
+          "title": "Content-led link building and community-based promotion (incl. Reddit)",
+          "details": "ph1l emphasized that for low-budget SEO, the priority is creating genuinely valuable, shareable content that users want to talk about and link to. Natural backlinks follow from utility and shareability. Reddit was mentioned as a separate, powerful topic for distribution and community building, and building a fanbase was framed as a broader marketing goal.",
+          "link": "",
+          "messageId": "1457760609071403008",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1457760609071403008"
+        },
+        {
+          "type": "tool",
+          "title": "Query finder tool concept using Search Console & Bing Webmaster",
+          "details": "Soulmoons floated an idea for a 'query finder tool': you provide blog URLs, it scrapes the content, then compares it to data from Google Search Console and Bing Webmaster Tools to surface new queries and opportunities. This would help align existing content with real search demand and uncover gaps.",
+          "link": "",
+          "messageId": "1460549637722083418",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1460549637722083418"
+        },
+        {
+          "type": "tool",
+          "title": "Using Screaming Frog with custom JavaScript for advanced SEO tasks",
+          "details": "ph1l suggested that some complex SEO checks or automations could be implemented via Screaming Frog combined with custom JavaScript, highlighting that the crawler can be extended for specialized analyses beyond its default features.",
+          "link": "",
+          "messageId": "1460552487932137584",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1460552487932137584"
+        },
+        {
+          "type": "discussion",
+          "title": "Impact of LLMs and zero-click results on SEO traffic",
+          "details": "Soulmoons predicted that SEO traffic will continue to decline by 2026 as LLMs replace many informational searches, especially broad 'what is X' content at the top of the funnel. ph1l agreed, citing Eli’s predictions and arguing that Google is 'killing kiosk search' as everything shifts to zero-click experiences. The consensus was that 'doing good SEO' still works for now, but strategies will need to adapt to survive in this environment.",
+          "link": "",
+          "messageId": "1460587028776226921",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1460587028776226921"
+        }
+      ],
+      "mentions": [
+        "ph1l",
+        "Soulmoons",
+        "Eli (SEO commentator)",
+        "Google",
+        "Reddit",
+        "Screaming Frog",
+        "Notion",
+        "Google Search Console",
+        "Bing Webmaster Tools",
+        "LLMs",
+        "SEO freelancers",
+        "Solo-SEOs",
+        "Newsletters"
+      ]
+    },
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Brief discussion around a GEO visibility playbook and skepticism about its effectiveness versus strong traditional SEO in a rapidly changing AI landscape.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "GEO visibility playbook and Spotlight automation",
+          "details": "Michael announced a free session sharing a proven playbook for taking a brand from 0% to 20% visibility in two weeks in generative engines, based on analysis of millions of prompt responses across 1,000+ brands. The process can be executed with free tools, and his product Spotlight can automate it. A Google Forms link was shared for sign-ups.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        },
+        {
+          "type": "discussion",
+          "title": "Is strong SEO enough vs. specialized GEO playbooks?",
+          "details": "Kevin questioned how effective GEO-style playbooks will remain given rapid AI updates, asking whether having a 'really good SEO' might be sufficient and expressing skepticism about the durability of such frameworks.",
+          "link": "",
+          "messageId": "1460737075283497114",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1460737075283497114"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "Kevin Sakemaer",
+        "Adam",
+        "Jeremy",
+        "Kixia [RoD, DoD, Toril]",
+        "Spotlight",
+        "SEO",
+        "AI"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Channel used for networking between AI practitioners and showcasing small AI tools: IDE integration with Claude Code, a Google review automation bot, and an automated YouTube video creator app.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "Networking call for AI-based operations and marketing optimization",
+          "details": "Adam invited members who work on optimizing business operations and marketing with AI to connect with him directly via friend requests, positioning this channel as a place for practitioners to collaborate and share applied AI workflows.",
+          "link": "",
+          "messageId": "1460746099995185172",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1460746099995185172"
+        },
+        {
+          "type": "tool",
+          "title": "IDE integrating Claude Code for operations and marketing automation",
+          "details": "Alan mentioned building an IDE that integrates Claude Code to run operations and marketing workflows, indicating a custom development environment where LLM-powered code and automations are embedded directly into business tooling.",
+          "link": "",
+          "messageId": "1460746398675898419",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1460746398675898419"
+        },
+        {
+          "type": "tool",
+          "title": "Google review automation bot for businesses",
+          "details": "xlomxe shared that they run a Google review automation bot for businesses, suggesting a tool that helps companies programmatically manage or generate Google reviews as part of their reputation or growth strategy.",
+          "link": "",
+          "messageId": "1460746286557822976",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1460746286557822976"
+        },
+        {
+          "type": "tool",
+          "title": "Automated YouTube video creator app",
+          "details": "animusz mentioned having built an automated YouTube video creator app (shared alongside a meme GIF), implying a system that can generate YouTube content programmatically, likely using AI for scripting, voice, or editing.",
+          "link": "https://tenor.com/view/sussy-cant-prove-it-dexter-meme-watching-you-gif-9798020366711361227",
+          "messageId": "1460768099295821844",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1460768099295821844"
+        },
+        {
+          "type": "discussion",
+          "title": "AI/ML engineer availability for computer vision and LLM integrations",
+          "details": "celin1343 introduced themselves as an AI/ML Engineer specialized in computer vision, also open to work on data analysis and specialized LLM integrations, offering expertise for members needing engineering support.",
+          "link": "",
+          "messageId": "1460753148191965194",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1460753148191965194"
+        }
+      ],
+      "mentions": [
+        "Adam",
+        "Alan",
+        "xlomxe",
+        "animusz",
+        "{Lorcan}",
+        "Jay Φ",
+        "Mohammad",
+        "Weeesy",
+        "celin1343",
+        "Akshay",
+        "Claude Code",
+        "Google Reviews",
+        "YouTube",
+        "AI tools",
+        "Operations automation",
+        "Marketing automation",
+        "Computer vision",
+        "LLM integrations"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 109,
+    "activeChannels": 3,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}
