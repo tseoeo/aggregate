@@ -1,0 +1,713 @@
+{
+  "date": "2026-01-20",
+  "serverId": "709752884257882135",
+  "serverName": "Bellingcat",
+  "title": "Bellingcat - January 20, 2026",
+  "generatedAt": "2026-01-20T03:29:50.687Z",
+  "channels": [
+    {
+      "channel": "academia",
+      "status": "active",
+      "summary": "Channel used to share academic OSINT resources, articles on methodology and ethics, and news affecting research and survey data quality.",
+      "highlights": [
+        {
+          "type": "news",
+          "title": "Reuters Institute article on open-source reporting in the Israel–Hamas war",
+          "details": "Reuters Institute piece examining both the power and limits of open-source reporting in covering the Israel–Hamas conflict was shared as a teaching resource for OSINT courses.",
+          "link": "https://reutersinstitute.politics.ox.ac.uk/news/israel-gaza-war-highlights-power-and-limits-open-source-reporting",
+          "messageId": "1349866067148800011",
+          "discordLink": "https://discord.com/channels/709752884257882135/810331796960444466/1349866067148800011"
+        },
+        {
+          "type": "research",
+          "title": "404 Media: AI agent that evades online survey detection",
+          "details": "Article describing a research AI agent that can complete online surveys while evading bot-detection 99.8% of the time, raising concerns about AI poisoning academic survey data and the wider knowledge ecosystem.",
+          "link": "https://www.404media.co/a-researcher-made-an-ai-that-completely-breaks-the-online-surveys-scientists-rely-on/",
+          "messageId": "1440089080934174722",
+          "discordLink": "https://discord.com/channels/709752884257882135/810331796960444466/1440089080934174722"
+        },
+        {
+          "type": "resource",
+          "title": "Utrecht University Open Source Global Justice Investigations Lab",
+          "details": "Link to Utrecht University’s lab focused on open-source investigations for global justice, useful for students and academics working on accountability and international law.",
+          "link": "https://www.uu.nl/en/research/institutions-for-open-societies/contesting-governance/projects/open-source-global-justice-investigations-lab",
+          "messageId": "1425879853038829699",
+          "discordLink": "https://discord.com/channels/709752884257882135/810331796960444466/1425879853038829699"
+        },
+        {
+          "type": "resource",
+          "title": "Queen’s Belfast GLAN programme",
+          "details": "Shared link to the Queen’s University Belfast School of Law programme associated with GLAN, relevant for those interested in legal aspects of open-source investigations.",
+          "link": "https://www.qub.ac.uk/schools/SchoolofLaw/news/GLAN.html",
+          "messageId": "1425880542863429665",
+          "discordLink": "https://discord.com/channels/709752884257882135/810331796960444466/1425880542863429665"
+        },
+        {
+          "type": "resource",
+          "title": "Stage Talks with Bellingcat podcast RSS feed",
+          "details": "RSS feed for Bellingcat’s Stage Talk recordings was shared as a place to catch up on talks relevant to academic OSINT and methods.",
+          "link": "https://media.rss.com/bellingcatstagetalk/feed.xml",
+          "messageId": "1425876488271564820",
+          "discordLink": "https://discord.com/channels/709752884257882135/810331796960444466/1425876488271564820"
+        },
+        {
+          "type": "discussion",
+          "title": "Ethics of death voyeurism in media coverage",
+          "details": "New York Times opinion and Guardian photography-criticism pieces were shared to prompt discussion of ‘death voyeurism’ and ethical issues around moment-of-death imagery in journalism and awards.",
+          "link": "https://www.nytimes.com/2025/09/13/opinion/the-flood-of-moment-of-death-videos-is-killing-us.html?unlocked_article_code=1.lk8.Uyen.Po4PAwGAKCQH&smid=url-share",
+          "messageId": "1424122016889307187",
+          "discordLink": "https://discord.com/channels/709752884257882135/810331796960444466/1424122016889307187"
+        },
+        {
+          "type": "news",
+          "title": "Terence Tao statement on research suspension rumors",
+          "details": "A Mathstodon post by mathematician Terence Tao was shared in response to rumors that his research had been suspended in connection with political actions against UCLA, providing a primary source update.",
+          "link": "https://mathstodon.xyz/@tao/114956840959338146",
+          "messageId": "1401264645087559861",
+          "discordLink": "https://discord.com/channels/709752884257882135/810331796960444466/1401264645087559861"
+        },
+        {
+          "type": "research",
+          "title": "Nature News article d41586-025-00938-y",
+          "details": "A Nature News article (ID d41586-025-00938-y) was shared for additional academic context, though without discussion of details in-channel.",
+          "link": "https://www.nature.com/articles/d41586-025-00938-y?linkId=13683692",
+          "messageId": "1356106336638861412",
+          "discordLink": "https://discord.com/channels/709752884257882135/810331796960444466/1356106336638861412"
+        }
+      ],
+      "mentions": [
+        "Bellingcat",
+        "Reuters Institute for the Study of Journalism",
+        "Utrecht University",
+        "Open Source Global Justice Investigations Lab",
+        "Queen’s University Belfast School of Law",
+        "GLAN",
+        "New York Times",
+        "The Guardian",
+        "Terence Tao",
+        "Mathstodon",
+        "Nature",
+        "NSF",
+        "HUD",
+        "VA"
+      ]
+    },
+    {
+      "channel": "announcements",
+      "status": "active",
+      "summary": "Central hub for official Bellingcat server updates, event announcements, investigations, and community opportunities.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "Stage Talk with Mareike Vitt on funding investigative work",
+          "details": "Announcement of a Stage Talk with Bellingcat’s fundraiser Mareike Vitt on practical ways to fund open-source research projects and ‘your own Bellingcat’.",
+          "link": "",
+          "messageId": "1338574889312849970",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1338574889312849970"
+        },
+        {
+          "type": "research",
+          "title": "Investigation of federal enforcement in Washington, DC",
+          "details": "Update on a project documenting federal enforcement actions in Washington, DC, verifying 42 encounters in less than a month of federal control, many involving DC police.",
+          "link": "",
+          "messageId": "1414684914607067246",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1414684914607067246"
+        },
+        {
+          "type": "resource",
+          "title": "Stage Talk on Identifying Explosive Ordnance (EO)",
+          "details": "Recording of a Stage Talk on identifying explosive ordnance and current EO use in conflicts, shared as an educational resource via the podcast feed.",
+          "link": "",
+          "messageId": "1356301706207694988",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1356301706207694988"
+        },
+        {
+          "type": "resource",
+          "title": "Open Source Munitions Portal Stage Talk and podcast",
+          "details": "Link to the Stage Talk recording on the Open Source Munitions Portal, covering how to use the portal for ordnance identification and conflict research.",
+          "link": "https://rss.com/podcasts/bellingcatstagetalk/1945244",
+          "messageId": "1351258682037633135",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1351258682037633135"
+        },
+        {
+          "type": "resource",
+          "title": "Bellingcat cold-case murder investigation video",
+          "details": "Video featuring a Bellingcat researcher showing how open-source methods can uncover details about decades-old murders involving mafia, gamblers, and pigeons.",
+          "link": "https://youtu.be/TZcWblhJc_k",
+          "messageId": "1379127900426604645",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1379127900426604645"
+        },
+        {
+          "type": "tool",
+          "title": "Bellingcat Open Source Challenges platform",
+          "details": "Multiple announcements highlighted the challenge.bellingcat.com platform where users can attempt OSINT puzzles and discuss solutions in dedicated server channels.",
+          "link": "https://challenge.bellingcat.com/",
+          "messageId": "1348703570752442472",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1348703570752442472"
+        },
+        {
+          "type": "research",
+          "title": "Investigation of grain imports from a sanctioned Crimean port to Saudi Arabia",
+          "details": "Bellingcat and Lloyd’s List uncovered another case of Russia’s shadow fleet shipping grain directly from a sanctioned port in occupied Crimea to Saudi Arabia.",
+          "link": "",
+          "messageId": "1450177518270156830",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1450177518270156830"
+        },
+        {
+          "type": "research",
+          "title": "Tracking a US federal agent’s movements with less-lethal weapon",
+          "details": "Announcement of an investigation with Evident Media that reconstructs the movements of one federal agent wielding a less-lethal weapon at protests using open-source methods.",
+          "link": "",
+          "messageId": "1462873559197024493",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1462873559197024493"
+        },
+        {
+          "type": "discussion",
+          "title": "Stage Talk with DoubleThinkLab on FIMI and inauthentic accounts",
+          "details": "Promotion of a Stage Talk with Jasper Hewitt of DoubleThinkLab on monitoring inauthentic accounts and investigating Foreign Information Manipulation and Interference (FIMI).",
+          "link": "https://doublethinklab.org/",
+          "messageId": "1369333753163419779",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1369333753163419779"
+        },
+        {
+          "type": "discussion",
+          "title": "Dedicated forum post for Epstein-related content",
+          "details": "Moderation update creating a dedicated, mute-able forum thread for Epstein-related discussion as a harm-reduction measure for the community.",
+          "link": "",
+          "messageId": "1398291788162404353",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1398291788162404353"
+        },
+        {
+          "type": "resource",
+          "title": "Stage Talk on using OSINT to investigate murder mysteries",
+          "details": "Announcement of a Stage Talk with Bellingcat’s Peter Barth on applying open-source techniques to historical murder cases.",
+          "link": "",
+          "messageId": "1389273701328883795",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1389273701328883795"
+        },
+        {
+          "type": "research",
+          "title": "Call for wildlife and environment investigations",
+          "details": "Bellingcat invited submissions of open-source investigations on wildlife and environmental topics, stressing that contributors need not be journalists but must meet rigorous fact-checking standards.",
+          "link": "",
+          "messageId": "1349713257593704491",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1349713257593704491"
+        }
+      ],
+      "mentions": [
+        "Bellingcat",
+        "Mareike Vitt",
+        "Lloyd’s List",
+        "Evident Media",
+        "DoubleThinkLab",
+        "Jasper Hewitt",
+        "Peter Barth",
+        "Open Source Munitions Portal",
+        "Stage Talks with Bellingcat",
+        "Bellingcat Open Source Challenge"
+      ]
+    },
+    {
+      "channel": "apac-geolocation",
+      "status": "active",
+      "summary": "Light but focused activity on potential geolocation targets in the Asia-Pacific region.",
+      "highlights": [
+        {
+          "type": "research",
+          "title": "Suspected airship/balloon infrastructure in remote China",
+          "details": "User noted interesting hangars and a mooring pole for airships/balloons in a remote part of China, suggesting further satellite imagery analysis.",
+          "link": "",
+          "messageId": "1075300938920767508",
+          "discordLink": "https://discord.com/channels/709752884257882135/1001117381910868058/1075300938920767508"
+        },
+        {
+          "type": "research",
+          "title": "Geolocation comparison of two islands off Myanmar",
+          "details": "Link shared inviting others to compare imagery of two islands off the coast of Myanmar as a geolocation challenge.",
+          "link": "https://discord.com/channels/709752884257882135/1087357245400035350/1095335119721603132",
+          "messageId": "1095336176979804160",
+          "discordLink": "https://discord.com/channels/709752884257882135/1001117381910868058/1095336176979804160"
+        }
+      ],
+      "mentions": [
+        "China",
+        "Myanmar"
+      ]
+    },
+    {
+      "channel": "art-crime",
+      "status": "active",
+      "summary": "Channel shared investigative resources and news on cultural heritage crime, as well as practical tips for research.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "Harvard Law School Library’s digitized Nuremberg Trials collection",
+          "details": "Announcement that Harvard Law School Library has released the full, searchable English-language evidentiary documents and transcripts from all 13 Nuremberg Trials, a major resource for WWII-era restitution and provenance claims.",
+          "link": "https://nuremberg.law.harvard.edu",
+          "messageId": "1441452256284381276",
+          "discordLink": "https://discord.com/channels/709752884257882135/1314267278535036988/1441452256284381276"
+        },
+        {
+          "type": "news",
+          "title": "Europol-coordinated takedown of cultural goods trafficking network",
+          "details": "Europol press release shared about a Bulgarian-led operation dismantling a large criminal network trafficking cultural goods across Europe and beyond.",
+          "link": "https://www.europol.europa.eu/media-press/newsroom/news/35-arrests-in-bulgaria-in-large-art-trafficking-investigation?utm_term=press-releases-just-published",
+          "messageId": "1441100897471037601",
+          "discordLink": "https://discord.com/channels/709752884257882135/1314267278535036988/1441100897471037601"
+        },
+        {
+          "type": "resource",
+          "title": "IFAR publications now free on Internet Archive",
+          "details": "News that formerly paywalled International Foundation for Art Research (IFAR) publications are now digitized and freely available on Internet Archive, providing rich historical data for attribution and provenance research.",
+          "link": "",
+          "messageId": "1439527787781423114",
+          "discordLink": "https://discord.com/channels/709752884257882135/1314267278535036988/1439527787781423114"
+        },
+        {
+          "type": "news",
+          "title": "US disbands cultural property investigations in favor of immigration enforcement",
+          "details": "Denver Post article shared about Homeland Security’s Cultural Property, Art and Antiquities program being effectively dismantled as agents are reassigned to immigration enforcement.",
+          "link": "https://www.denverpost.com/2025/11/06/us-disbands-cultural-property-investigations-immigration/",
+          "messageId": "1436280668714700863",
+          "discordLink": "https://discord.com/channels/709752884257882135/1314267278535036988/1436280668714700863"
+        },
+        {
+          "type": "resource",
+          "title": "Advice on accessing out-of-print art crime books",
+          "details": "Tip that contacting authors directly can sometimes yield drafts of out-of-print books when market prices become prohibitive, useful for researchers on a budget.",
+          "link": "",
+          "messageId": "1450438386094571660",
+          "discordLink": "https://discord.com/channels/709752884257882135/1314267278535036988/1450438386094571660"
+        }
+      ],
+      "mentions": [
+        "Harvard Law School Library",
+        "Nuremberg Trials",
+        "Europol",
+        "International Foundation for Art Research (IFAR)",
+        "Internet Archive",
+        "MOLA",
+        "Lisa Zeballos",
+        "Homeland Security Cultural Property, Art and Antiquities program",
+        "Denver Post",
+        "Mário de Andrade Library",
+        "Metropolitan Museum of Art",
+        "ARCA"
+      ]
+    },
+    {
+      "channel": "asia-pacific",
+      "status": "active",
+      "summary": "Discussion mixed political history, human rights, and organized crime in the Asia–Pacific region, with several in-depth news links.",
+      "highlights": [
+        {
+          "type": "news",
+          "title": "New York Times piece on Chinese general linked to Tiananmen Square",
+          "details": "A New York Times article on a Chinese general associated with the Tiananmen Square crackdown was shared for regional political context.",
+          "link": "https://www.nytimes.com/2025/12/17/world/asia/china-general-tiananmen-square.html?unlocked_article_code=1.9U8.MEIG.wX9ffc5YVIsY&smid=nytcore-ios-share",
+          "messageId": "1450910543564111932",
+          "discordLink": "https://discord.com/channels/709752884257882135/709783693857783929/1450910543564111932"
+        },
+        {
+          "type": "discussion",
+          "title": "Distinguishing antisemitism from criticism of the State of Israel",
+          "details": "Users debated how opposition to Israeli state policies is often conflated with antisemitism, citing Neturei Karta and Satmar Hasidic communities and Joel Teitelbaum as examples of anti-Zionist yet Jewish positions.",
+          "link": "",
+          "messageId": "1450092666086887515",
+          "discordLink": "https://discord.com/channels/709752884257882135/709783693857783929/1450092666086887515"
+        },
+        {
+          "type": "news",
+          "title": "Deportation of Cambodian tycoon Chen Zhi and Prince Group’s role in pig-butchering scams",
+          "details": "Article shared about Cambodian tycoon Chen Zhi (Vincent Chen), founder of Prince Holding Group, being deported to China amid allegations of human trafficking, forced labor, and financial crimes linked to pig-butchering scams.",
+          "link": "https://www.thestandard.com.hk/china-news/article/321019/Cambodian-...",
+          "messageId": "1458490610594873417",
+          "discordLink": "https://discord.com/channels/709752884257882135/709783693857783929/1458490610594873417"
+        },
+        {
+          "type": "news",
+          "title": "BBC coverage on regional Asia-Pacific issue",
+          "details": "A BBC News article relevant to Asia-Pacific affairs was shared for additional background, though not discussed in detail in-channel.",
+          "link": "https://www.bbc.com/news/articles/c1dk0x0v6pdo",
+          "messageId": "1462965477071655037",
+          "discordLink": "https://discord.com/channels/709752884257882135/709783693857783929/1462965477071655037"
+        }
+      ],
+      "mentions": [
+        "New York Times",
+        "Neturei Karta",
+        "Satmar Hasidic sect",
+        "Joel Teitelbaum",
+        "Chen Zhi",
+        "Prince Holding Group",
+        "Prince Group",
+        "BBC"
+      ]
+    },
+    {
+      "channel": "aviation",
+      "status": "active",
+      "summary": "Technical tips and investigative resources for tracking aircraft, plus news on aviation safety and fleet issues.",
+      "highlights": [
+        {
+          "type": "tool",
+          "title": "CPA SkyCircles for visualizing resolution advisories",
+          "details": "Example shared of using cpa.skycircl.es with a KML track to analyze closest approaches and position reports during a resolution advisory, useful for reconstructing near-miss incidents.",
+          "link": "https://cpa.skycircl.es/?kmlUrl=https://gist.githubusercontent.com/wiseman/d2375ec4e1ce6cfad778de716298bf9/raw/94e8b50bb704e4001d2054730dd9750a1680fad7/N249WN-N335AX-track-press_alt_uncorrected.kml",
+          "messageId": "1450918499122941972",
+          "discordLink": "https://discord.com/channels/709752884257882135/1319318313519812619/1450918499122941972"
+        },
+        {
+          "type": "tool",
+          "title": "Tweetdeck-style interface for LiveATC feeds",
+          "details": "Blog post shared on building a Tweetdeck-style multi-column interface for LiveATC audio streams, helping analysts monitor multiple frequencies simultaneously.",
+          "link": "https://ianservin.com/2026/01/13/building-a-tweetdeck-style-interface-for-liveatc-feeds/",
+          "messageId": "1461047562587996454",
+          "discordLink": "https://discord.com/channels/709752884257882135/1319318313519812619/1461047562587996454"
+        },
+        {
+          "type": "resource",
+          "title": "BlueSky account tracking ICE aircraft via OSINT",
+          "details": "A BlueSky account (jjindc.bsky.social) was recommended for those interested in OSINT-based tracking of US Immigration and Customs Enforcement (ICE) aircraft movements.",
+          "link": "https://bsky.app/profile/jjindc.bsky.social",
+          "messageId": "1460918711597924469",
+          "discordLink": "https://discord.com/channels/709752884257882135/1319318313519812619/1460918711597924469"
+        },
+        {
+          "type": "news",
+          "title": "ProPublica investigation into SpaceX launches and airline safety",
+          "details": "ProPublica article examining how SpaceX launches and FAA oversight affect airline safety over Florida and the Caribbean was shared for aviation risk context.",
+          "link": "https://www.propublica.org/article/spacex-faa-launch-airlines-safety-explosions-florida-caribbean",
+          "messageId": "1458812995009380624",
+          "discordLink": "https://discord.com/channels/709752884257882135/1319318313519812619/1458812995009380624"
+        },
+        {
+          "type": "resource",
+          "title": "AirNav Radar and ADS-B Exchange combo for blocked-flight destinations",
+          "details": "Tip that with an AirNav Radar subscription you can see the filed flight plan route for ‘blocked’ aircraft and combine it with ADS-B Exchange to infer origin, destination, and routing early in a flight.",
+          "link": "",
+          "messageId": "1453321472696254464",
+          "discordLink": "https://discord.com/channels/709752884257882135/1319318313519812619/1453321472696254464"
+        },
+        {
+          "type": "news",
+          "title": "NTSB preliminary report on UPS Flight 2976 crash",
+          "details": "Link to the NTSB investigation page for the UPS Flight 2976 crash in Kentucky was shared as an investigative update.",
+          "link": "https://www.ntsb.gov/investigations/Pages/DCA26MA024.aspx",
+          "messageId": "1461623982875869194",
+          "discordLink": "https://discord.com/channels/709752884257882135/1319318313519812619/1461623982875869194"
+        },
+        {
+          "type": "news",
+          "title": "Russia restores old airframes to cope with airline fleet shortages",
+          "details": "Moscow Times article reported that Russia is refurbishing older aircraft to address growing airline fleet shortages, relevant to tracking regional fleet composition and safety.",
+          "link": "https://www.themoscowtimes.com/2026/01/19/russia-restores-old-planes-to-address-growing-airline-fleet-shortages-a91713",
+          "messageId": "1462866133144309957",
+          "discordLink": "https://discord.com/channels/709752884257882135/1319318313519812619/1462866133144309957"
+        }
+      ],
+      "mentions": [
+        "CPA SkyCircles",
+        "LiveATC",
+        "AirNav Radar",
+        "ADSB-Exchange",
+        "ProPublica",
+        "SpaceX",
+        "FAA",
+        "UPS Flight 2976",
+        "NTSB",
+        "ICE",
+        "The Moscow Times",
+        "The American Conservative"
+      ]
+    },
+    {
+      "channel": "bombs-arms-drones-other-killing-machines",
+      "status": "active",
+      "summary": "Shared a field-level assessment of Ukrainian-made thermobaric hand grenades’ reliability.",
+      "highlights": [
+        {
+          "type": "research",
+          "title": "Review of Ukrainian RGT-27 S2 Thermobaric Hand Grenade malfunction",
+          "details": "Video review by Ukrainian soldier Valgear shows the RGT-27 S2 thermobaric hand grenade failing, with only the booster charge detonating, raising concerns about the weapon’s effectiveness.",
+          "link": "https://youtu.be/ot_nBlGxgRc",
+          "messageId": "1462916309053341728",
+          "discordLink": "https://discord.com/channels/709752884257882135/709771086228619337/1462916309053341728"
+        }
+      ],
+      "mentions": [
+        "Valgear",
+        "Ukrainian Armed Forces",
+        "RGT-27 S2 thermobaric hand grenade",
+        "YouTube"
+      ]
+    },
+    {
+      "channel": "caucasus-central-asia",
+      "status": "active",
+      "summary": "Ongoing work on mapping Central Asian military infrastructure and tracking regional security developments and disinformation narratives.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "Oxus Society visualization of Tajik military units",
+          "details": "Link to Oxus Society’s visualization of Tajikistan’s military units, useful for understanding force structure in the region.",
+          "link": "https://oxussociety.org/viz/military-units/",
+          "messageId": "1339683416316182528",
+          "discordLink": "https://discord.com/channels/709752884257882135/709947054042120222/1339683416316182528"
+        },
+        {
+          "type": "research",
+          "title": "Interactive map of 620+ military facilities in Uzbekistan (forthcoming)",
+          "details": "User mentioned an upcoming interactive project mapping more than 620 military facilities across Uzbekistan, indicating substantial ongoing OSINT work.",
+          "link": "",
+          "messageId": "1339681677873512561",
+          "discordLink": "https://discord.com/channels/709752884257882135/709947054042120222/1339681677873512561"
+        },
+        {
+          "type": "discussion",
+          "title": "DFRLab report on ‘biolabs’ disinformation in Armenia",
+          "details": "Discussion highlighted a DFRLab report showing how ‘biolabs’ narratives used in Ukraine are being repurposed in Armenia, implicating CDC and USAID and even scientific conferences in conspiracy framing.",
+          "link": "",
+          "messageId": "1396878865078681702",
+          "discordLink": "https://discord.com/channels/709752884257882135/709947054042120222/1396878865078681702"
+        },
+        {
+          "type": "news",
+          "title": "Euromaidan Press: Russian troop buildup in Armenia",
+          "details": "Article from Euromaidan Press on Moscow accelerating its troop buildup in Armenia amid rising tensions with Azerbaijan was shared.",
+          "link": "https://euromaidanpress.com/2025/07/05/ukraines-intelligence-moscow-accelerates-its-troop-buildup-in-armenia-as-tensions-with-azerbaijan-rise/",
+          "messageId": "1391506915011330048",
+          "discordLink": "https://discord.com/channels/709752884257882135/709947054042120222/1391506915011330048"
+        },
+        {
+          "type": "news",
+          "title": "Clarification on ‘initialed’ vs ‘signed’ peace deal in regional agreement",
+          "details": "Tweet from clashreport was used to clarify that a peace agreement was only ‘initialed’ (agreeing on language) rather than fully signed and ratified.",
+          "link": "https://fxtwitter.com/clashreport/status/1953927708158644423/",
+          "messageId": "1403502253607878748",
+          "discordLink": "https://discord.com/channels/709752884257882135/709947054042120222/1403502253607878748"
+        }
+      ],
+      "mentions": [
+        "Oxus Society",
+        "DFRLab",
+        "CDC",
+        "USAID",
+        "Euromaidan Press",
+        "clashreport",
+        "NKObserver",
+        "Armenia",
+        "Azerbaijan",
+        "Uzbekistan",
+        "Tajikistan",
+        "Moscow"
+      ]
+    },
+    {
+      "channel": "completed-ukraine-geolocations",
+      "status": "active",
+      "summary": "Channel acknowledged recent contributions and logged a precise geolocation in Kherson oblast.",
+      "highlights": [
+        {
+          "type": "research",
+          "title": "Geolocation ID 2547 – Kozats’ke & Vesele, Kherson (residential area)",
+          "details": "Completed geolocation for ID 2547 pinpoints residential imagery in Kozats’ke and Vesele, Kherson, with coordinates and a Google Maps reference sourced from a Suspile Kherson Telegram post.",
+          "link": "https://www.google.com/maps/@46.7972695,33.3546751,88m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDYwMS4wIKXMDSoASAFQAw%3D%3D",
+          "messageId": "1379626557613674576",
+          "discordLink": "https://discord.com/channels/709752884257882135/951465989407641690/1379626557613674576"
+        }
+      ],
+      "mentions": [
+        "Kozats’ke",
+        "Vesele",
+        "Kherson",
+        "Suspilne Kherson",
+        "Google Maps"
+      ]
+    },
+    {
+      "channel": "discuss-bellingcat",
+      "status": "active",
+      "summary": "Meta channel for Bellingcat content where users shared podcasts, toolkits, reports, and updates on awards and communication channels.",
+      "highlights": [
+        {
+          "type": "tool",
+          "title": "Bellingcat Toolkit one-year anniversary",
+          "details": "Celebration of the Bellingcat Toolkit’s first year, reminding users it is a curated, volunteer-maintained directory of open-source tools with use cases, guidance, and candid reviews.",
+          "link": "https://bellingcat.gitbook.io/toolkit",
+          "messageId": "1420382956417191936",
+          "discordLink": "https://discord.com/channels/709752884257882135/1043086172043345921/1420382956417191936"
+        },
+        {
+          "type": "resource",
+          "title": "Bellingcat 2024 Annual Report",
+          "details": "Annual report shared detailing Bellingcat’s 2024 investigations, impact, and lessons learned for the future.",
+          "link": "https://www.bellingcat.com/app/uploads/2025/06/Annual-Report-2024.pdf",
+          "messageId": "1386667315566743572",
+          "discordLink": "https://discord.com/channels/709752884257882135/1043086172043345921/1386667315566743572"
+        },
+        {
+          "type": "resource",
+          "title": "Stage Talks with Bellingcat podcast episodes",
+          "details": "Multiple messages linked to Stage Talk episodes, including topics like US immigration raids, far-right fashion, ‘sketchy boats’, and mapping Central Asian armed forces.",
+          "link": "https://rss.com/podcasts/bellingcatstagetalk/2315443",
+          "messageId": "1436388610390753382",
+          "discordLink": "https://discord.com/channels/709752884257882135/1043086172043345921/1436388610390753382"
+        },
+        {
+          "type": "resource",
+          "title": "Bellingcat WhatsApp updates channel",
+          "details": "Announcement that Bellingcat now has a WhatsApp channel for those who prefer receiving investigation updates directly in the app.",
+          "link": "https://whatsapp.com/channel/0029VbB7PAn9RZAd6F1R1m2r",
+          "messageId": "1412143759487144017",
+          "discordLink": "https://discord.com/channels/709752884257882135/1043086172043345921/1412143759487144017"
+        },
+        {
+          "type": "tool",
+          "title": "Bellingcat Open Source Challenge platform",
+          "details": "Direct link to the challenge.bellingcat.com site where users can work through OSINT challenges and share approaches.",
+          "link": "https://challenge.bellingcat.com/",
+          "messageId": "1447578577812979832",
+          "discordLink": "https://discord.com/channels/709752884257882135/1043086172043345921/1447578577812979832"
+        },
+        {
+          "type": "news",
+          "title": "Award recognition for ‘Open Source Extremist Identifications’",
+          "details": "Message congratulated Bellingcat contributors on recognition at the Online Journalism Awards for the ‘Open Source Extremist Identifications’ project.",
+          "link": "https://awards.journalists.org/entries/open-source-extremist-identifications//",
+          "messageId": "1410721710977585293",
+          "discordLink": "https://discord.com/channels/709752884257882135/1043086172043345921/1410721710977585293"
+        }
+      ],
+      "mentions": [
+        "Bellingcat Toolkit",
+        "Bellingcat",
+        "Stage Talks with Bellingcat",
+        "Oxus Society",
+        "Michael Hilliard",
+        "Arthur Brand",
+        "WhatsApp",
+        "Online Journalism Awards",
+        "Open Source Extremist Identifications",
+        "Patreon"
+      ]
+    },
+    {
+      "channel": "disinfo-and-propaganda",
+      "status": "active",
+      "summary": "Brief but focused sharing of disinformation-relevant job postings and research on why people embrace misinformation.",
+      "highlights": [
+        {
+          "type": "news",
+          "title": "Danish linguist job likely tied to SOCOM information operations",
+          "details": "GDIT Danish linguist job posting was flagged as likely supporting US SOCOM information operations targeting Danish media and audiences in Greenland.",
+          "link": "https://www.gdit.com/careers/job/ddde35bd9/danish-linguist/",
+          "messageId": "1453030745407750245",
+          "discordLink": "https://discord.com/channels/709752884257882135/709944967979597886/1453030745407750245"
+        },
+        {
+          "type": "research",
+          "title": "Ars Technica: Why some people ‘win’ by believing misinformation",
+          "details": "Article shared summarizing research on how believing misinformation can be psychologically or socially rewarding for some individuals, even after it is debunked.",
+          "link": "https://arstechnica.com/science/2025/10/believing-misinformation-is-a-win-for-some-people-even-when-proven-false/",
+          "messageId": "1455288688714973437",
+          "discordLink": "https://discord.com/channels/709752884257882135/709944967979597886/1455288688714973437"
+        }
+      ],
+      "mentions": [
+        "SOCOM",
+        "GDIT",
+        "Danish media",
+        "Greenland",
+        "Ars Technica"
+      ]
+    },
+    {
+      "channel": "environment-wildlife",
+      "status": "active",
+      "summary": "Active sharing of environmental news, mapping tools, and climate-related research, plus community introductions and moderation.",
+      "highlights": [
+        {
+          "type": "news",
+          "title": "Guardian: Mosquitoes found in Iceland as climate warms",
+          "details": "Guardian article on mosquitoes being detected in Iceland for the first time, used to illustrate tangible local impacts of climate change.",
+          "link": "https://www.theguardian.com/environment/2025/oct/21/mosquitoes-found-iceland-first-time-climate-crisis-warms-country",
+          "messageId": "1430551397170151605",
+          "discordLink": "https://discord.com/channels/709752884257882135/807311724893175878/1430551397170151605"
+        },
+        {
+          "type": "news",
+          "title": "Washington Post: US dams sinking and associated risks",
+          "details": "Article and archive link on US dams subsiding and the resulting infrastructure and safety risks were shared for climate and engineering context.",
+          "link": "https://www.washingtonpost.com/climate-environment/2025/12/30/us-dams-sinking-risks/",
+          "messageId": "1456757594793181258",
+          "discordLink": "https://discord.com/channels/709752884257882135/807311724893175878/1456757594793181258"
+        },
+        {
+          "type": "research",
+          "title": "Retraction of seminal glyphosate safety paper",
+          "details": "A Mastodon-linked post noted that a key paper long used to justify glyphosate’s safety has been retracted due to concerns about authorship and misrepresented contributions, undermining a major pillar of regulatory arguments.",
+          "link": "https://social.wildeboer.net/users/jwildeboer/statuses/115644006415261401",
+          "messageId": "1445022235055095960",
+          "discordLink": "https://discord.com/channels/709752884257882135/807311724893175878/1445022235055095960"
+        },
+        {
+          "type": "tool",
+          "title": "Nusantara Atlas deforestation mapping site",
+          "details": "Shared as a good resource to visualize deforestation in Indonesia, Malaysia, Brunei, Papua New Guinea, and Colombia via an interactive map interface.",
+          "link": "https://map.nusantara-atlas.org/",
+          "messageId": "1444145845262880849",
+          "discordLink": "https://discord.com/channels/709752884257882135/807311724893175878/1444145845262880849"
+        },
+        {
+          "type": "tool",
+          "title": "Copernicus Marine Jupyter notebook tutorials",
+          "details": "Copernicus’ Jupyter-based e-learning tutorials were recommended for environmental monitoring and analysis, useful for environmental OSINT workflows.",
+          "link": "https://marine.copernicus.eu/services/user-learning-services/tutorials",
+          "messageId": "1441358465216807053",
+          "discordLink": "https://discord.com/channels/709752884257882135/807311724893175878/1441358465216807053"
+        },
+        {
+          "type": "news",
+          "title": "Grist: Miccosukee tribe and blocked land return bill at Alligator Alcatraz",
+          "details": "Grist article shared on how the Miccosukee tribe blocked a controversial wildlife facility (‘Alligator Alcatraz’) and later faced a Trump-era veto on legislation intended to return their land.",
+          "link": "https://grist.org/indigenous/the-miccosukee-tribe-blocked-alligator-alcatraz-then-trump-blocked-a-bill-to-return-their-land/",
+          "messageId": "1459226442654023895",
+          "discordLink": "https://discord.com/channels/709752884257882135/807311724893175878/1459226442654023895"
+        }
+      ],
+      "mentions": [
+        "The Guardian",
+        "Washington Post",
+        "archive.ph",
+        "Glyphosate",
+        "Copernicus Marine Service",
+        "Nusantara Atlas",
+        "Nature",
+        "Grist",
+        "Miccosukee Tribe",
+        "Alligator Alcatraz",
+        "Donald Trump",
+        "Brazil"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 774,
+    "activeChannels": 12,
+    "sourcesUsed": [
+      "discord:Bellingcat#academia",
+      "discord:Bellingcat#announcements",
+      "discord:Bellingcat#apac-geolocation",
+      "discord:Bellingcat#art-crime",
+      "discord:Bellingcat#asia-pacific",
+      "discord:Bellingcat#aviation",
+      "discord:Bellingcat#bombs-arms-drones-other-killing-machines",
+      "discord:Bellingcat#caucasus-central-asia",
+      "discord:Bellingcat#completed-ukraine-geolocations",
+      "discord:Bellingcat#discuss-bellingcat",
+      "discord:Bellingcat#disinfo-and-propaganda",
+      "discord:Bellingcat#environment-wildlife"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-20",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - January 20, 2026",
+  "generatedAt": "2026-01-20T03:30:20.060Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "active",
+      "summary": "Members discussed client expectations around SEO vs paid ads, setting proper timelines for results, and shared a personal Notion dashboard for SEO freelancing alongside mention of an upcoming ‘game changing’ parasite SEO method.",
+      "highlights": [
+        {
+          "type": "tool",
+          "title": "SEO Freelancer Notion Dashboard",
+          "details": "A custom Notion dashboard created by a member to organize and manage their work as an SEO freelancer.",
+          "link": "",
+          "messageId": "1460563365914083485",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1460563365914083485"
+        },
+        {
+          "type": "discussion",
+          "title": "Explaining SEO process and pairing with ads to clients",
+          "details": "Conversation about how non-SEOs often expect immediate results without proper budget, and the importance of clearly explaining that SEO is a longer-term process. Members emphasized differentiating between ready-made leads from ads, the role of paid ads for immediate results, and the benefit of combining ads with SEO for sustainable growth.",
+          "link": "",
+          "messageId": "1462761199484538910",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1462761199484538910"
+        },
+        {
+          "type": "discussion",
+          "title": "Client expecting instant organic profitability",
+          "details": "A member shared a case where a client relied on ads, demanded immediate organic traffic and profit, and ended the call after being told profitability can’t be achieved overnight via SEO—highlighting the need to manage expectations early.",
+          "link": "",
+          "messageId": "1462762722788769835",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1462762722788769835"
+        },
+        {
+          "type": "discussion",
+          "title": "Upcoming ‘game changing’ parasite SEO approach",
+          "details": "A member teased they are close to releasing a ‘game changing’ parasite SEO method, suggesting future sharing of tactics for leveraging high-authority domains for rankings.",
+          "link": "",
+          "messageId": "1462944028218753105",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1462944028218753105"
+        }
+      ],
+      "mentions": [
+        "ph1l",
+        "Jay Φ",
+        "Soulmoons",
+        "Hamza",
+        "Mateusz Kielbasa",
+        "Notion",
+        "SEO",
+        "paid ads",
+        "parasite SEO"
+      ]
+    },
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Shared an invitation to a session on boosting GEO visibility using a research-backed playbook and the Spotlight tool, plus brief community-orientation and off-topic chat.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "GEO visibility playbook & Spotlight automation session",
+          "details": "Announcement of a session presenting a proven playbook to grow a brand’s GEO (AI/search) visibility from 0% to 20% in two weeks, based on analysis of millions of prompt responses across 1,000+ brands. The session will show how to execute the method with free tools and how the Spotlight platform can automate the process.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "Adam",
+        "Jeremy",
+        "Spotlight",
+        "GEO"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Discussion about the growing presence of AI-generated content in media and the risk of humans unconsciously mimicking AI speech patterns, creating a feedback loop.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "Feedback loop from AI-generated content in media",
+          "details": "A member reflected on how pervasive AI-generated content makes AI speech patterns and image artifacts increasingly recognizable, warning that human creators who consume this content may unintentionally adopt AI-like styles, potentially creating a self-reinforcing feedback loop in media ecosystems.",
+          "link": "",
+          "messageId": "1461002693882548346",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1461002693882548346"
+        }
+      ],
+      "mentions": [
+        "Madison",
+        "AI",
+        "media ecosystems",
+        "content creators"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 21,
+    "activeChannels": 3,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}
