@@ -1,0 +1,83 @@
+{
+  "date": "2026-01-21",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - January 21, 2026",
+  "generatedAt": "2026-01-21T03:28:35.943Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "not-important",
+      "summary": "Light chat; one member mentions creating a personal SEO Freelancer Notion dashboard without sharing details or resources."
+    },
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Announcement of a research-backed playbook for rapidly increasing brand visibility in AI responses, plus general community guidance and light humor.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "Playbook to grow brand visibility from 0% to 20% in AI responses in 2 weeks",
+          "details": "Michael shares a research-backed playbook derived from analysis of millions of prompt responses across 1000+ brands, explaining how to boost a brand’s presence in AI outputs using free tools, and how the Spotlight tool can automate the process. Access is via a Google Form sign-up.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "Spotlight",
+        "Google Forms",
+        "Adam",
+        "Jeremy"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Discussion about AI-generated content influencing human communication patterns, plus moderation nudges about self-promotion and engagement, and a brief model/version reference.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "AI-generated content creating feedback loops in human speech patterns",
+          "details": "Madison discusses how pervasive AI-generated media leads people to recognize recurring AI speech patterns and image artifacts, raising the concern that even non-AI creators may subconsciously mimic these patterns, creating a feedback loop between AI content and human expression.",
+          "link": null,
+          "messageId": "1461002693882548346",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1461002693882548346"
+        },
+        {
+          "type": "discussion",
+          "title": "Community reminder about no-promo policy and genuine engagement",
+          "details": "Jay reminds a member that repeatedly posting the same promotional message without networking or participating violates the server’s no-promo norms, encouraging them to meet people, share knowledge, join voice chats, and show what they are building.",
+          "link": null,
+          "messageId": "1463240248548004013",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1463240248548004013"
+        },
+        {
+          "type": "discussion",
+          "title": "Reference to WAN 2.6 model/version",
+          "details": "A brief mention suggests someone is \"98% sure it’s wan 2.6,\" likely referring to a specific AI model or version, though no additional context or link is provided.",
+          "link": null,
+          "messageId": "1463101960159887432",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1463101960159887432"
+        }
+      ],
+      "mentions": [
+        "Madison",
+        "Jay Φ",
+        "notanewplayer",
+        "WAN 2.6",
+        "AI-generated content"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 13,
+    "activeChannels": 2,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}
