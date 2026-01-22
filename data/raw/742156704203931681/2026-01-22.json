@@ -1,0 +1,456 @@
+{
+  "date": "2026-01-22",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "collectedAt": "2026-01-22T03:29:08.276Z",
+  "messages": [
+    {
+      "id": "1463425618946424954",
+      "serverId": "742156704203931681",
+      "content": "Yepp true",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:50:56.690Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463425529926385756",
+      "serverId": "742156704203931681",
+      "content": "Yaa i agree on this point",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:50:35.466Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463425516966248448",
+      "serverId": "742156704203931681",
+      "content": "I think the difference in time and money cost is minimal when it comes to producing high-quality ads like this. We are talking about a $5-10 difference in cost to produce ads that you should be selling for $200 on the low end",
+      "author": {
+        "id": "745990880460144727",
+        "username": "notanewplayer",
+        "displayName": "notanewplayer"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:50:32.376Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1463424870699237498",
+      "serverId": "742156704203931681",
+      "content": "I hate to break it to you but the ad you shared is comprised of a series of combined 6-8 second clips 😅 even with the best video models out there, the longer the clip you try to generate, the worse the outcome will be. When making these kind of videos/ads its best practice to do exactly that - generate several 6-8 second clips and combine them to create a full video",
+      "author": {
+        "id": "745990880460144727",
+        "username": "notanewplayer",
+        "displayName": "notanewplayer"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:47:58.294Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463423966403366977",
+      "serverId": "742156704203931681",
+      "content": "This will cost a lot in money and time too",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:44:22.693Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463423874266959945",
+      "serverId": "742156704203931681",
+      "content": "Veo ig can do 8secs only so need to generate 3 or 4 videos then combine it",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:44:00.726Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463423792985669716",
+      "serverId": "742156704203931681",
+      "content": "We mostly will start with 20sec generation or 30sec",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:43:41.347Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463423694499217424",
+      "serverId": "742156704203931681",
+      "content": "Sure",
+      "author": {
+        "id": "745990880460144727",
+        "username": "notanewplayer",
+        "displayName": "notanewplayer"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:43:17.866Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463423656729378817",
+      "serverId": "742156704203931681",
+      "content": "You cannot go wrong with the latest VEO, sora or wan models. But personally I lean towards wan. I just think its simply the best-in-class right now",
+      "author": {
+        "id": "745990880460144727",
+        "username": "notanewplayer",
+        "displayName": "notanewplayer"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:43:08.861Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463423209935208501",
+      "serverId": "742156704203931681",
+      "content": "Whatever you generated",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:41:22.337Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463423207053987984",
+      "serverId": "742156704203931681",
+      "content": "That's great man can you share some of the work with me in my DMs?",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:41:21.650Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463423204638064651",
+      "serverId": "742156704203931681",
+      "content": "For Ads generation",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:41:21.074Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463423202435793042",
+      "serverId": "742156704203931681",
+      "content": "Similar results or better",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:41:20.549Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463423198375706666",
+      "serverId": "742156704203931681",
+      "content": "Like I'm trying to find a video generation model that good",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:41:19.581Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463422884067409920",
+      "serverId": "742156704203931681",
+      "content": "The 2% is simply plausible doubt. If its not wan 2.6 then its one of the other models. But I’m quite certain its wan 2.6 as I’ve used it extensively to produce very similar videos and  so I have an eye for it",
+      "author": {
+        "id": "745990880460144727",
+        "username": "notanewplayer",
+        "displayName": "notanewplayer"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:40:04.644Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463422593385234530",
+      "serverId": "742156704203931681",
+      "content": "We try wan to generate similar output and see",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:38:55.340Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463422319912423539",
+      "serverId": "742156704203931681",
+      "content": "AI",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:37:50.139Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463422309309222976",
+      "serverId": "742156704203931681",
+      "content": "Like which",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:37:47.611Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463422295140995073",
+      "serverId": "742156704203931681",
+      "content": "What's the 2%",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:37:44.233Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463422252178473092",
+      "serverId": "742156704203931681",
+      "content": "98% sure",
+      "author": {
+        "id": "745990880460144727",
+        "username": "notanewplayer",
+        "displayName": "notanewplayer"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:37:33.990Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463421486495961121",
+      "serverId": "742156704203931681",
+      "content": "Are you sure?",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-21T06:34:31.437Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1460563365914083485",
+      "serverId": "742156704203931681",
+      "content": "I finally came around to create my SEO Freelancer Notion Dashboard and I'm pretty happy with it 😄",
+      "author": {
+        "id": "119170167136583680",
+        "username": "ph1l",
+        "displayName": "ph1l"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-13T09:17:22.389Z",
+      "reactionCount": 5,
+      "replyCount": 0
+    },
+    {
+      "id": "1460361565126656329",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1151834138895208528",
+        "username": "matto_fad",
+        "displayName": "Mateusz Kielbasa"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-12T19:55:29.332Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1460213689352458405",
+      "serverId": "742156704203931681",
+      "content": "I read this so wrong\n\n“Junior Toe Expert”",
+      "author": {
+        "id": "366200358491652098",
+        "username": "attaguppy",
+        "displayName": "Jay Φ"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-12T10:07:53.000Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1457844910639284436",
+      "serverId": "742156704203931681",
+      "content": "Hey guys. After almost a year of research and experiments, I finally have a proven playbook that can take a brand from 0% to 20% visibility in 2 weeks. It's based on analysis of millions of prompt responses across 1000+ brands. I'll share how it's done with free tools - and how Spotlight can automate the process. You're all invited https://forms.gle/CSPRgBJyM1HfhnxCA",
+      "author": {
+        "id": "701131812759404634",
+        "username": "ka_powww",
+        "displayName": "Michael | GEO, AI visibility"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-05T21:15:12.145Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1449460597216383076",
+      "serverId": "742156704203931681",
+      "content": "If you can, go through <#1310603650518749297> to understand the community better and if you see yourself fitting in. This is a minor episode but everything from hereon shapes how we view you, just be you and temporarily forget about getting a job here",
+      "author": {
+        "id": "1125226612045131777",
+        "username": "thebrandexperience",
+        "displayName": "Adam"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-13T17:58:56.052Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1448705751605579807",
+      "serverId": "742156704203931681",
+      "content": "Here's 10 ways to lose weight,  brought to you by Corn Syrup",
+      "author": {
+        "id": "945887783090794547",
+        "username": "jeremyd0147",
+        "displayName": "Jeremy"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-11T15:59:26.834Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1445729316062367846",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1050052480756633680",
+        "username": "DAOWL",
+        "displayName": "DAOWL"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-03T10:52:09.301Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    }
+  ]
+}

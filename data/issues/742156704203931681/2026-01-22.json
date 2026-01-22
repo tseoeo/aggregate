@@ -1,0 +1,102 @@
+{
+  "date": "2026-01-22",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - January 22, 2026",
+  "generatedAt": "2026-01-22T03:32:04.938Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "active",
+      "summary": "Light activity focused on a newly created SEO freelancer dashboard built in Notion, plus a humorous aside about misreading a job title.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "SEO Freelancer Notion Dashboard",
+          "details": "A custom Notion dashboard created for managing SEO freelance work. Shared as a personal setup; no public template link provided, but indicates interest in workflow tooling for SEO freelancers.",
+          "link": "",
+          "messageId": "1460563365914083485",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1460563365914083485"
+        }
+      ],
+      "mentions": [
+        "ph1l",
+        "Jay Φ",
+        "Notion",
+        "SEO Freelancer Notion Dashboard"
+      ]
+    },
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Announcements around a GEO visibility playbook, community onboarding expectations, and a light joke.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "GEO brand visibility playbook & Spotlight automation",
+          "details": "Michael announces a proven playbook for taking a brand from 0% to 20% visibility in 2 weeks, based on analysis of millions of prompt responses across 1000+ brands. The session will cover how to execute this using free tools and how the Spotlight tool can automate the workflow. Access is via a Google Forms signup.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "Adam",
+        "Jeremy",
+        "Spotlight",
+        "Google Forms",
+        "GEO brand visibility playbook"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Ongoing discussion on best practices for AI-generated ad videos, including preferred video models, clip length strategies, and perceived production costs vs. ad pricing.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "Best-practice workflow for AI-generated ad videos",
+          "details": "Discussion emphasizes that high-quality AI video ads are typically composed of multiple 6–8 second clips stitched together, because longer single generations degrade quality. This workflow is recommended for creating polished ads from current video models.",
+          "link": "",
+          "messageId": "1463424870699237498",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1463424870699237498"
+        },
+        {
+          "type": "tool",
+          "title": "Comparison of video generation models: wan 2.6, VEO, Sora",
+          "details": "Participants compare leading video models for ad creation. notanewplayer recommends using the latest VEO, Sora, or wan models, with a strong personal preference for wan (specifically wan 2.6) as best-in-class for producing realistic ad-style videos.",
+          "link": "",
+          "messageId": "1463423656729378817",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1463423656729378817"
+        },
+        {
+          "type": "discussion",
+          "title": "Cost and pricing of AI-generated ads",
+          "details": "The group debates the incremental time and money cost of producing high-quality AI video ads. One view is that the extra cost is minimal (estimated at $5–$10 more) relative to the value, suggesting such ads should be priced at $200+ even at the low end.",
+          "link": "",
+          "messageId": "1463425516966248448",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1463425516966248448"
+        }
+      ],
+      "mentions": [
+        "notanewplayer",
+        "Bhavya",
+        "wan",
+        "wan 2.6",
+        "VEO",
+        "Sora",
+        "AI video generation models"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 28,
+    "activeChannels": 3,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}
