@@ -1,0 +1,504 @@
+{
+  "date": "2026-01-24",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "collectedAt": "2026-01-24T03:19:41.690Z",
+  "messages": [
+    {
+      "id": "1464424512434209064",
+      "serverId": "742156704203931681",
+      "content": "https://tenor.com/view/rainbow-spongebob-imagination-gif-10638064749879779873",
+      "author": {
+        "id": "313743328694894594",
+        "username": "abdulsaboorseo",
+        "displayName": "Saboor - SEO"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-24T01:00:11.456Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464362275602305034",
+      "serverId": "742156704203931681",
+      "content": "Thank you",
+      "author": {
+        "id": "1125226612045131777",
+        "username": "thebrandexperience",
+        "displayName": "Adam"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T20:52:53.039Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1464362165916930100",
+      "serverId": "742156704203931681",
+      "content": "<@1125226612045131777>",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T20:52:26.888Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464347961873137767",
+      "serverId": "742156704203931681",
+      "content": "I stick around with other people that consistently add value, want to check out your work",
+      "author": {
+        "id": "1080714567451148310",
+        "username": "ajayinc",
+        "displayName": "Ajay Hiremath"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T19:56:00.380Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1464347861134348411",
+      "serverId": "742156704203931681",
+      "content": "ADHD is not an excuse for not doing something, it takes a few minutes ping me when it is done",
+      "author": {
+        "id": "1080714567451148310",
+        "username": "ajayinc",
+        "displayName": "Ajay Hiremath"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T19:55:36.362Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1464333106411733306",
+      "serverId": "742156704203931681",
+      "content": "Thanks to my ADHD.",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T18:56:58.562Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464332533276872868",
+      "serverId": "742156704203931681",
+      "content": "Why do you not have your website or socials linked on Discord?",
+      "author": {
+        "id": "1080714567451148310",
+        "username": "ajayinc",
+        "displayName": "Ajay Hiremath"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T18:54:41.916Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464278518883155992",
+      "serverId": "742156704203931681",
+      "content": "No problem, Feel free to dm if something confusing there",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T15:20:03.881Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464277918770270249",
+      "serverId": "742156704203931681",
+      "content": "noted e everything",
+      "author": {
+        "id": "1292719428072640542",
+        "username": "therealg.editor",
+        "displayName": "✧ TheRealG | Chief Dev"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T15:17:40.803Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464277898746794024",
+      "serverId": "742156704203931681",
+      "content": "thank you so much for the tips",
+      "author": {
+        "id": "1292719428072640542",
+        "username": "therealg.editor",
+        "displayName": "✧ TheRealG | Chief Dev"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T15:17:36.029Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1464277881223118890",
+      "serverId": "742156704203931681",
+      "content": "yeah i know hera too",
+      "author": {
+        "id": "1292719428072640542",
+        "username": "therealg.editor",
+        "displayName": "✧ TheRealG | Chief Dev"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T15:17:31.851Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464268513735610522",
+      "serverId": "742156704203931681",
+      "content": "I've worked with Hera AI (Ai tool that makes motion graphics). They are doing really well in this niche. They are not focusing solely on SEO as influencer marketing is game changer for them.",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T14:40:18.468Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464266391942074574",
+      "serverId": "742156704203931681",
+      "content": "Your documentation page is still deployed on Netlify subdomain, migrate it to your domain.\nDeeply analyze your targeted audience, see how they are searching for your tool (keywords). Add those keywords into your slug, metas and Headings in a natural way.\nIf you need more specific information then drop some of your competitors.",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T14:31:52.593Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464263256922390651",
+      "serverId": "742156704203931681",
+      "content": "i need help doing SEO for https://flashfx.app \n\nany tips for starting out?",
+      "author": {
+        "id": "1292719428072640542",
+        "username": "therealg.editor",
+        "displayName": "✧ TheRealG | Chief Dev"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T14:19:25.146Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464250706621108399",
+      "serverId": "742156704203931681",
+      "content": "robots.txt, having proper semantic html, sitemap.xml, keywords, backlinks, etc.",
+      "author": {
+        "id": "702380975254142998",
+        "username": "itshassanaziz",
+        "displayName": "Hassan"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T13:29:32.921Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464250609581428889",
+      "serverId": "742156704203931681",
+      "content": "well i know the basic stuff.",
+      "author": {
+        "id": "702380975254142998",
+        "username": "itshassanaziz",
+        "displayName": "Hassan"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T13:29:09.785Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464244946751062164",
+      "serverId": "742156704203931681",
+      "content": "Are you just starting the search engine optimization",
+      "author": {
+        "id": "1400865683826282566",
+        "username": "jadecadrid",
+        "displayName": "Jade cadrid"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T13:06:39.661Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464244851485970516",
+      "serverId": "742156704203931681",
+      "content": "Hi what are the steps you've got done towards getting started",
+      "author": {
+        "id": "1400865683826282566",
+        "username": "jadecadrid",
+        "displayName": "Jade cadrid"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T13:06:16.948Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464233596964442316",
+      "serverId": "742156704203931681",
+      "content": "who's the best guy to learn from",
+      "author": {
+        "id": "702380975254142998",
+        "username": "itshassanaziz",
+        "displayName": "Hassan"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T12:21:33.661Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464233572645732447",
+      "serverId": "742156704203931681",
+      "content": "out of curiosity, if i was to learn SEO, which person or resource would y'all recommend?",
+      "author": {
+        "id": "702380975254142998",
+        "username": "itshassanaziz",
+        "displayName": "Hassan"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T12:21:27.863Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464233499207798794",
+      "serverId": "742156704203931681",
+      "content": "i've never delved deep into SEO. he's the only \"seo\" guy i've ever heard of",
+      "author": {
+        "id": "702380975254142998",
+        "username": "itshassanaziz",
+        "displayName": "Hassan"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T12:21:10.354Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464233429574090823",
+      "serverId": "742156704203931681",
+      "content": "i have no idea lol",
+      "author": {
+        "id": "702380975254142998",
+        "username": "itshassanaziz",
+        "displayName": "Hassan"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T12:20:53.752Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463950253094080759",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-22T17:35:39.218Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1462944028218753105",
+      "serverId": "742156704203931681",
+      "content": "almost there to release a game changing parasite seo",
+      "author": {
+        "id": "1151834138895208528",
+        "username": "matto_fad",
+        "displayName": "Mateusz Kielbasa"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-19T22:57:16.513Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "1460563365914083485",
+      "serverId": "742156704203931681",
+      "content": "I finally came around to create my SEO Freelancer Notion Dashboard and I'm pretty happy with it 😄",
+      "author": {
+        "id": "119170167136583680",
+        "username": "ph1l",
+        "displayName": "ph1l"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-13T09:17:22.389Z",
+      "reactionCount": 5,
+      "replyCount": 0
+    },
+    {
+      "id": "1460361565126656329",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1151834138895208528",
+        "username": "matto_fad",
+        "displayName": "Mateusz Kielbasa"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-12T19:55:29.332Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "1460213689352458405",
+      "serverId": "742156704203931681",
+      "content": "I read this so wrong\n\n“Junior Toe Expert”",
+      "author": {
+        "id": "366200358491652098",
+        "username": "attaguppy",
+        "displayName": "Jay Φ"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-12T10:07:53.000Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1457844910639284436",
+      "serverId": "742156704203931681",
+      "content": "Hey guys. After almost a year of research and experiments, I finally have a proven playbook that can take a brand from 0% to 20% visibility in 2 weeks. It's based on analysis of millions of prompt responses across 1000+ brands. I'll share how it's done with free tools - and how Spotlight can automate the process. You're all invited https://forms.gle/CSPRgBJyM1HfhnxCA",
+      "author": {
+        "id": "701131812759404634",
+        "username": "ka_powww",
+        "displayName": "Michael | GEO, AI visibility"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-05T21:15:12.145Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1449460597216383076",
+      "serverId": "742156704203931681",
+      "content": "If you can, go through <#1310603650518749297> to understand the community better and if you see yourself fitting in. This is a minor episode but everything from hereon shapes how we view you, just be you and temporarily forget about getting a job here",
+      "author": {
+        "id": "1125226612045131777",
+        "username": "thebrandexperience",
+        "displayName": "Adam"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-13T17:58:56.052Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1448705751605579807",
+      "serverId": "742156704203931681",
+      "content": "Here's 10 ways to lose weight,  brought to you by Corn Syrup",
+      "author": {
+        "id": "945887783090794547",
+        "username": "jeremyd0147",
+        "displayName": "Jeremy"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-11T15:59:26.834Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1445729316062367846",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1050052480756633680",
+        "username": "DAOWL",
+        "displayName": "DAOWL"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-03T10:52:09.301Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    }
+  ]
+}

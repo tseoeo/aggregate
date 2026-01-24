@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-24",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - January 24, 2026",
+  "generatedAt": "2026-01-24T03:22:56.439Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "active",
+      "summary": "Mix of SEO implementation advice, tool mentions, and workflow resources, plus some casual chat.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "SEO Freelancer Notion Dashboard",
+          "details": "ph1l created and shared that they’re happy with a custom Notion dashboard for managing SEO freelance work, implying a structured workflow resource for tracking clients, tasks, and results.",
+          "link": "",
+          "messageId": "1460563365914083485",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1460563365914083485"
+        },
+        {
+          "type": "discussion",
+          "title": "Upcoming ‘game changing’ parasite SEO method",
+          "details": "Mateusz Kielbasa mentions being close to releasing a ‘game changing’ parasite SEO approach, hinting at an upcoming tactic or framework for leveraging third‑party sites to rank quickly.",
+          "link": "",
+          "messageId": "1462944028218753105",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1462944028218753105"
+        },
+        {
+          "type": "discussion",
+          "title": "SEO and site architecture advice for SaaS/tool documentation",
+          "details": "Hamza advises migrating a documentation page from a Netlify subdomain to the main domain and aligning slugs, meta tags, and headings with audience search behavior (keywords) identified via deep audience and competitor analysis.",
+          "link": "",
+          "messageId": "1464266391942074574",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1464266391942074574"
+        },
+        {
+          "type": "tool",
+          "title": "Hera AI motion graphics tool and growth strategy",
+          "details": "Hamza shares experience working with Hera AI, an AI tool for motion graphics. The brand is succeeding in its niche by prioritizing influencer marketing over SEO as their main growth channel.",
+          "link": "",
+          "messageId": "1464268513735610522",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1464268513735610522"
+        }
+      ],
+      "mentions": [
+        "ph1l",
+        "Mateusz Kielbasa",
+        "Hamza",
+        "Ajay Hiremath",
+        "✧ TheRealG | Chief Dev",
+        "Saboor - SEO",
+        "Hera AI",
+        "Netlify",
+        "Notion",
+        "parasite SEO",
+        "influencer marketing"
+      ]
+    },
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Promotes an AI visibility playbook and event, with minor community guidance and off-topic humor.",
+      "highlights": [
+        {
+          "type": "research",
+          "title": "Playbook for going from 0% to 20% AI visibility in 2 weeks",
+          "details": "Michael announces a proven playbook, based on analysis of millions of prompt responses across 1000+ brands, to increase brand visibility in AI systems from 0% to 20% in two weeks using free tools, with Spotlight offered as an automation layer. A Google Form link is provided for an invitation.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "Adam",
+        "Jeremy",
+        "Spotlight",
+        "Google Forms"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 31,
+    "activeChannels": 2,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo"
+    ]
+  }
+}
