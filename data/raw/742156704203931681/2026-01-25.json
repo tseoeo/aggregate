@@ -1,0 +1,280 @@
+{
+  "date": "2026-01-25",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "collectedAt": "2026-01-25T03:45:04.671Z",
+  "messages": [
+    {
+      "id": "1464760376494260390",
+      "serverId": "742156704203931681",
+      "content": "Angela here Im an ads specialist helping brands run Facebook & Instagram campaigns that generate leads and sales.",
+      "author": {
+        "id": "1464650224466264390",
+        "username": "angeladerek",
+        "displayName": "angeladerek"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-24T23:14:47.688Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464724221451043104",
+      "serverId": "742156704203931681",
+      "content": "I don't think GEO should be separated from SEO. You asked something that is specific to GEO (or LLMs) and I gave you. It does not even mean I'm using it.",
+      "author": {
+        "id": "828416947820429342",
+        "username": "alanmeira",
+        "displayName": "Alan"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-24T20:51:07.654Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1464724038655017021",
+      "serverId": "742156704203931681",
+      "content": "> So you're doing something, that's not even proven to work? \n\nThat is what people innovating do. Some bets pay off, others don't.",
+      "author": {
+        "id": "828416947820429342",
+        "username": "alanmeira",
+        "displayName": "Alan"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-24T20:50:24.072Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464722959674376447",
+      "serverId": "742156704203931681",
+      "content": "So you're doing something, that's not even proven to work? \nBesides that, there are currently things happening in our industry, that are working in that area and are also already proved to work. So called grounding pages. Check them out. (This still falls under SEO, even though we work for being listed in ai chats and stuff. We call these still search engines, even though they answer stuff. But as they search the web...you get the deal)",
+      "author": {
+        "id": "119170167136583680",
+        "username": "ph1l",
+        "displayName": "ph1l"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-24T20:46:06.823Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464700640641945775",
+      "serverId": "742156704203931681",
+      "content": "something like this",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-24T19:17:25.551Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464700244045467801",
+      "serverId": "742156704203931681",
+      "content": "What is this gif 😂",
+      "author": {
+        "id": "1247972650094035024",
+        "username": "mhamad241",
+        "displayName": "Mohammad"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-24T19:15:50.995Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464698627107590238",
+      "serverId": "742156704203931681",
+      "content": "https://tenor.com/view/the-undertaker-aj-styles-wwe-boneyard-match-wrestle-mania36-gif-16943984",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-24T19:09:25.487Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464697837412417649",
+      "serverId": "742156704203931681",
+      "content": "Gone",
+      "author": {
+        "id": "1125226612045131777",
+        "username": "thebrandexperience",
+        "displayName": "Adam"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-24T19:06:17.209Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1464697703404540176",
+      "serverId": "742156704203931681",
+      "content": "<@1125226612045131777>",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-24T19:05:45.259Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1463950253094080759",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-22T17:35:39.218Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1462944028218753105",
+      "serverId": "742156704203931681",
+      "content": "almost there to release a game changing parasite seo",
+      "author": {
+        "id": "1151834138895208528",
+        "username": "matto_fad",
+        "displayName": "Mateusz Kielbasa"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-19T22:57:16.513Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "1460563365914083485",
+      "serverId": "742156704203931681",
+      "content": "I finally came around to create my SEO Freelancer Notion Dashboard and I'm pretty happy with it 😄",
+      "author": {
+        "id": "119170167136583680",
+        "username": "ph1l",
+        "displayName": "ph1l"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-13T09:17:22.389Z",
+      "reactionCount": 5,
+      "replyCount": 0
+    },
+    {
+      "id": "1460361565126656329",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1151834138895208528",
+        "username": "matto_fad",
+        "displayName": "Mateusz Kielbasa"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-12T19:55:29.332Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "1457844910639284436",
+      "serverId": "742156704203931681",
+      "content": "Hey guys. After almost a year of research and experiments, I finally have a proven playbook that can take a brand from 0% to 20% visibility in 2 weeks. It's based on analysis of millions of prompt responses across 1000+ brands. I'll share how it's done with free tools - and how Spotlight can automate the process. You're all invited https://forms.gle/CSPRgBJyM1HfhnxCA",
+      "author": {
+        "id": "701131812759404634",
+        "username": "ka_powww",
+        "displayName": "Michael | GEO, AI visibility"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-05T21:15:12.145Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1449460597216383076",
+      "serverId": "742156704203931681",
+      "content": "If you can, go through <#1310603650518749297> to understand the community better and if you see yourself fitting in. This is a minor episode but everything from hereon shapes how we view you, just be you and temporarily forget about getting a job here",
+      "author": {
+        "id": "1125226612045131777",
+        "username": "thebrandexperience",
+        "displayName": "Adam"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-13T17:58:56.052Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1448705751605579807",
+      "serverId": "742156704203931681",
+      "content": "Here's 10 ways to lose weight,  brought to you by Corn Syrup",
+      "author": {
+        "id": "945887783090794547",
+        "username": "jeremyd0147",
+        "displayName": "Jeremy"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-11T15:59:26.834Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1445729316062367846",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1050052480756633680",
+        "username": "DAOWL",
+        "displayName": "DAOWL"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-03T10:52:09.301Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    }
+  ]
+}

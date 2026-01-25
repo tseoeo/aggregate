@@ -1,0 +1,105 @@
+{
+  "date": "2026-01-25",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - January 25, 2026",
+  "generatedAt": "2026-01-25T03:48:08.435Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "active",
+      "summary": "Light discussion around personal SEO tooling and upcoming parasite SEO experiments, plus some casual chat.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "SEO Freelancer Notion Dashboard",
+          "details": "ph1l created a custom Notion dashboard to manage SEO freelance work and expressed satisfaction with the setup, implying a potentially shareable workflow/template for other SEO freelancers.",
+          "link": null,
+          "messageId": "1460563365914083485",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1460563365914083485"
+        },
+        {
+          "type": "discussion",
+          "title": "Planned 'game changing' parasite SEO approach",
+          "details": "Mateusz Kielbasa teased an almost-ready 'game changing' parasite SEO method, suggesting upcoming experimentation or release of a new tactic in parasite SEO.",
+          "link": null,
+          "messageId": "1462944028218753105",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1462944028218753105"
+        }
+      ],
+      "mentions": [
+        "ph1l",
+        "Mateusz Kielbasa",
+        "Hamza",
+        "Mohammad",
+        "Notion",
+        "parasite SEO",
+        "Tenor"
+      ]
+    },
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Ongoing discussion about AI search/GEO visibility strategies, including a research-based playbook, tooling (Spotlight), and debate on how GEO relates to traditional SEO and innovation risk.",
+      "highlights": [
+        {
+          "type": "tool",
+          "title": "GEO/AI visibility playbook and Spotlight automation",
+          "details": "Michael announced a proven playbook for taking brands from 0% to 20% visibility in AI answers within two weeks, based on analysis of millions of prompt responses across 1000+ brands. He will share how to execute it using free tools and how the Spotlight platform can automate the process, with signups via Google Forms.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        },
+        {
+          "type": "discussion",
+          "title": "Grounding pages for LLM and AI chat visibility",
+          "details": "ph1l raised concerns about unproven GEO tactics and pointed to 'grounding pages' as a currently working, validated approach in the industry to influence AI chat responses. He framed this as still falling under SEO, even when optimizing for AI chat-style search engines.",
+          "link": null,
+          "messageId": "1464722959674376447",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1464722959674376447"
+        },
+        {
+          "type": "discussion",
+          "title": "Debate on separating GEO from SEO and innovating with unproven tactics",
+          "details": "Alan argued that GEO should not be separated from SEO and defended experimenting with unproven methods as core to innovation, acknowledging that some bets will fail and others will succeed.",
+          "link": null,
+          "messageId": "1464724038655017021",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1464724038655017021"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "Spotlight",
+        "ph1l",
+        "Alan",
+        "Adam",
+        "Jeremy",
+        "GEO",
+        "SEO",
+        "LLMs",
+        "grounding pages",
+        "Google Forms",
+        "Corn Syrup"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "not-important",
+      "summary": "Single self-introduction from an ads specialist; no substantive AI or tooling discussion.",
+      "mentions": [
+        "angeladerek",
+        "Facebook",
+        "Instagram"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 17,
+    "activeChannels": 2,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}
