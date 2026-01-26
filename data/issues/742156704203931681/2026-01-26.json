@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-26",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - January 26, 2026",
+  "generatedAt": "2026-01-26T03:51:30.700Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "not-important",
+      "summary": "Light chatter about an SEO freelancer Notion dashboard and a forthcoming 'parasite SEO' project, with brief compliments and no shared resources or details."
+    },
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Announcement of a research-backed playbook to boost GEO/AI brand visibility and how the Spotlight tool can automate the process, plus brief community-orientation and off-topic banter.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "Playbook to increase GEO/AI brand visibility with Spotlight automation",
+          "details": "Michael shares a research-backed playbook for taking a brand from 0% to 20% visibility in 2 weeks, based on analysis of millions of prompt responses across 1,000+ brands. The session will cover how to implement the strategy with free tools and how their tool Spotlight can automate the workflow. Access/RSVP is via a Google Form.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "Adam",
+        "Jeremy",
+        "Spotlight",
+        "Google Forms"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "not-important",
+      "summary": "A short welcome message to a new member asking if they also run TikTok ads."
+    }
+  ],
+  "stats": {
+    "totalMessages": 12,
+    "activeChannels": 1,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}
