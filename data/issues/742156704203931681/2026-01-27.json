@@ -1,0 +1,136 @@
+{
+  "date": "2026-01-27",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - January 27, 2026",
+  "generatedAt": "2026-01-27T03:31:51.181Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "active",
+      "summary": "Discussion around an in-development SEO leaderboard/backlink tool, privacy concerns with sharing Google Search Console data via API, and brief mentions of multilingual support and parasite SEO.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "Backlink exchange and SEO leaderboard concept",
+          "details": "Roy explains that a basic version of an SEO leaderboard is already live and that he is currently focused on building a backlink feature, considering ideas like matching sites for backlink exchange based on category rather than building a full marketplace.",
+          "link": "",
+          "messageId": "1465300554493198336",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1465300554493198336"
+        },
+        {
+          "type": "discussion",
+          "title": "Privacy and access concerns around Google Search Console API data",
+          "details": "Members discuss that granting Google Search Console (GSC) access, especially via API, effectively exposes all site data to the receiver. They highlight that larger companies treat this data as sensitive and often restrict API access to high-role or owner-level accounts.",
+          "link": "",
+          "messageId": "1465394237972680745",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1465394237972680745"
+        },
+        {
+          "type": "discussion",
+          "title": "Planned multilingual support and German-focused SEO content",
+          "details": "Phil notes he is currently working on SEO-related projects and may add multilingual support later, but his primary target audience is German speakers, so any initial content or tools would likely launch in German.",
+          "link": "",
+          "messageId": "1465466287529398344",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1465466287529398344"
+        },
+        {
+          "type": "discussion",
+          "title": "Tease of a 'game changing' parasite SEO approach",
+          "details": "Mateusz hints at an upcoming release of a 'game changing' parasite SEO method, implying an advanced strategy for leveraging high-authority domains, though no specific details or resources are shared yet.",
+          "link": "",
+          "messageId": "1462944028218753105",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1462944028218753105"
+        }
+      ],
+      "mentions": [
+        "Hamza",
+        "Mateusz Kielbasa",
+        "ph1l",
+        "roy",
+        "Frost.",
+        "Soulmoons",
+        "Google Search Console",
+        "GSC API",
+        "parasite SEO",
+        "backlink exchange",
+        "SEO leaderboard",
+        "German SEO market"
+      ]
+    },
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Announcement of a playbook and session on rapidly increasing brand visibility in AI answer engines, plus brief community culture guidance.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "Playbook to grow brand GEO/AI visibility from 0% to 20% in 2 weeks",
+          "details": "Michael shares that after a year of research on millions of AI prompt responses across 1000+ brands, he has a validated process to increase a brand's visibility in AI-generated answers from 0% to 20% within two weeks using free tools. He invites members to a session where he’ll explain the method and how his tool Spotlight can automate it.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "Adam",
+        "Jeremy",
+        "Spotlight",
+        "Google Forms",
+        "brand visibility",
+        "GEO (Generative Engine Optimization)"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Chat about an 'AI council' system that aggregates outputs from multiple LLMs, practical workflows for comparing model outputs, and general curiosity around AGI.",
+      "highlights": [
+        {
+          "type": "tool",
+          "title": "AI Council – multi-LLM deliberation system",
+          "details": "Members discuss an 'AI council' tool, reportedly created by PewDiePie and others, that wraps multiple LLM APIs. Users submit a prompt, several top LLMs generate responses, then the models 'discuss' and the system returns an answer based on the majority or consensus output. It’s described as a wrapper over multiple AI APIs, aiming to improve quality by ensemble-style reasoning, though opinions on its effectiveness are mixed.",
+          "link": "https://x.com/i/status/2015536516316164167",
+          "messageId": "1465540892801765468",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1465540892801765468"
+        },
+        {
+          "type": "discussion",
+          "title": "Manual vs automated comparison of multiple LLMs",
+          "details": "Ajay explains his current workflow of manually switching between different AI models and picking the best output, while others note that tools like the AI Council attempt to automate this comparison and selection process.",
+          "link": "",
+          "messageId": "1465542147519414437",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1465542147519414437"
+        },
+        {
+          "type": "discussion",
+          "title": "Questions about AGI (Artificial General Intelligence)",
+          "details": "Ajay asks what AGI is, prompting brief reflection on whether systems like the AI Council qualify as AGI or are simply orchestrations of existing specialized models.",
+          "link": "",
+          "messageId": "1465540271826800773",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1465540271826800773"
+        }
+      ],
+      "mentions": [
+        "Bhavya",
+        "Theguy",
+        "Ajay Hiremath",
+        "PewDiePie",
+        "AI Council",
+        "AGI (Artificial General Intelligence)",
+        "LLMs",
+        "X (Twitter)"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 73,
+    "activeChannels": 3,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}
