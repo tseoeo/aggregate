@@ -1,0 +1,114 @@
+{
+  "date": "2026-01-30",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - January 30, 2026",
+  "generatedAt": "2026-01-30T04:01:04.156Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "active",
+      "summary": "Members discussed SEO client niches, agency structures, and practical link-building strategies, with side notes on using Claude effectively for content.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "Networking and cold outreach strategies for link building",
+          "details": "Hamza outlines a two-part approach to acquiring backlinks: (1) networking within your niche by engaging with others' work, offering free suggestions, then showcasing your own sites before asking for links; and (2) direct cold outreach, which has lower conversion but can still generate links.",
+          "link": "",
+          "messageId": "1466390651208859648",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1466390651208859648"
+        },
+        {
+          "type": "discussion",
+          "title": "Agency brand portfolio and client niches",
+          "details": "Skull_360 describes working at an agency that manages four brands (lead generation, general web/digital marketing agency, bookkeeping services, and HR/recruitment) with clients in EDI integration SaaS and service-based sites (cleaning, security, drone mapping), giving context on varied SEO needs.",
+          "link": "",
+          "messageId": "1466371599027404861",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1466371599027404861"
+        },
+        {
+          "type": "discussion",
+          "title": "Using Claude for SEO content with strong prompting",
+          "details": "Palash-SEO Manager notes that even when using Claude for content generation, high-quality results depend heavily on crafting an excellent prompt, emphasizing prompt engineering over blind reliance on the model.",
+          "link": "",
+          "messageId": "1466476861394522359",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1466476861394522359"
+        },
+        {
+          "type": "discussion",
+          "title": "Experience with EDI integration services",
+          "details": "Patrick_0193 shares prior work experience at an EDI integration company, describing it as a negative personal experience but technically interesting, adding color to the earlier discussion about EDI-focused clients.",
+          "link": "",
+          "messageId": "1466554357028753481",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1466554357028753481"
+        }
+      ],
+      "mentions": [
+        "Hamza",
+        "Skull_360",
+        "Palash-SEO Manager",
+        "patrick_0193",
+        "Scott | Brand Designer",
+        "Amy",
+        "Jeannine | Copywriter",
+        "ChefChef",
+        "Soulmoons",
+        "Claude",
+        "EDI integration"
+      ]
+    },
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Discussion centered on a shared playbook for rapidly increasing GEO/AI visibility for brands using free tools and Spotlight, plus brief community-orientation comments and humor.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "Playbook for boosting GEO/AI brand visibility (0% to 20% in 2 weeks)",
+          "details": "Michael announces a proven playbook, derived from analysis of millions of prompt responses across 1000+ brands, that can raise a brand's GEO/AI visibility from 0% to 20% in two weeks using free tools. He also notes that Spotlight can automate the process and shares a sign-up form to learn the method.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "Adam",
+        "Jeremy",
+        "Spotlight",
+        "Google Forms"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Members debated how AI compares to human intelligence, focusing on memory, data capacity, and whether AI can be 'smarter' through training on large datasets.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "Debate on whether AI can be smarter than humans",
+          "details": "Amy asks how AI could be smarter than humans, prompting responses that while many humans are not very smart, AI can be trained on vast cross-domain data and can remember and analyze more information than any individual human, highlighting differences between data capacity and general intelligence.",
+          "link": "",
+          "messageId": "1466511869929066630",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1466511869929066630"
+        }
+      ],
+      "mentions": [
+        "Amy",
+        "Naktibalda",
+        "legenddeep",
+        "Dimitris Goudis",
+        "AI"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 23,
+    "activeChannels": 3,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}
