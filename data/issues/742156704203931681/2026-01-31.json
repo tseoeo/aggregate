@@ -1,0 +1,97 @@
+{
+  "date": "2026-01-31",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - January 31, 2026",
+  "generatedAt": "2026-01-31T03:58:26.767Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "not-important",
+      "summary": "Light conversation about a past client where management was poor; no concrete SEO tactics, tools, or resources shared."
+    },
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Announcement of a research-backed playbook for rapidly increasing brand visibility in AI responses, plus brief community orientation guidance.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "Playbook to grow brand visibility from 0% to 20% in 2 weeks using AI prompt analysis",
+          "details": "Michael shares a signup form for a session where he will explain a tested playbook based on millions of prompt responses across 1000+ brands. The session will cover how to increase brand visibility in AI outputs using free tools, and how the Spotlight tool can automate this process.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "Spotlight",
+        "Google Forms",
+        "Adam",
+        "Jeremy"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Discussion about building AI content creator agents, tools for automating workflows, and a new CMS/AI content creator project integrating Claude Code.",
+      "highlights": [
+        {
+          "type": "tool",
+          "title": "Openclaw for AI automation",
+          "details": "Members discuss Openclaw as an emerging tool for building AI-powered workflows. Jon notes that onboarding and setup are improving quickly, while others say it's promising but still early and needs refinement.",
+          "link": "",
+          "messageId": "1466849171062526037",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1466849171062526037"
+        },
+        {
+          "type": "tool",
+          "title": "No-code/low-code AI workflows with n8n, Make, and Claude Code",
+          "details": "Suggestion to implement an AI content creator agent by orchestrating tools like n8n or Make, or by building an agentic workflow in Claude Code. This is framed as a path for less-technical builders to create AI systems that post content and manage audience engagement.",
+          "link": "",
+          "messageId": "1466848776181256252",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1466848776181256252"
+        },
+        {
+          "type": "discussion",
+          "title": "AI content creator agents as replacements for niche influencers",
+          "details": "03Toyoda describes an \"AI content creator\" as an agent that creates posts and videos for social media and builds a tribal following. In their niche, they feel many human creators could be replaced by such agents and even consider running a Turing test to prove the point.",
+          "link": "",
+          "messageId": "1466855999968116868",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1466855999968116868"
+        },
+        {
+          "type": "tool",
+          "title": "CMS + Claude Code AI content creator project",
+          "details": "Alan is working on a CMS/AI content creator system that integrates a CMS app with Claude Code to generate content, although it’s not yet ready to share publicly.",
+          "link": "",
+          "messageId": "1466870716682211339",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1466870716682211339"
+        }
+      ],
+      "mentions": [
+        "Alan",
+        "legenddeep",
+        "03Toyoda",
+        "Naktibalda",
+        "Jon Simmons",
+        "Openclaw",
+        "n8n",
+        "Make",
+        "Claude Code",
+        "Claude",
+        "GPT"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 29,
+    "activeChannels": 2,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}

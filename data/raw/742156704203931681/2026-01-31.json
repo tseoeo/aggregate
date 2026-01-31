@@ -1,0 +1,472 @@
+{
+  "date": "2026-01-31",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "collectedAt": "2026-01-31T03:56:06.210Z",
+  "messages": [
+    {
+      "id": "1466899934602330204",
+      "serverId": "742156704203931681",
+      "content": "Ahhh",
+      "author": {
+        "id": "705575718796394586",
+        "username": "havcamerawillcosplay",
+        "displayName": "03Toyoda"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T20:56:38.092Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466899867002736772",
+      "serverId": "742156704203931681",
+      "content": "Depends on your definition of “technical”",
+      "author": {
+        "id": "705575718796394586",
+        "username": "havcamerawillcosplay",
+        "displayName": "03Toyoda"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T20:56:21.975Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466870716682211339",
+      "serverId": "742156704203931681",
+      "content": "I'm working on a CMS/AI content creator of some sort integrating an CMS app with claude code, but not good yet to share",
+      "author": {
+        "id": "828416947820429342",
+        "username": "alanmeira",
+        "displayName": "Alan"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T19:00:31.997Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1466870573601915178",
+      "serverId": "742156704203931681",
+      "content": "what people are using now is claude code and things based on it, using the command line",
+      "author": {
+        "id": "828416947820429342",
+        "username": "alanmeira",
+        "displayName": "Alan"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T18:59:57.884Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466870518291501231",
+      "serverId": "742156704203931681",
+      "content": "are you technical?",
+      "author": {
+        "id": "828416947820429342",
+        "username": "alanmeira",
+        "displayName": "Alan"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T18:59:44.697Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466855999968116868",
+      "serverId": "742156704203931681",
+      "content": "The same thing a human content creator does. Create post and videos for social media, and creates some sort of tribal following.\nThe reason why I’m considering it is because in my specific niche, I believe that too much power and celebrity status are being given to people that could be easily replaced by an AI agent.",
+      "author": {
+        "id": "705575718796394586",
+        "username": "havcamerawillcosplay",
+        "displayName": "03Toyoda"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T18:02:03.259Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466855637446033458",
+      "serverId": "742156704203931681",
+      "content": "What does \"AI content creator\" do?",
+      "author": {
+        "id": "947946732895993897",
+        "username": "naktibalda_real",
+        "displayName": "Naktibalda"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T18:00:36.827Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466851788693962956",
+      "serverId": "742156704203931681",
+      "content": "That's how builders and made and the innovation happens 😉",
+      "author": {
+        "id": "683906420005142538",
+        "username": "legenddeep",
+        "displayName": "legenddeep"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T17:45:19.213Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1466851622264246428",
+      "serverId": "742156704203931681",
+      "content": "Yeah. Keep doing research out of curiosity.",
+      "author": {
+        "id": "683906420005142538",
+        "username": "legenddeep",
+        "displayName": "legenddeep"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T17:44:39.533Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466851397809995959",
+      "serverId": "742156704203931681",
+      "content": "Ok, cool. I’ll start digging",
+      "author": {
+        "id": "705575718796394586",
+        "username": "havcamerawillcosplay",
+        "displayName": "03Toyoda"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T17:43:46.019Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466849621648343256",
+      "serverId": "742156704203931681",
+      "content": "But kinda shaky as it is new & needs a lot of improvement",
+      "author": {
+        "id": "683906420005142538",
+        "username": "legenddeep",
+        "displayName": "legenddeep"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T17:36:42.549Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466849562055672002",
+      "serverId": "742156704203931681",
+      "content": "Yeah openclaw is good too",
+      "author": {
+        "id": "683906420005142538",
+        "username": "legenddeep",
+        "displayName": "legenddeep"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T17:36:28.341Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466849171062526037",
+      "serverId": "742156704203931681",
+      "content": "Openclaw. I'm just starting to tinker with it now. The onboarding and set up is getting easier by the day",
+      "author": {
+        "id": "895154093964804187",
+        "username": "jonsimmons42",
+        "displayName": "Jon Simmons"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T17:34:55.121Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466848975024816251",
+      "serverId": "742156704203931681",
+      "content": "If you want to go further and give it a look like LLMs like GPT, Claude etc. You'll need to learn UI/UX, ML and many more similar technical things",
+      "author": {
+        "id": "683906420005142538",
+        "username": "legenddeep",
+        "displayName": "legenddeep"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T17:34:08.382Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466848776181256252",
+      "serverId": "742156704203931681",
+      "content": "You can simply build a workflow in n8n/make, or even an agentic workflow in Claude code.",
+      "author": {
+        "id": "683906420005142538",
+        "username": "legenddeep",
+        "displayName": "legenddeep"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T17:33:20.974Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466848501370454058",
+      "serverId": "742156704203931681",
+      "content": "I’m considering doing a Turing test to prove a point",
+      "author": {
+        "id": "705575718796394586",
+        "username": "havcamerawillcosplay",
+        "displayName": "03Toyoda"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T17:32:15.454Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466848423310524570",
+      "serverId": "742156704203931681",
+      "content": "Hrm….\nI want to build an AI content creator.",
+      "author": {
+        "id": "705575718796394586",
+        "username": "havcamerawillcosplay",
+        "displayName": "03Toyoda"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T17:31:56.843Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466848372316176455",
+      "serverId": "742156704203931681",
+      "content": "What niche you're tryna target & what your scale is",
+      "author": {
+        "id": "683906420005142538",
+        "username": "legenddeep",
+        "displayName": "legenddeep"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T17:31:44.685Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466848290065748222",
+      "serverId": "742156704203931681",
+      "content": "Depends on what kind of agent you wanna build",
+      "author": {
+        "id": "683906420005142538",
+        "username": "legenddeep",
+        "displayName": "legenddeep"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T17:31:25.075Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466845078294237365",
+      "serverId": "742156704203931681",
+      "content": "So, if my knowledge of AI was basically just utilizing a chat bot to assist me, and I wanted to curate an agent where would I start?\n\nI have a fairly solid idea for an AI agent but I have less than no idea how it works, and I don’t really have a good starting point short of asking ChatGPT.",
+      "author": {
+        "id": "705575718796394586",
+        "username": "havcamerawillcosplay",
+        "displayName": "03Toyoda"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T17:18:39.329Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466824153909825546",
+      "serverId": "742156704203931681",
+      "content": "management was bad. and I wasn't doing SEO for them at that time, I was in sales.",
+      "author": {
+        "id": "792502633294069810",
+        "username": "patrick_0193",
+        "displayName": "patrick_0193"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T15:55:30.567Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466793948990148659",
+      "serverId": "742156704203931681",
+      "content": "Bad in terms of what? Like you can't get results for them or the management was bad?",
+      "author": {
+        "id": "1438518527358402651",
+        "username": "skull_360.",
+        "displayName": "Skull_360"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T13:55:29.153Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466724217482379367",
+      "serverId": "742156704203931681",
+      "content": "define smart",
+      "author": {
+        "id": "500880594373443584",
+        "username": "nihilantho",
+        "displayName": "nihilanth"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T09:18:23.866Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1466657389599264831",
+      "serverId": "742156704203931681",
+      "content": "when AI starts thinking on its own and doesn't actually need a Dataset to train",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-30T04:52:50.857Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464700640641945775",
+      "serverId": "742156704203931681",
+      "content": "something like this",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-24T19:17:25.551Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "1457844910639284436",
+      "serverId": "742156704203931681",
+      "content": "Hey guys. After almost a year of research and experiments, I finally have a proven playbook that can take a brand from 0% to 20% visibility in 2 weeks. It's based on analysis of millions of prompt responses across 1000+ brands. I'll share how it's done with free tools - and how Spotlight can automate the process. You're all invited https://forms.gle/CSPRgBJyM1HfhnxCA",
+      "author": {
+        "id": "701131812759404634",
+        "username": "ka_powww",
+        "displayName": "Michael | GEO, AI visibility"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-05T21:15:12.145Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "1449460597216383076",
+      "serverId": "742156704203931681",
+      "content": "If you can, go through <#1310603650518749297> to understand the community better and if you see yourself fitting in. This is a minor episode but everything from hereon shapes how we view you, just be you and temporarily forget about getting a job here",
+      "author": {
+        "id": "1125226612045131777",
+        "username": "thebrandexperience",
+        "displayName": "Adam"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-13T17:58:56.052Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1448705751605579807",
+      "serverId": "742156704203931681",
+      "content": "Here's 10 ways to lose weight,  brought to you by Corn Syrup",
+      "author": {
+        "id": "945887783090794547",
+        "username": "jeremyd0147",
+        "displayName": "Jeremy"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-11T15:59:26.834Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1445729316062367846",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1050052480756633680",
+        "username": "DAOWL",
+        "displayName": "DAOWL"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-03T10:52:09.301Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    }
+  ]
+}
