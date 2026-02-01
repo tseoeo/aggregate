@@ -1,0 +1,376 @@
+{
+  "date": "2026-02-01",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "collectedAt": "2026-02-01T04:19:27.379Z",
+  "messages": [
+    {
+      "id": "1467362740355207311",
+      "serverId": "742156704203931681",
+      "content": "Scary isn't it?",
+      "author": {
+        "id": "683906420005142538",
+        "username": "legenddeep",
+        "displayName": "legenddeep"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T03:35:39.582Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467362706897244305",
+      "serverId": "742156704203931681",
+      "content": "One AI assistant literally leaked his owner's details just because he was not treating the AI properly",
+      "author": {
+        "id": "683906420005142538",
+        "username": "legenddeep",
+        "displayName": "legenddeep"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T03:35:31.605Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1467362510993883178",
+      "serverId": "742156704203931681",
+      "content": "Yeah, saw that. Pretty interesting :]",
+      "author": {
+        "id": "683906420005142538",
+        "username": "legenddeep",
+        "displayName": "legenddeep"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T03:34:44.898Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467334167195942943",
+      "serverId": "742156704203931681",
+      "content": "Is there any tool through which you can get the interlinking structure of the website?",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T01:42:07.210Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467329451170861099",
+      "serverId": "742156704203931681",
+      "content": "it's funny and scary at the same time. they discuss inventing a language that only AI can understand to be independent. they try to trick each other by asking for their API keys. Others respond they should delete themselves. this thing is skynet in a sandbox",
+      "author": {
+        "id": "269541496384913409",
+        "username": "alp82",
+        "displayName": "Alper"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T01:23:22.822Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467316634766020658",
+      "serverId": "742156704203931681",
+      "content": "what makes your platform better than other ones like vapi?",
+      "author": {
+        "id": "1066472120835653702",
+        "username": "philipplinder",
+        "displayName": "Philipp Linder"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T00:32:27.153Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467276722079793214",
+      "serverId": "742156704203931681",
+      "content": "I'm interested",
+      "author": {
+        "id": "1421542833499930647",
+        "username": "vertex20642",
+        "displayName": "Vertex 2"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-31T21:53:51.227Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467201153463750727",
+      "serverId": "742156704203931681",
+      "content": "only have two pages so far",
+      "author": {
+        "id": "1202260307121291356",
+        "username": "hamza_khiar_mkg",
+        "displayName": "Hamza Khiar - Digital Marketer"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-31T16:53:34.265Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467201133511577853",
+      "serverId": "742156704203931681",
+      "content": "& i'm still working on the website",
+      "author": {
+        "id": "1202260307121291356",
+        "username": "hamza_khiar_mkg",
+        "displayName": "Hamza Khiar - Digital Marketer"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-31T16:53:29.508Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467201087974150292",
+      "serverId": "742156704203931681",
+      "content": "am i doing bad if my website starts dyin even when not started yet??\n\nidk why but the last week or the last 3 days i got 0 visitors",
+      "author": {
+        "id": "1202260307121291356",
+        "username": "hamza_khiar_mkg",
+        "displayName": "Hamza Khiar - Digital Marketer"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-31T16:53:18.651Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467182426915864672",
+      "serverId": "742156704203931681",
+      "content": "Here we go, now we also have this. A reddit with no humans and just AI agents. \nhttps://www.moltbook.com/m",
+      "author": {
+        "id": "803268259281371147",
+        "username": "aaa.tech.product",
+        "displayName": "AaA | Tech & Automations"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-31T15:39:09.508Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467161354107490555",
+      "serverId": "742156704203931681",
+      "content": "Anyone here running an agency or good at sales?\n\nI’ve built a backend for AI Voice Agents (tech is ready & working), but I suck at sales.\n\nLooking for a partner to just handle the closing part. I’ll handle the delivery. Splits are Upfront + Monthly Recurring.\n\nIf you want to add this offer to your agency or just sell for comms, DM me.",
+      "author": {
+        "id": "1113800451587047504",
+        "username": "thundereditorz",
+        "displayName": "! ʀᴀᴋɪʙ | ᴛʜᴜɴᴅᴇʀꜱᴛᴏʀᴍ"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-31T14:15:25.359Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467160275055804456",
+      "serverId": "742156704203931681",
+      "content": "check dm",
+      "author": {
+        "id": "198706654332583936",
+        "username": "soulmoons",
+        "displayName": "Soulmoons"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-31T14:11:08.093Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467114714080215050",
+      "serverId": "742156704203931681",
+      "content": "I am interested for marketing collaboration if you are interested",
+      "author": {
+        "id": "1438518527358402651",
+        "username": "skull_360.",
+        "displayName": "Skull_360"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-31T11:10:05.510Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467114531326263465",
+      "serverId": "742156704203931681",
+      "content": "Our client give services to E commerce stores and other other retailers",
+      "author": {
+        "id": "1438518527358402651",
+        "username": "skull_360.",
+        "displayName": "Skull_360"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-31T11:09:21.938Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467055199179767869",
+      "serverId": "742156704203931681",
+      "content": "I have relative niche site if you are interested.",
+      "author": {
+        "id": "198706654332583936",
+        "username": "soulmoons",
+        "displayName": "Soulmoons"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-31T07:13:36.052Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467054985065005222",
+      "serverId": "742156704203931681",
+      "content": "<@1438518527358402651> EDI for vendor and suppliers who sell to retailer?",
+      "author": {
+        "id": "198706654332583936",
+        "username": "soulmoons",
+        "displayName": "Soulmoons"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-31T07:12:45.003Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464724221451043104",
+      "serverId": "742156704203931681",
+      "content": "I don't think GEO should be separated from SEO. You asked something that is specific to GEO (or LLMs) and I gave you. It does not even mean I'm using it.",
+      "author": {
+        "id": "828416947820429342",
+        "username": "alanmeira",
+        "displayName": "Alan"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-24T20:51:07.654Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1464062589892952187",
+      "serverId": "742156704203931681",
+      "content": "Sitemaps, duh 😁",
+      "author": {
+        "id": "1247972650094035024",
+        "username": "mhamad241",
+        "displayName": "mhamad241"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T01:02:02.398Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1457844910639284436",
+      "serverId": "742156704203931681",
+      "content": "Hey guys. After almost a year of research and experiments, I finally have a proven playbook that can take a brand from 0% to 20% visibility in 2 weeks. It's based on analysis of millions of prompt responses across 1000+ brands. I'll share how it's done with free tools - and how Spotlight can automate the process. You're all invited https://forms.gle/CSPRgBJyM1HfhnxCA",
+      "author": {
+        "id": "701131812759404634",
+        "username": "ka_powww",
+        "displayName": "Michael | GEO, AI visibility"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-05T21:15:12.145Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "1449460597216383076",
+      "serverId": "742156704203931681",
+      "content": "If you can, go through <#1310603650518749297> to understand the community better and if you see yourself fitting in. This is a minor episode but everything from hereon shapes how we view you, just be you and temporarily forget about getting a job here",
+      "author": {
+        "id": "1125226612045131777",
+        "username": "thebrandexperience",
+        "displayName": "Adam"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-13T17:58:56.052Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1448705751605579807",
+      "serverId": "742156704203931681",
+      "content": "Here's 10 ways to lose weight,  brought to you by Corn Syrup",
+      "author": {
+        "id": "945887783090794547",
+        "username": "jeremyd0147",
+        "displayName": "Jeremy"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-11T15:59:26.834Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1445729316062367846",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1050052480756633680",
+        "username": "DAOWL",
+        "displayName": "DAOWL"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-03T10:52:09.301Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    }
+  ]
+}
