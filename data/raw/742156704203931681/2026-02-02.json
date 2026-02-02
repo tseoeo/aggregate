@@ -1,0 +1,376 @@
+{
+  "date": "2026-02-02",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "collectedAt": "2026-02-02T04:12:06.321Z",
+  "messages": [
+    {
+      "id": "1467659998048948360",
+      "serverId": "742156704203931681",
+      "content": "WT?",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T23:16:51.339Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467656871656816671",
+      "serverId": "742156704203931681",
+      "content": "Ban",
+      "author": {
+        "id": "313743328694894594",
+        "username": "abdulsaboorseo",
+        "displayName": "Saboor - SEO"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T23:04:25.949Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467651092824457455",
+      "serverId": "742156704203931681",
+      "content": "Hey Everyone, don't reply to any screenshots and irrelevant stuff sent by your friends.\nApply Authenticator to your account.",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T22:41:28.168Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467643136615383071",
+      "serverId": "742156704203931681",
+      "content": "Yeah, i dunno i had everything set up",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T22:09:51.260Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467642984706080829",
+      "serverId": "742156704203931681",
+      "content": "<@994124419519762473> got hacked?",
+      "author": {
+        "id": "119170167136583680",
+        "username": "ph1l",
+        "displayName": "ph1l"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T22:09:15.042Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467632583738134651",
+      "serverId": "742156704203931681",
+      "content": "Yo yo yo yo... Can you type some more words? It's not that hard believe me yo. 😂",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T21:27:55.258Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467623296693436517",
+      "serverId": "742156704203931681",
+      "content": "Removal/moving business?",
+      "author": {
+        "id": "313743328694894594",
+        "username": "abdulsaboorseo",
+        "displayName": "Saboor - SEO"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T20:51:01.054Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467602147003601000",
+      "serverId": "742156704203931681",
+      "content": "Great question! To be clear we aren't competing with Vapi/Retell (we actually use them as the underlying infrastructure).\n\nWe are the Solution Layer on top.\nMost business owners (Dentists, Realtors, Solar) cannot use a raw API like Vapi. They need a fully set up, prompted, and integrated system that just 'works.'\n\nThe Difference:\nVapi sells the Engine (API). \nWe sell the Car (The finished product that drives revenue). \nWe handle the 'Last Mile' fulfillment (CRM integration, Custom Prompting, \nMaintenance) so the client gets a result, not just a tool.",
+      "author": {
+        "id": "1113800451587047504",
+        "username": "thundereditorz",
+        "displayName": "! ʀᴀᴋɪʙ | ᴛʜᴜɴᴅᴇʀꜱᴛᴏʀᴍ"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T19:26:58.575Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467578366465937573",
+      "serverId": "742156704203931681",
+      "content": "explain pls? 🤔",
+      "author": {
+        "id": "119170167136583680",
+        "username": "ph1l",
+        "displayName": "ph1l"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T17:52:28.853Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467573728522276999",
+      "serverId": "742156704203931681",
+      "content": "yo im doing removals lmk",
+      "author": {
+        "id": "765162668268191744",
+        "username": "sawcon069",
+        "displayName": "Slowredd"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T17:34:03.081Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467542041406996543",
+      "serverId": "742156704203931681",
+      "content": "Hi",
+      "author": {
+        "id": "1229471272577142926",
+        "username": "edsc0939",
+        "displayName": "Ethan"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T15:28:08.284Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467535488314245220",
+      "serverId": "742156704203931681",
+      "content": "Sent ✅",
+      "author": {
+        "id": "780706078124015636",
+        "username": "yung0xx",
+        "displayName": "Yung"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T15:02:05.905Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467532220947234898",
+      "serverId": "742156704203931681",
+      "content": "Sure, send it",
+      "author": {
+        "id": "1066472120835653702",
+        "username": "philipplinder",
+        "displayName": "Philipp Linder"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T14:49:06.904Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1467523706078236866",
+      "serverId": "742156704203931681",
+      "content": "I think he's an Automation Specialist looking to partner up. Btw, I see you run an AI/Automation Agency. I'm looking to have agency experience (currently freelance), can I send a DM?",
+      "author": {
+        "id": "780706078124015636",
+        "username": "yung0xx",
+        "displayName": "Yung"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T14:15:16.801Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467457350150651946",
+      "serverId": "742156704203931681",
+      "content": "Just use Octopus.do",
+      "author": {
+        "id": "1173585766660722730",
+        "username": "pudfra",
+        "displayName": "pudfra"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T09:51:36.315Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1467416977587835085",
+      "serverId": "742156704203931681",
+      "content": "Thankew",
+      "author": {
+        "id": "994124419519762473",
+        "username": "mian_hamza2",
+        "displayName": "Hamza"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T07:11:10.746Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1467412461882970224",
+      "serverId": "742156704203931681",
+      "content": "[Click to add to your server](https://discord.com/api/oauth2/authorize?client_id=819778342818414632&scope=bot%20applications.commands)",
+      "author": {
+        "id": "819778342818414632",
+        "username": "Activities",
+        "displayName": "Activities"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T06:53:14.118Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1467382515080630364",
+      "serverId": "742156704203931681",
+      "content": "Screaming frog",
+      "author": {
+        "id": "119170167136583680",
+        "username": "ph1l",
+        "displayName": "ph1l"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-01T04:54:14.244Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464062589892952187",
+      "serverId": "742156704203931681",
+      "content": "Sitemaps, duh 😁",
+      "author": {
+        "id": "1247972650094035024",
+        "username": "mhamad241",
+        "displayName": "mhamad241"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T01:02:02.398Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1457844910639284436",
+      "serverId": "742156704203931681",
+      "content": "Hey guys. After almost a year of research and experiments, I finally have a proven playbook that can take a brand from 0% to 20% visibility in 2 weeks. It's based on analysis of millions of prompt responses across 1000+ brands. I'll share how it's done with free tools - and how Spotlight can automate the process. You're all invited https://forms.gle/CSPRgBJyM1HfhnxCA",
+      "author": {
+        "id": "701131812759404634",
+        "username": "ka_powww",
+        "displayName": "Michael | GEO, AI visibility"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-05T21:15:12.145Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "1449460597216383076",
+      "serverId": "742156704203931681",
+      "content": "If you can, go through <#1310603650518749297> to understand the community better and if you see yourself fitting in. This is a minor episode but everything from hereon shapes how we view you, just be you and temporarily forget about getting a job here",
+      "author": {
+        "id": "1125226612045131777",
+        "username": "thebrandexperience",
+        "displayName": "Adam"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-13T17:58:56.052Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1448705751605579807",
+      "serverId": "742156704203931681",
+      "content": "Here's 10 ways to lose weight,  brought to you by Corn Syrup",
+      "author": {
+        "id": "945887783090794547",
+        "username": "jeremyd0147",
+        "displayName": "Jeremy"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-11T15:59:26.834Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1445729316062367846",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1050052480756633680",
+        "username": "DAOWL",
+        "displayName": "DAOWL"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-03T10:52:09.301Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    }
+  ]
+}

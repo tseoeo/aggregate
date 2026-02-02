@@ -1,0 +1,112 @@
+{
+  "date": "2026-02-02",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - February 2, 2026",
+  "generatedAt": "2026-02-02T04:15:04.704Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "active",
+      "summary": "Light discussion around SEO tools, a removals business, and a reminder about account security.",
+      "highlights": [
+        {
+          "type": "tool",
+          "title": "Octopus.do for site planning",
+          "details": "Suggestion to use Octopus.do, a visual sitemap and website planning tool, likely for organizing site architecture and SEO-focused structure.",
+          "link": "",
+          "messageId": "1467457350150651946",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1467457350150651946"
+        },
+        {
+          "type": "tool",
+          "title": "Screaming Frog SEO Spider",
+          "details": "Mention of Screaming Frog, a widely used SEO crawler for auditing websites (e.g., finding technical issues, checking metadata, and internal linking).",
+          "link": "",
+          "messageId": "1467382515080630364",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1467382515080630364"
+        },
+        {
+          "type": "discussion",
+          "title": "Account security and 2FA authenticator reminder",
+          "details": "Warning not to reply to random screenshots or irrelevant content and to enable an authenticator (2FA) for better account protection, in the context of a possible account hack.",
+          "link": "",
+          "messageId": "1467651092824457455",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1467651092824457455"
+        }
+      ],
+      "mentions": [
+        "Octopus.do",
+        "Screaming Frog",
+        "Two-factor authentication",
+        "Hamza",
+        "ph1l",
+        "Saboor - SEO",
+        "Slowredd",
+        "pudfra"
+      ]
+    },
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Announcement of a research-based GEO/AI visibility playbook and brief comments on sitemaps and community expectations.",
+      "highlights": [
+        {
+          "type": "research",
+          "title": "GEO visibility playbook and Spotlight automation",
+          "details": "Michael shares that after a year of research and experiments across millions of prompt responses for 1000+ brands, he has a playbook to raise a brand’s GEO/AI visibility from 0% to 20% in two weeks, using free tools and potentially automating it with Spotlight. A signup form is provided for those interested.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "Spotlight",
+        "Sitemaps",
+        "Adam",
+        "Jeremy"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Discussion about an AI solution layer built on Vapi/Retell infrastructure and a bot invite link for Discord Activities.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "Solution-layer AI system built on Vapi and Retell",
+          "details": "Explanation that their product is not competing with Vapi/Retell but instead uses them as infrastructure, providing a fully set up, prompted, and integrated AI system for businesses like dentists, realtors, and solar companies. Vapi is framed as the engine (API) while their offering is the finished car (ready-to-use solution).",
+          "link": "",
+          "messageId": "1467602147003601000",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1467602147003601000"
+        },
+        {
+          "type": "tool",
+          "title": "Discord Activities bot invite",
+          "details": "Link shared to add the 'Activities' bot to a Discord server, enabling built-in interactive features via OAuth2 authorization.",
+          "link": "https://discord.com/api/oauth2/authorize?client_id=819778342818414632&scope=bot%20applications.commands",
+          "messageId": "1467412461882970224",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1467412461882970224"
+        }
+      ],
+      "mentions": [
+        "Vapi",
+        "Retell",
+        "Discord Activities",
+        "! ʀᴀᴋɪʙ | ᴛʜᴜɴᴅᴇʀꜱᴛᴏʀᴍ",
+        "Yung",
+        "Philipp Linder"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 23,
+    "activeChannels": 3,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}
