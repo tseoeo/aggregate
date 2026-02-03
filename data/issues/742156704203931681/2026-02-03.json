@@ -1,0 +1,104 @@
+{
+  "date": "2026-02-03",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - February 3, 2026",
+  "generatedAt": "2026-02-03T04:08:11.257Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "active",
+      "summary": "Security incident around a hacked account plus a brief SEO recovery case study where technical fixes and new content reversed a major traffic loss caused by a bad redirect.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "Account compromise via stolen session cookie and subsequent ban",
+          "details": "Members identified that a user's session cookie had likely been stolen, leading to a compromised account. The compromised user was banned to mitigate risk, underscoring the importance of session security and rapid moderation response.",
+          "link": "",
+          "messageId": "1467830133120438425",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1467830133120438425"
+        },
+        {
+          "type": "discussion",
+          "title": "SEO recovery after harmful homepage redirect from influencer traffic landing page",
+          "details": "Soulmoons described an SEO recovery where a site relying on influencer traffic redirected its homepage to /dashboard in an attempt to improve conversions, causing a 90% traffic drop. The fix involved resolving technical SEO issues, creating new pages, and uncovering previously unused opportunities, including high-quality listicle content.",
+          "link": "",
+          "messageId": "1467867815326515240",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1467867815326515240"
+        }
+      ],
+      "mentions": [
+        "Adam",
+        "Soulmoons",
+        "Saboor - SEO",
+        "vicen",
+        "session cookie",
+        "technical SEO",
+        "listicle"
+      ]
+    },
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Announcement of a GEO/AI visibility playbook based on large-scale prompt analysis, with a signup form for a session explaining the method and Spotlight automation.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "GEO AI visibility playbook and Spotlight automation session",
+          "details": "Michael shared a playbook that purportedly moves brands from 0% to 20% visibility in 2 weeks, derived from analysis of millions of prompt responses across 1000+ brands. He invited members to a session explaining how to implement it with free tools and how the Spotlight tool can automate the workflow.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "Spotlight",
+        "mhamad241",
+        "Adam",
+        "Jeremy",
+        "Sitemaps",
+        "Google Forms"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Light AI chatter including tools mentioned, a question on long-term data portability across tools, and an introduction from a member specializing in explainer video content.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "Long-term data portability strategies across AI and productivity tools",
+          "details": "Nik asked whether others maintain systems to keep important data portable over the long term or simply trust the tools they use, prompting consideration of backup, export formats, and vendor lock-in in AI-centric workflows.",
+          "link": "",
+          "messageId": "1468053884873474220",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1468053884873474220"
+        },
+        {
+          "type": "discussion",
+          "title": "Introduction from video communication specialist",
+          "details": "boserpro_carrd introduced themselves as working with organizations and teams to turn complex information—such as reports, processes, or campaigns—into clear, short professional videos for easier understanding and sharing.",
+          "link": "",
+          "messageId": "1467896785312808971",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1467896785312808971"
+        }
+      ],
+      "mentions": [
+        "Mason2.0",
+        "Nik",
+        "boserpro_carrd",
+        "Pandas",
+        "Claude Code"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 18,
+    "activeChannels": 3,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}
