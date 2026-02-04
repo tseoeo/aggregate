@@ -1,0 +1,91 @@
+{
+  "date": "2026-02-04",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - February 4, 2026",
+  "generatedAt": "2026-02-04T04:05:25.902Z",
+  "channels": [
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Discussion included an invite to a session on rapidly increasing brand visibility in AI responses, plus light community chatter.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "Playbook to grow brand AI visibility from 0% to 20% in 2 weeks",
+          "details": "Michael announced a proven playbook, derived from analysis of millions of prompt responses across 1000+ brands, for boosting brand visibility in AI outputs. The session will cover how to execute this with free tools and how the Spotlight tool can automate the process. Access is via a signup Google Form.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "mhamad241",
+        "Adam",
+        "Jeremy",
+        "Spotlight"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Ongoing discussion about LLM behavior, realism in evaluating AI system claims, lightweight MLOps/deployment options, and practical experience with OpenAI Agent Builder and data workflows.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "Skepticism around AI overhyping a new system (phygital divide & reliable world modeling)",
+          "details": "Branden shared that an AI reviewer described his concept as solving the 'Phygital Divide' and 'Reliable World Modeling' and claimed every CRO in AI and banking would want it. He expressed skepticism and is looking for grounded, critical feedback from humans instead of relying on AI hype.",
+          "link": "",
+          "messageId": "1468363784992067618",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1468363784992067618"
+        },
+        {
+          "type": "discussion",
+          "title": "Lightweight MLOps and cheap/free deployment for personal ML projects",
+          "details": "Iprabhsidhu asked how others set up their ML pipelines (MLOps) for products and projects, and requested recommendations for free or inexpensive (INR-friendly) platforms to deploy ML models for portfolios and personal, non-production use.",
+          "link": "",
+          "messageId": "1468268309567770675",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1468268309567770675"
+        },
+        {
+          "type": "tool",
+          "title": "Need guidance on setting agents & flows in OpenAI Agent Builder",
+          "details": "Tom is seeking someone with practical experience configuring agents and flows in OpenAI Agent Builder who can provide guidance and Q&A support.",
+          "link": "",
+          "messageId": "1468197170812555298",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1468197170812555298"
+        },
+        {
+          "type": "discussion",
+          "title": "Preference for code/data workflows vs SaaS platforms in AI projects",
+          "details": "Nik asked whether others primarily keep their workflows in code and data pipelines instead of SaaS storage, probing if this is for flexibility/portability or due to past issues with vendor lock-in and platform migration.",
+          "link": "",
+          "messageId": "1468101958731567215",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1468101958731567215"
+        }
+      ],
+      "mentions": [
+        "Alan",
+        "Branden",
+        "Iprabhsidhu",
+        "legenddeep",
+        "Tom",
+        "Nik",
+        "OpenAI Agent Builder",
+        "LLMs",
+        "CROs",
+        "AI industry",
+        "Banking industry"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 12,
+    "activeChannels": 2,
+    "sourcesUsed": [
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}

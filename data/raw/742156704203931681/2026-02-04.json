@@ -1,0 +1,200 @@
+{
+  "date": "2026-02-04",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "collectedAt": "2026-02-04T04:02:41.890Z",
+  "messages": [
+    {
+      "id": "1468381541120868628",
+      "serverId": "742156704203931681",
+      "content": "yeah LLMs have this sycophant personality, probably because it is the most engaging one. Being it true or not, going from what AI say to people buying is a transition that no AI motivation will help.",
+      "author": {
+        "id": "828416947820429342",
+        "username": "alanmeira",
+        "displayName": "Alan"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-03T23:04:00.613Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468363784992067618",
+      "serverId": "742156704203931681",
+      "content": "I need some criticism and grounding, apparently I finally have my basic system and concept down well. However I decided to show it to an AI just for feedback and it started saying words like it solves the \"Phygital Divide\",  the problem of \"Reliable World Modeling\" (or \"True Understanding\"), as well as it says that every CRO in the AI industry and Banking industry wants this... I am skeptical but? thoughts or comments?",
+      "author": {
+        "id": "1174469106569838654",
+        "username": "branden0877",
+        "displayName": "Branden"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-03T21:53:27.222Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468268571619491861",
+      "serverId": "742156704203931681",
+      "content": "And also, what's the free (preferred) or cheap (for INR) to deploy ML models that are for portfolio and personal projects, nothing real world production type products",
+      "author": {
+        "id": "771941181638574081",
+        "username": "iprabhsidhu_",
+        "displayName": "Iprabhsidhu"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-03T15:35:06.585Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468268309567770675",
+      "serverId": "742156704203931681",
+      "content": "How do y'all set up your ML pipelines? (MLOps question) For your product/project",
+      "author": {
+        "id": "771941181638574081",
+        "username": "iprabhsidhu_",
+        "displayName": "Iprabhsidhu"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-03T15:34:04.107Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468199203783180532",
+      "serverId": "742156704203931681",
+      "content": "I believe I could be of help to you. \nRequest you to check DMs",
+      "author": {
+        "id": "683906420005142538",
+        "username": "legenddeep",
+        "displayName": "legenddeep"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-03T10:59:28.004Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468197170812555298",
+      "serverId": "742156704203931681",
+      "content": "Hey guys anyone who has practical experince with setting agent & flows over openAI agnet builder and could spend some time with me for guidance/qa hah 😅",
+      "author": {
+        "id": "851381985875460136",
+        "username": "tomarcus",
+        "displayName": "Tom"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-03T10:51:23.306Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468101958731567215",
+      "serverId": "742156704203931681",
+      "content": "Nice. So you mostly keep things in code/data workflows rather than relying on SAAS storage?\n\nIs that mainly for flexibility/portability, or haqve you run into issues with platforms being hard to migrate away from before?",
+      "author": {
+        "id": "1444090534531694592",
+        "username": "honest_beetle_11774",
+        "displayName": "Nik"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-03T04:33:02.977Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1464062589892952187",
+      "serverId": "742156704203931681",
+      "content": "Sitemaps, duh 😁",
+      "author": {
+        "id": "1247972650094035024",
+        "username": "mhamad241",
+        "displayName": "mhamad241"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T01:02:02.398Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1457844910639284436",
+      "serverId": "742156704203931681",
+      "content": "Hey guys. After almost a year of research and experiments, I finally have a proven playbook that can take a brand from 0% to 20% visibility in 2 weeks. It's based on analysis of millions of prompt responses across 1000+ brands. I'll share how it's done with free tools - and how Spotlight can automate the process. You're all invited https://forms.gle/CSPRgBJyM1HfhnxCA",
+      "author": {
+        "id": "701131812759404634",
+        "username": "ka_powww",
+        "displayName": "Michael | GEO, AI visibility"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-05T21:15:12.145Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "1449460597216383076",
+      "serverId": "742156704203931681",
+      "content": "If you can, go through <#1310603650518749297> to understand the community better and if you see yourself fitting in. This is a minor episode but everything from hereon shapes how we view you, just be you and temporarily forget about getting a job here",
+      "author": {
+        "id": "1125226612045131777",
+        "username": "thebrandexperience",
+        "displayName": "Adam"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-13T17:58:56.052Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1448705751605579807",
+      "serverId": "742156704203931681",
+      "content": "Here's 10 ways to lose weight,  brought to you by Corn Syrup",
+      "author": {
+        "id": "945887783090794547",
+        "username": "jeremyd0147",
+        "displayName": "Jeremy"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-11T15:59:26.834Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1445729316062367846",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1050052480756633680",
+        "username": "DAOWL",
+        "displayName": "DAOWL"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-03T10:52:09.301Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    }
+  ]
+}
