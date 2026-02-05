@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-05",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - February 5, 2026",
+  "generatedAt": "2026-02-05T04:06:36.659Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "active",
+      "summary": "Discussion on how to handle SEO clients when you're uncertain about delivering results, plus a shared article on using cosine similarity to optimize for AI Overview appearances.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "Article on cosine similarity in SEO for AI Overview visibility",
+          "details": "Shared guide on how cosine similarity can be used to align content with AI-generated search overviews, helping improve chances of showing up in AI Overview results.",
+          "link": "https://www.pudfradigital.com/articles/digital-marketing-strategy/cosine-similarity-in-seo",
+          "messageId": "1468636933222826176",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1468636933222826176"
+        },
+        {
+          "type": "discussion",
+          "title": "Handling SEO clients when unsure about results",
+          "details": "Members discuss approaches to closing SEO deals when they're not fully confident about outcomes—ranging from being transparent and collaborating on strategy to referring clients elsewhere rather than overpromising.",
+          "link": "",
+          "messageId": "1468678851918827755",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1468678851918827755"
+        }
+      ],
+      "mentions": [
+        "pudfradigital.com",
+        "cosine similarity",
+        "Google AI Overviews"
+      ]
+    },
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Invite to a session sharing a tested playbook for boosting brand visibility in AI-generated results, with mention of how Spotlight can automate the workflow, plus light banter and brief sitemap mention.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "GEO visibility playbook & Spotlight automation session",
+          "details": "Announcement of a session sharing a proven playbook to grow a brand from 0% to 20% visibility in 2 weeks, based on millions of prompt responses across 1000+ brands, using free tools and Spotlight for automation.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        }
+      ],
+      "mentions": [
+        "Spotlight",
+        "sitemaps",
+        "GEO"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Loose discussion about AI tools and theory, including an offer of Azure credits, a recommendation to join EleutherAI, and conversation around complex theoretical frameworks used to describe an AI-related algorithm.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "Offer of $5k in Azure credits",
+          "details": "Member offers access to $5,000 in Microsoft Azure credits that expire on Feb 24, inviting others to use them for AI or infrastructure experiments.",
+          "link": "",
+          "messageId": "1468684333211582707",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1468684333211582707"
+        },
+        {
+          "type": "resource",
+          "title": "Recommendation to join EleutherAI Discord",
+          "details": "Suggestion for a member to seek peers and feedback in the EleutherAI Discord community, indicating it as a good place for people working on advanced AI and related research.",
+          "link": "",
+          "messageId": "1468596496655192216",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1468596496655192216"
+        }
+      ],
+      "mentions": [
+        "Microsoft Azure",
+        "EleutherAI",
+        "Algorithmic Information Theory",
+        "Kolmogorov Complexity",
+        "Solomonoff Induction",
+        "Kirchhoff’s Laws",
+        "Principle of Least Action"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 25,
+    "activeChannels": 3,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}
