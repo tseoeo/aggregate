@@ -1,0 +1,808 @@
+{
+  "date": "2026-02-06",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "collectedAt": "2026-02-06T04:04:40.697Z",
+  "messages": [
+    {
+      "id": "1469075792808902971",
+      "serverId": "742156704203931681",
+      "content": "gentle reminder to always be cautious in open source environments like OpenClaw\n\nhttps://www.reddit.com/r/cybersecurity/comments/1qwrwsh/openclaw_is_terrifying_and_the_clawhub_ecosystem/",
+      "author": {
+        "id": "792502633294069810",
+        "username": "patrick_0193",
+        "displayName": "patrick_0193"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T21:02:43.114Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469065704367198423",
+      "serverId": "742156704203931681",
+      "content": "Anyone else playing with having multiple different models from different providers interact / debate to improve the quality of the output for high value tasks? Not just ask three and summarise their responses, but shared context for all. Basically, get ChatGPT, Gemini, and Claude into a room and talk, with every model getting full context from the others.",
+      "author": {
+        "id": "1468341184475959524",
+        "username": "charlie_58543",
+        "displayName": "Charlie"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T20:22:37.842Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469008941173178564",
+      "serverId": "742156704203931681",
+      "content": "https://substack.com/home/post/p-186656570",
+      "author": {
+        "id": "792502633294069810",
+        "username": "patrick_0193",
+        "displayName": "patrick_0193"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T16:37:04.442Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469008938971431017",
+      "serverId": "742156704203931681",
+      "content": "interesting possible crackdown by Google in self-promotional listicles. The evidence isn't 100% solid and a bit circumstantial at times (there are other factors), but worth watching",
+      "author": {
+        "id": "792502633294069810",
+        "username": "patrick_0193",
+        "displayName": "patrick_0193"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T16:37:03.917Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468983849403809883",
+      "serverId": "742156704203931681",
+      "content": "Gone",
+      "author": {
+        "id": "1125226612045131777",
+        "username": "thebrandexperience",
+        "displayName": "Adam"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T14:57:22.098Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1468983830827241482",
+      "serverId": "742156704203931681",
+      "content": "scammer",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T14:57:17.669Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468983777912164473",
+      "serverId": "742156704203931681",
+      "content": "<@1125226612045131777> <@366200358491652098>",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T14:57:05.053Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468965611148415245",
+      "serverId": "742156704203931681",
+      "content": "It anyway feels far confident coding manually.\nAs I understand my codebase better",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T13:44:53.759Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468965477622485042",
+      "serverId": "742156704203931681",
+      "content": "Yeah similar approach I use.",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T13:44:21.924Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468965426963677235",
+      "serverId": "742156704203931681",
+      "content": "only ask about errors on how to fix if found no solution",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T13:44:09.846Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468965157538369668",
+      "serverId": "742156704203931681",
+      "content": "we still do code without AI",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T13:43:05.610Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468965108498829352",
+      "serverId": "742156704203931681",
+      "content": "true",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T13:42:53.918Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468964728893341972",
+      "serverId": "742156704203931681",
+      "content": "So many such cases since vibe coding came in practice\nWe as a programmers used to be so serious about db and env stuff",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T13:41:23.413Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468948603476377837",
+      "serverId": "742156704203931681",
+      "content": "Idk till when this all information will be live but much a read, before it gets down lol",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T12:37:18.814Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468948075702648895",
+      "serverId": "742156704203931681",
+      "content": "Yaa ik it was a must to share",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T12:35:12.983Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468946798671429876",
+      "serverId": "742156704203931681",
+      "content": "Great read",
+      "author": {
+        "id": "683906420005142538",
+        "username": "legenddeep",
+        "displayName": "legenddeep"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T12:30:08.515Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468922064336457823",
+      "serverId": "742156704203931681",
+      "content": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T10:51:51.390Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468919816197898442",
+      "serverId": "742156704203931681",
+      "content": "Hey!",
+      "author": {
+        "id": "1420445590864662568",
+        "username": "dabrowkalesiak",
+        "displayName": "nomance"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T10:42:55.392Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468919683028619396",
+      "serverId": "742156704203931681",
+      "content": "sounds like a possible scam",
+      "author": {
+        "id": "828416947820429342",
+        "username": "alanmeira",
+        "displayName": "Alan"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T10:42:23.642Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468914143640948809",
+      "serverId": "742156704203931681",
+      "content": "and ahref traffic have in my site 17k+",
+      "author": {
+        "id": "754366667185979572",
+        "username": "narutoxkuramaa",
+        "displayName": "John Smith"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T10:20:22.949Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468913978942951424",
+      "serverId": "742156704203931681",
+      "content": "i worked on entertainment news celebrity news",
+      "author": {
+        "id": "754366667185979572",
+        "username": "narutoxkuramaa",
+        "displayName": "John Smith"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T10:19:43.682Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468913575228608613",
+      "serverId": "742156704203931681",
+      "content": "doc page had no cta",
+      "author": {
+        "id": "198706654332583936",
+        "username": "soulmoons",
+        "displayName": "Soulmoons"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T10:18:07.429Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468913524108562432",
+      "serverId": "742156704203931681",
+      "content": "it was targeted towards devs. They google problem , read doc page and sign up.",
+      "author": {
+        "id": "198706654332583936",
+        "username": "soulmoons",
+        "displayName": "Soulmoons"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T10:17:55.241Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468913098822783149",
+      "serverId": "742156704203931681",
+      "content": "I worked with a guy who made niche tech product which only had documentation pages.\n\nHe is doing 10k mmr with 2k traffic a month from doc pages.",
+      "author": {
+        "id": "198706654332583936",
+        "username": "soulmoons",
+        "displayName": "Soulmoons"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T10:16:13.845Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468912509237858471",
+      "serverId": "742156704203931681",
+      "content": "great",
+      "author": {
+        "id": "198706654332583936",
+        "username": "soulmoons",
+        "displayName": "Soulmoons"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T10:13:53.277Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1468912366279196794",
+      "serverId": "742156704203931681",
+      "content": "check my site performance in 5 months",
+      "author": {
+        "id": "754366667185979572",
+        "username": "narutoxkuramaa",
+        "displayName": "John Smith"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T10:13:19.193Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1468882860843860012",
+      "serverId": "742156704203931681",
+      "content": "Please check your DM.",
+      "author": {
+        "id": "1420445590864662568",
+        "username": "dabrowkalesiak",
+        "displayName": "nomance"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T08:16:04.549Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468882660100407408",
+      "serverId": "742156704203931681",
+      "content": "DM me",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T08:15:16.688Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468882608934092946",
+      "serverId": "742156704203931681",
+      "content": "How to contact to your company?",
+      "author": {
+        "id": "1420445590864662568",
+        "username": "dabrowkalesiak",
+        "displayName": "nomance"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T08:15:04.489Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468882366553526424",
+      "serverId": "742156704203931681",
+      "content": "My company do develop sites, do let me know if you want one.",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T08:14:06.701Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468882274786480149",
+      "serverId": "742156704203931681",
+      "content": "Oh okay\nIn that case it is straight forward.\nDev will analyze DOM of site and recreate that in some framework (react etc)",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T08:13:44.822Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468882083677208692",
+      "serverId": "742156704203931681",
+      "content": "I need to copy absolutely same frontend ( function is not important ).",
+      "author": {
+        "id": "1420445590864662568",
+        "username": "dabrowkalesiak",
+        "displayName": "nomance"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T08:12:59.258Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468881870816149646",
+      "serverId": "742156704203931681",
+      "content": "Just one more question:\nDo you want exact copy of some site (same name, exact colors, exact words etc) or you want site which just does similar work?",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T08:12:08.508Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468881006928068764",
+      "serverId": "742156704203931681",
+      "content": "For now, I want to find someone who can clone specific site ( I will send site url ). \nBut, I want to know general way to clone site too if possible",
+      "author": {
+        "id": "1420445590864662568",
+        "username": "dabrowkalesiak",
+        "displayName": "nomance"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T08:08:42.541Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468880496191737878",
+      "serverId": "742156704203931681",
+      "content": "Are you like interested in cloning any specific website or wanna learn about in general or looking for someone to clone some site for you or what exactly?\n\nI can give you better answer accordingly",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T08:06:40.772Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468880261075963914",
+      "serverId": "742156704203931681",
+      "content": "Kindly let me know what I should provide to you?",
+      "author": {
+        "id": "1420445590864662568",
+        "username": "dabrowkalesiak",
+        "displayName": "nomance"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T08:05:44.716Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468880073682845748",
+      "serverId": "742156704203931681",
+      "content": "I mean yeah, I can clone websites.\nIf you are talking about something specific, give some context.",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T08:05:00.038Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468879907131232439",
+      "serverId": "742156704203931681",
+      "content": "Yes",
+      "author": {
+        "id": "1420445590864662568",
+        "username": "dabrowkalesiak",
+        "displayName": "nomance"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T08:04:20.329Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468879712875974656",
+      "serverId": "742156704203931681",
+      "content": "Web cloning as in cloning website?",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T08:03:34.015Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468865174797680710",
+      "serverId": "742156704203931681",
+      "content": "Is there anyone who has experience in web cloning?",
+      "author": {
+        "id": "1420445590864662568",
+        "username": "dabrowkalesiak",
+        "displayName": "nomance"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T07:05:47.867Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468835743475699855",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1215531635945119755",
+        "username": "deepak.072",
+        "displayName": "! Deepuu"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T05:08:50.893Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468835730645061804",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1215531635945119755",
+        "username": "deepak.072",
+        "displayName": "! Deepuu"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T05:08:47.834Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468835693647364128",
+      "serverId": "742156704203931681",
+      "content": "# Hi I'm Ai Thumbnail Designer",
+      "author": {
+        "id": "1215531635945119755",
+        "username": "deepak.072",
+        "displayName": "! Deepuu"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T05:08:39.013Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468825724210249997",
+      "serverId": "742156704203931681",
+      "content": "https://youtu.be/fFL7la73RO4?si=vlxb8_snmPQCeQlL\n\nGood video",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-05T04:29:02.114Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468691555027128373",
+      "serverId": "742156704203931681",
+      "content": "🤔  what does the author want to tell us?",
+      "author": {
+        "id": "119170167136583680",
+        "username": "ph1l",
+        "displayName": "ph1l"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-04T19:35:53.688Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1464062589892952187",
+      "serverId": "742156704203931681",
+      "content": "Sitemaps, duh 😁",
+      "author": {
+        "id": "1247972650094035024",
+        "username": "mhamad241",
+        "displayName": "mhamad241"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T01:02:02.398Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1457844910639284436",
+      "serverId": "742156704203931681",
+      "content": "Hey guys. After almost a year of research and experiments, I finally have a proven playbook that can take a brand from 0% to 20% visibility in 2 weeks. It's based on analysis of millions of prompt responses across 1000+ brands. I'll share how it's done with free tools - and how Spotlight can automate the process. You're all invited https://forms.gle/CSPRgBJyM1HfhnxCA",
+      "author": {
+        "id": "701131812759404634",
+        "username": "ka_powww",
+        "displayName": "Michael | GEO, AI visibility"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-05T21:15:12.145Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "1449460597216383076",
+      "serverId": "742156704203931681",
+      "content": "If you can, go through <#1310603650518749297> to understand the community better and if you see yourself fitting in. This is a minor episode but everything from hereon shapes how we view you, just be you and temporarily forget about getting a job here",
+      "author": {
+        "id": "1125226612045131777",
+        "username": "thebrandexperience",
+        "displayName": "Adam"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-13T17:58:56.052Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1448705751605579807",
+      "serverId": "742156704203931681",
+      "content": "Here's 10 ways to lose weight,  brought to you by Corn Syrup",
+      "author": {
+        "id": "945887783090794547",
+        "username": "jeremyd0147",
+        "displayName": "Jeremy"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-11T15:59:26.834Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1445729316062367846",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1050052480756633680",
+        "username": "DAOWL",
+        "displayName": "DAOWL"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-03T10:52:09.301Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    }
+  ]
+}

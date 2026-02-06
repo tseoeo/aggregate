@@ -1,0 +1,139 @@
+{
+  "date": "2026-02-06",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - February 6, 2026",
+  "generatedAt": "2026-02-06T04:08:16.998Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "active",
+      "summary": "Discussion on SEO performance for news sites, the effectiveness of documentation pages for developer acquisition, and a shared article about a potential Google crackdown on self-promotional listicles.",
+      "highlights": [
+        {
+          "type": "news",
+          "title": "Substack article on possible Google crackdown on self-promotional listicles",
+          "details": "Shared article suggesting Google may be reducing visibility for self-promotional listicles. Evidence is described as circumstantial but considered important to monitor for future search updates affecting affiliate or promo-heavy content.",
+          "link": "https://substack.com/home/post/p-186656570",
+          "messageId": "1469008938971431017",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1469008938971431017"
+        },
+        {
+          "type": "discussion",
+          "title": "Using documentation pages as primary SEO and acquisition channel",
+          "details": "Example of a niche tech product that relies almost entirely on documentation pages for traffic and conversions, generating about $10k MRR from ~2k monthly visits. Emphasizes dev-focused docs that rank on problem-based searches and implicitly drive signups without explicit CTAs.",
+          "link": "",
+          "messageId": "1468913098822783149",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1468913098822783149"
+        },
+        {
+          "type": "discussion",
+          "title": "Entertainment news site performance and Ahrefs traffic",
+          "details": "Member working on an entertainment/celebrity news site reports 17k+ traffic according to Ahrefs and asks for a performance review over 5 months, indicating active work on SEO growth in a competitive niche.",
+          "link": "",
+          "messageId": "1468914143640948809",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1468914143640948809"
+        }
+      ],
+      "mentions": [
+        "Google",
+        "Ahrefs",
+        "Substack",
+        "documentation SEO",
+        "CTAs",
+        "John Smith",
+        "Soulmoons",
+        "patrick_0193"
+      ]
+    },
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Light chatter plus an invite to a research-backed session on improving GEO/AI visibility for brands using free tools and the Spotlight platform.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "Playbook to raise brand GEO/AI visibility using free tools and Spotlight",
+          "details": "Announcement of a playbook, based on a year of research and millions of prompt responses across 1000+ brands, that can reportedly take a brand from 0% to 20% visibility in 2 weeks. Session will show how to implement it with free tools and how Spotlight can automate the workflow.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "Spotlight",
+        "Google Forms",
+        "Adam",
+        "Jeremy",
+        "mhamad241",
+        "ph1l"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Ongoing conversation about AI security risks, exposed API keys, multi-model collaboration (ChatGPT, Gemini, Claude), and cautious use of AI in coding workflows.",
+      "highlights": [
+        {
+          "type": "news",
+          "title": "Security concerns around OpenClaw and Clawhub ecosystem",
+          "details": "Reddit thread shared warning that the OpenClaw project and its Clawhub ecosystem could pose serious security risks in open source environments, prompting advice to stay cautious when engaging with such tools.",
+          "link": "https://www.reddit.com/r/cybersecurity/comments/1qwrwsh/openclaw_is_terrifying_and_the_clawhub_ecosystem/",
+          "messageId": "1469075792808902971",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1469075792808902971"
+        },
+        {
+          "type": "news",
+          "title": "Wiz.io report: Exposed Moltbook database reveals millions of API keys",
+          "details": "Article from Wiz.io describing how an exposed Moltbook database led to leakage of millions of API keys. Members recommend reading it soon in case it is removed, highlighting the scale of the incident and risks of misconfigured or public-facing dev infrastructure.",
+          "link": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
+          "messageId": "1468922064336457823",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1468922064336457823"
+        },
+        {
+          "type": "discussion",
+          "title": "Orchestrating multi-model AI debates (ChatGPT, Gemini, Claude)",
+          "details": "Idea of having multiple frontier models from different providers share full context and debate high-value tasks, rather than just collecting independent answers and summarizing. The goal is to improve output quality via cross-model interaction.",
+          "link": "",
+          "messageId": "1469065704367198423",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1469065704367198423"
+        },
+        {
+          "type": "discussion",
+          "title": "Pragmatic use of AI for coding vs. manual development",
+          "details": "Developers discuss preferring to code manually for better codebase understanding while using AI assistants mainly to diagnose and fix errors when no solution is found elsewhere. They note that over-reliance on \"vibe coding\" can lead to careless handling of databases and environment configuration.",
+          "link": "",
+          "messageId": "1468965157538369668",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1468965157538369668"
+        }
+      ],
+      "mentions": [
+        "OpenClaw",
+        "Clawhub",
+        "Reddit",
+        "Wiz.io",
+        "Moltbook",
+        "API keys",
+        "ChatGPT",
+        "Gemini",
+        "Claude",
+        "Bhavya",
+        "Siddharth",
+        "Charlie",
+        "patrick_0193",
+        "Alan",
+        "nomance"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 50,
+    "activeChannels": 3,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}
