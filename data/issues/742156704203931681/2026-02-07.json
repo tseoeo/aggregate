@@ -1,0 +1,109 @@
+{
+  "date": "2026-02-07",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - February 7, 2026",
+  "generatedAt": "2026-02-07T04:00:11.381Z",
+  "channels": [
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Michael announced a research-backed playbook for rapidly increasing brand visibility in AI systems, with an invite to a session explaining the method using free tools and Spotlight automation; other messages were light community chatter.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "Playbook to grow brand AI visibility from 0% to 20% in 2 weeks",
+          "details": "Michael shared that after a year of research and experiments analyzing millions of prompt responses across 1000+ brands, he has a proven playbook for boosting a brand’s visibility in AI results from 0% to 20% within two weeks. He invited the community to a session where he will explain the approach using free tools and demonstrate how the Spotlight tool can automate the process.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "Spotlight",
+        "Google Forms",
+        "Adam",
+        "Jeremy",
+        "mhamad241",
+        "ph1l"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Planning for an AI-focused community event advanced, with multiple members volunteering to share their experience. Members discussed AI-powered creative workflows, AI video generation tools, and the importance of brand positioning in an AI-saturated market.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "Planning a community AI-focused event and speaker call",
+          "details": "Tom proposed doubling down on an AI-focused event for the community and called for members with hands-on experience in AI (automations, agents, OpenClaw, and other trending areas) to share their knowledge. Several members, including agency operators and practitioners experimenting with workflows and agents, expressed interest in contributing.",
+          "link": "",
+          "messageId": "1469287385723441152",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1469287385723441152"
+        },
+        {
+          "type": "tool",
+          "title": "AI video tools: HeyGen, OpenAI Sora 2, and Kling 2.6",
+          "details": "In response to a request for AI video tools that can generate realistic human-like content and product visuals for marketing assets, members recommended several tools. Charlie highlighted HeyGen for producing high-quality AI video, while Leo recommended OpenAI Sora 2 and Kling 2.6 as strong options for advanced AI video generation.",
+          "link": "",
+          "messageId": "1469393163625041930",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1469393163625041930"
+        },
+        {
+          "type": "discussion",
+          "title": "Talk proposal on AI’s impact in the creative industry",
+          "details": "Madison offered to give a short talk on the changing creative industry, drawing on experience as an art director and designer who has used AI creative tools daily in a professional context since 2021. The talk would focus on practical, real-world use of AI in creative workflows rather than development or engineering topics.",
+          "link": "",
+          "messageId": "1469414763590058014",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1469414763590058014"
+        },
+        {
+          "type": "tool",
+          "title": "Vibe coding workflows with Claude Code, GPT, and Gemini",
+          "details": "Bhavya described using a 'vibe coding' approach with anti-gravity-style experimentation across multiple AI coding tools, specifically Claude Code, GPT, and Gemini. The focus is on pushing these tools to their limits, continuously testing new AI capabilities and integrating them into coding workflows.",
+          "link": "",
+          "messageId": "1469530966807679090",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1469530966807679090"
+        },
+        {
+          "type": "discussion",
+          "title": "Request for realistic AI video tools for marketing",
+          "details": "Jeannine, the community manager, asked for recommendations on AI video tools capable of producing realistic human-like footage and product visuals suitable for marketing assets, signaling an interest in practical tools that can be integrated into production-quality marketing pipelines.",
+          "link": "",
+          "messageId": "1469392268417826987",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1469392268417826987"
+        }
+      ],
+      "mentions": [
+        "Tom",
+        "Usayd",
+        "Madison",
+        "Bhavya",
+        "Branden",
+        "Jeannine | Community Manager",
+        "Leo",
+        "Charlie",
+        "Mason2.0",
+        "Alan",
+        "HeyGen",
+        "OpenAI Sora 2",
+        "Kling 2.6",
+        "Claude Code",
+        "GPT",
+        "Gemini",
+        "automations",
+        "agents",
+        "OpenClaw"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 39,
+    "activeChannels": 2,
+    "sourcesUsed": [
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}

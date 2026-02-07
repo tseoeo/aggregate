@@ -1,0 +1,632 @@
+{
+  "date": "2026-02-07",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "collectedAt": "2026-02-07T03:58:34.570Z",
+  "messages": [
+    {
+      "id": "1469531054741258384",
+      "serverId": "742156704203931681",
+      "content": "Ya",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-07T03:11:46.017Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469530975301271752",
+      "serverId": "742156704203931681",
+      "content": "We should do a round-table.",
+      "author": {
+        "id": "372490514458738700",
+        "username": "sleep0243",
+        "displayName": "Madison"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-07T03:11:27.077Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469530966807679090",
+      "serverId": "742156704203931681",
+      "content": "Been doing vibe coding with anti gravity a lot with claude code, gpt and gemini",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-07T03:11:25.052Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469530852953428111",
+      "serverId": "742156704203931681",
+      "content": "I also keep track of the new AI things and pushing the tools to its limits to test them",
+      "author": {
+        "id": "602415706105053214",
+        "username": "cyberwarrior1.0",
+        "displayName": "Bhavya"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-07T03:10:57.907Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469494048430624809",
+      "serverId": "742156704203931681",
+      "content": "Can we share something here?",
+      "author": {
+        "id": "1174469106569838654",
+        "username": "branden0877",
+        "displayName": "Branden"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-07T00:44:43.025Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469465631559516410",
+      "serverId": "742156704203931681",
+      "content": "I have a few things that could be usable in the industry.",
+      "author": {
+        "id": "1174469106569838654",
+        "username": "branden0877",
+        "displayName": "Branden"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T22:51:47.915Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469414763590058014",
+      "serverId": "742156704203931681",
+      "content": "I could give a small talk about the changing industry. I'm not a developer, but I'm an art-director / designer who has been tracking the AI space since 2021, who uses AI creative tools in a professional creative context daily.",
+      "author": {
+        "id": "372490514458738700",
+        "username": "sleep0243",
+        "displayName": "Madison"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T19:29:40.046Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469396701570662543",
+      "serverId": "742156704203931681",
+      "content": "HeyGen makes nice stuff",
+      "author": {
+        "id": "1468341184475959524",
+        "username": "charlie_58543",
+        "displayName": "Charlie"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T18:17:53.725Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1469393163625041930",
+      "serverId": "742156704203931681",
+      "content": "I recommend OpenAI Sora 2 and Kling 2.6",
+      "author": {
+        "id": "1464726366716170252",
+        "username": "onlycan0411",
+        "displayName": "Leo"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T18:03:50.213Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1469392268417826987",
+      "serverId": "742156704203931681",
+      "content": "Hey everyone 👋 Does anyone have recommendations for AI video tools that can produce realistic human-like content and product visuals for marketing assets?",
+      "author": {
+        "id": "1110087245597245440",
+        "username": "jalomz",
+        "displayName": "Jeannine | Community Manager"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T18:00:16.779Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469316983701897339",
+      "serverId": "742156704203931681",
+      "content": "and I hate people that do ts like they don't even know what they do they piss everyone off they ruin the whole marketing going around with this slop and start to pitch with I'M OFFERING AI XXXXXX LIKE WHAT WHAT WHAT COULD YOU IMAGNE IF I met Mr. McDonald himself asked him what he did/had and this mf looks at me and said I OFFER FRYING SERVICES LIKE DUDE",
+      "author": {
+        "id": "875832489040543784",
+        "username": "jharkhand8845",
+        "displayName": "Mason2.0"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T13:01:07.504Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469315710017863802",
+      "serverId": "742156704203931681",
+      "content": "and people will get paid to continue doing what they do today: clicking buttons. \nBut now in place of it running a dumb static algorithm it will use intelligence to process the commands.",
+      "author": {
+        "id": "828416947820429342",
+        "username": "alanmeira",
+        "displayName": "Alan"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T12:56:03.834Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469315631487909978",
+      "serverId": "742156704203931681",
+      "content": "but rn you need to be Positioning a brand with a reputation of quality because as we go more and more down this path quantity will not be the issue ever again",
+      "author": {
+        "id": "875832489040543784",
+        "username": "jharkhand8845",
+        "displayName": "Mason2.0"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T12:55:45.111Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469315283381653557",
+      "serverId": "742156704203931681",
+      "content": "I mean  there will be survivors but if anyone don't get a brand and a real reputation with in these next few years I suggest picking up a Hammer their is no shortage of supply and its F### everyone because it no longer matters if you don't have a name even if your in a niche 120 people that day called about some bs and made them just say look noooooo",
+      "author": {
+        "id": "875832489040543784",
+        "username": "jharkhand8845",
+        "displayName": "Mason2.0"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T12:54:22.116Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469314442608250890",
+      "serverId": "742156704203931681",
+      "content": "tbh I think what we do is just going being trained to teach ai  how to do what we do",
+      "author": {
+        "id": "875832489040543784",
+        "username": "jharkhand8845",
+        "displayName": "Mason2.0"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T12:51:01.660Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469312211167084688",
+      "serverId": "742156704203931681",
+      "content": "Absolutely agree",
+      "author": {
+        "id": "1406557779040407613",
+        "username": "bitzero128",
+        "displayName": "Zero"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T12:42:09.643Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469306250809315432",
+      "serverId": "742156704203931681",
+      "content": "if/when this changes, we will have lots of jobs for people, using AI",
+      "author": {
+        "id": "828416947820429342",
+        "username": "alanmeira",
+        "displayName": "Alan"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T12:18:28.583Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469306163488096316",
+      "serverId": "742156704203931681",
+      "content": "I think the current job problem is that we are in a economic recession (that the numbers are not showing yet) and risk  aversion (especially for institutional investors) is high so businesses are not investing, not growing, they are focused on trimming the fat and optimize operations",
+      "author": {
+        "id": "828416947820429342",
+        "username": "alanmeira",
+        "displayName": "Alan"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T12:18:07.764Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469305661446946816",
+      "serverId": "742156704203931681",
+      "content": "Op ed that",
+      "author": {
+        "id": "375737327865167874",
+        "username": "guy_ninja",
+        "displayName": "Shane"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T12:16:08.068Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469304725303197789",
+      "serverId": "742156704203931681",
+      "content": "Hey folks, Im genuinely interested about what your thoughts on AIs future related to job threats that people are already facing?",
+      "author": {
+        "id": "835154732842090527",
+        "username": "gianagurpreet9831",
+        "displayName": "Gia"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T12:12:24.874Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469290993625993378",
+      "serverId": "742156704203931681",
+      "content": "Agency*",
+      "author": {
+        "id": "1442600281295818782",
+        "username": "omi.usayd",
+        "displayName": "Usayd"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T11:17:50.987Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469290979264823510",
+      "serverId": "742156704203931681",
+      "content": "I'm not an expert but I'm getting my hands dirty constantly by playing around with workflows and agents. \nAlso running an ageny",
+      "author": {
+        "id": "1442600281295818782",
+        "username": "omi.usayd",
+        "displayName": "Usayd"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T11:17:47.563Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1469287385723441152",
+      "serverId": "742156704203931681",
+      "content": "Happy Friday <@&1359463268640624751> ! Hope you are all well and keeping track on the crazy ever changing AI world 😅 \n\nWe would like to double down on an AI focused event for the community and am looking for experts/memebrs who got their hand dirty in everything AI (automations / agents / openclaw / and any other hypes) that are interested in sharing from their knowledge and experience, and potentially host/speak in these sessions.\n\n*General idea for a format could be a few general AI experts that lead the event, and then have rotating guests on to talk about AI + their niche (using AI in development, lead gen and outreach with AI, AI workflows for agencies, e-commerce optimizations with AI, AI totally isn’t taking over graphic design and here’s why, etc etc).*\n\n> A) Interested taking part in such sessions (speaking) - Ping me in a DM if you are  \n> B) Interested joining the sessions (attendee) - react 🤖",
+      "author": {
+        "id": "851381985875460136",
+        "username": "tomarcus",
+        "displayName": "Tom"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T11:03:30.796Z",
+      "reactionCount": 18,
+      "replyCount": 0
+    },
+    {
+      "id": "1469285553521430528",
+      "serverId": "742156704203931681",
+      "content": "that too",
+      "author": {
+        "id": "702380975254142998",
+        "username": "itshassanaziz",
+        "displayName": "Hassan"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T10:56:13.965Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469285350961582121",
+      "serverId": "742156704203931681",
+      "content": "lol yea this is also a reality now",
+      "author": {
+        "id": "702380975254142998",
+        "username": "itshassanaziz",
+        "displayName": "Hassan"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T10:55:25.671Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469280888851398770",
+      "serverId": "742156704203931681",
+      "content": "We don't even need elites to control it. Like we got Sharon on LinkedIn converting people to give out their like QuickBooks API keys to some unauthenticated SSH tool. Like people are r#####",
+      "author": {
+        "id": "875832489040543784",
+        "username": "jharkhand8845",
+        "displayName": "Mason2.0"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T10:37:41.821Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469271965528227870",
+      "serverId": "742156704203931681",
+      "content": "nobody is trusting their lives to AI by piping whatsapp messages to a llm. We do that by using Google, Meta, Amazon, etc.",
+      "author": {
+        "id": "828416947820429342",
+        "username": "alanmeira",
+        "displayName": "Alan"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T10:02:14.335Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469218263891181630",
+      "serverId": "742156704203931681",
+      "content": "this \"AI revolution\" has been full of surprises",
+      "author": {
+        "id": "702380975254142998",
+        "username": "itshassanaziz",
+        "displayName": "Hassan"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T06:28:50.867Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469218094915260548",
+      "serverId": "742156704203931681",
+      "content": "but its actually kinda funny how most people have willingly surrendered so much of their lives and their thinking to a chatbot",
+      "author": {
+        "id": "702380975254142998",
+        "username": "itshassanaziz",
+        "displayName": "Hassan"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T06:28:10.580Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469217996059709535",
+      "serverId": "742156704203931681",
+      "content": "like i remember when people were actually wary of AI systems, and AI was treated as a scary technology, or how \"the elites\" would use it to control us or whatever",
+      "author": {
+        "id": "702380975254142998",
+        "username": "itshassanaziz",
+        "displayName": "Hassan"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T06:27:47.011Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469217826035470338",
+      "serverId": "742156704203931681",
+      "content": "people now trust their entire lives to AI, and its honestly morbidly interesting to see",
+      "author": {
+        "id": "702380975254142998",
+        "username": "itshassanaziz",
+        "displayName": "Hassan"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T06:27:06.474Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469189557529608286",
+      "serverId": "742156704203931681",
+      "content": "f777",
+      "author": {
+        "id": "875832489040543784",
+        "username": "jharkhand8845",
+        "displayName": "Mason2.0"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T04:34:46.737Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469189415401296066",
+      "serverId": "742156704203931681",
+      "content": "I've been using npm on claude code for to long",
+      "author": {
+        "id": "875832489040543784",
+        "username": "jharkhand8845",
+        "displayName": "Mason2.0"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-06T04:34:12.851Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468691555027128373",
+      "serverId": "742156704203931681",
+      "content": "🤔  what does the author want to tell us?",
+      "author": {
+        "id": "119170167136583680",
+        "username": "ph1l",
+        "displayName": "ph1l"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-04T19:35:53.688Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1464062589892952187",
+      "serverId": "742156704203931681",
+      "content": "Sitemaps, duh 😁",
+      "author": {
+        "id": "1247972650094035024",
+        "username": "mhamad241",
+        "displayName": "mhamad241"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T01:02:02.398Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1457844910639284436",
+      "serverId": "742156704203931681",
+      "content": "Hey guys. After almost a year of research and experiments, I finally have a proven playbook that can take a brand from 0% to 20% visibility in 2 weeks. It's based on analysis of millions of prompt responses across 1000+ brands. I'll share how it's done with free tools - and how Spotlight can automate the process. You're all invited https://forms.gle/CSPRgBJyM1HfhnxCA",
+      "author": {
+        "id": "701131812759404634",
+        "username": "ka_powww",
+        "displayName": "Michael | GEO, AI visibility"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-05T21:15:12.145Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "1449460597216383076",
+      "serverId": "742156704203931681",
+      "content": "If you can, go through <#1310603650518749297> to understand the community better and if you see yourself fitting in. This is a minor episode but everything from hereon shapes how we view you, just be you and temporarily forget about getting a job here",
+      "author": {
+        "id": "1125226612045131777",
+        "username": "thebrandexperience",
+        "displayName": "Adam"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-13T17:58:56.052Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1448705751605579807",
+      "serverId": "742156704203931681",
+      "content": "Here's 10 ways to lose weight,  brought to you by Corn Syrup",
+      "author": {
+        "id": "945887783090794547",
+        "username": "jeremyd0147",
+        "displayName": "Jeremy"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-11T15:59:26.834Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1445729316062367846",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1050052480756633680",
+        "username": "DAOWL",
+        "displayName": "DAOWL"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-03T10:52:09.301Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    }
+  ]
+}
