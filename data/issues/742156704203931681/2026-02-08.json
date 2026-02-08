@@ -1,0 +1,136 @@
+{
+  "date": "2026-02-08",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "title": "Furlough - February 8, 2026",
+  "generatedAt": "2026-02-08T04:26:41.715Z",
+  "channels": [
+    {
+      "channel": "💻│seo",
+      "status": "active",
+      "summary": "Light activity focused on introductions, backlink services promotion, and a question about automated blogging for SEO.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "High-Quality Backlinks Package Offer",
+          "details": "A member advertises a backlink service including PBN posts (DA50+), profile creation, article submission, Web 2.0 links, social bookmarks, images, PDFs, forum posting, EDU links, and extensive blog comments, delivered over 7 days with a Google Sheets report, claiming it can significantly boost Google rankings and keyword positions.",
+          "link": "",
+          "messageId": "1469790307276165395",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1469790307276165395"
+        },
+        {
+          "type": "discussion",
+          "title": "Seeking Advice on Automated Blogging for SEO",
+          "details": "A user asks the channel for advice on automated blogging strategies for SEO, indicating interest in using automation to generate content that ranks well in search.",
+          "link": "",
+          "messageId": "1469795384837673177",
+          "discordLink": "https://discord.com/channels/742156704203931681/742438469472878754/1469795384837673177"
+        }
+      ],
+      "mentions": [
+        "SEO backlinks",
+        "PBN Post",
+        "Profile Creation",
+        "Article Submission",
+        "Web2.0",
+        "Social bookmarks",
+        "Google Search",
+        "Google Sheets",
+        "Automated blogging"
+      ]
+    },
+    {
+      "channel": "📊│geo",
+      "status": "active",
+      "summary": "Sparse but notable activity including an invite to learn a GEO/AI visibility playbook, alongside some brief commentary and banter.",
+      "highlights": [
+        {
+          "type": "resource",
+          "title": "Playbook for Increasing Brand GEO/AI Visibility",
+          "details": "Michael shares that after a year of research and experimentation on millions of prompt responses across 1000+ brands, he has a playbook that can take a brand from 0% to 20% visibility in two weeks using free tools, and mentions that the Spotlight tool can automate the process. He invites members to sign up via a Google Form.",
+          "link": "https://forms.gle/CSPRgBJyM1HfhnxCA",
+          "messageId": "1457844910639284436",
+          "discordLink": "https://discord.com/channels/742156704203931681/1379865978384420874/1457844910639284436"
+        }
+      ],
+      "mentions": [
+        "Michael | GEO, AI visibility",
+        "Spotlight",
+        "Google Forms",
+        "Sitemaps",
+        "Adam",
+        "Jeremy",
+        "Corn Syrup"
+      ]
+    },
+    {
+      "channel": "🤖│ai",
+      "status": "active",
+      "summary": "Ongoing conversation about AI’s societal impact, the importance of human guidance in prompting, moderation of AI-related content, and references to various AI platforms.",
+      "highlights": [
+        {
+          "type": "discussion",
+          "title": "Human-Augmented AI as Primary Disruptive Force",
+          "details": "Alan argues that it is humans augmented by AI who are truly disruptive to society, rather than AI by itself, framing risk and impact as stemming from human use of AI tools.",
+          "link": "",
+          "messageId": "1469666274605924596",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1469666274605924596"
+        },
+        {
+          "type": "discussion",
+          "title": "Role of Prompting in Determining AI Output Quality",
+          "details": "Jay Φ emphasizes that the user’s prompt largely dictates the power and quality of an AI model’s result, underscoring prompt engineering as a key skill.",
+          "link": "",
+          "messageId": "1469667254324039751",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1469667254324039751"
+        },
+        {
+          "type": "discussion",
+          "title": "Concerns About AI Exacerbating Mental Health Issues",
+          "details": "chad comments that AI has already significantly worsened the conditions of some mentally ill people, suggesting that the negative mental health impacts of AI are an existing problem, not a future one.",
+          "link": "",
+          "messageId": "1469659638189396080",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1469659638189396080"
+        },
+        {
+          "type": "discussion",
+          "title": "AI Platforms and Content Routing (OpenRouter, Deepsite, Minimax)",
+          "details": "chad references OpenRouter, Deepsite, and Minimax as examples of platforms or approaches needed for safely or effectively handling AI interactions, implying a need for infrastructure around model access and moderation.",
+          "link": "",
+          "messageId": "1469664287294488608",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1469664287294488608"
+        },
+        {
+          "type": "discussion",
+          "title": "Automoderation of AI-Related Messages",
+          "details": "Jay Φ notes that certain messages are blocked by automoderation, leading to a short exchange about a message failing to go through, highlighting the role of automated moderation in AI discussions.",
+          "link": "",
+          "messageId": "1469668790186020956",
+          "discordLink": "https://discord.com/channels/742156704203931681/1357769830341673161/1469668790186020956"
+        }
+      ],
+      "mentions": [
+        "Jay Φ",
+        "Alan",
+        "chad",
+        "AI",
+        "LLM",
+        "OpenRouter",
+        "Deepsite",
+        "Minimax",
+        "Automoderation",
+        "Astrology",
+        "TikTok"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 115,
+    "activeChannels": 3,
+    "sourcesUsed": [
+      "discord:Furlough#💻│seo",
+      "discord:Furlough#📊│geo",
+      "discord:Furlough#🤖│ai"
+    ]
+  }
+}
