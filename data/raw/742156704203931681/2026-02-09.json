@@ -1,0 +1,584 @@
+{
+  "date": "2026-02-09",
+  "serverId": "742156704203931681",
+  "serverName": "Furlough",
+  "collectedAt": "2026-02-09T04:14:24.055Z",
+  "messages": [
+    {
+      "id": "1470271550728175680",
+      "serverId": "742156704203931681",
+      "content": "Alright, i will work on that",
+      "author": {
+        "id": "412018685184835594",
+        "username": "brenondss",
+        "displayName": "Feitan"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T04:14:14.018Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470270799045984541",
+      "serverId": "742156704203931681",
+      "content": "All kind of hub pages, around which other meaningful pages can be generated or written",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T04:11:14.803Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470270686860673088",
+      "serverId": "742156704203931681",
+      "content": "Thanks for the tips, that was helpfull",
+      "author": {
+        "id": "412018685184835594",
+        "username": "brenondss",
+        "displayName": "Feitan"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T04:10:48.056Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470270404160389346",
+      "serverId": "742156704203931681",
+      "content": "Hub would be like a page for example for popular i7 comparisons ? Or ryzen series comparisons",
+      "author": {
+        "id": "412018685184835594",
+        "username": "brenondss",
+        "displayName": "Feitan"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T04:09:40.655Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470269754605310105",
+      "serverId": "742156704203931681",
+      "content": "Here",
+      "author": {
+        "id": "1334470188367876166",
+        "username": "manbuaota",
+        "displayName": "Harry"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T04:07:05.789Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470269638406307850",
+      "serverId": "742156704203931681",
+      "content": "Site should have hub, connecting to related pages\nGoogle want meaningful structure so random pages with random backlinks won't work\nBut hub page with connecting quality pages will help google understand value and give you topical authority",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T04:06:38.085Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1470269422135414960",
+      "serverId": "742156704203931681",
+      "content": "And focus on \"Hub\" part on site",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T04:05:46.522Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470269388723716299",
+      "serverId": "742156704203931681",
+      "content": "No, not manual.\n\nGoogle can choose what to index, but if you dump 1.13M low-value pages, it will assume the whole site is low quality and stop trusting it (crawl budget + quality signals).\n\nSo you should pre-filter programmatically.\n\nYes, mainly:\n\nonly put high-quality pages in sitemap\nblock/noindex the rest\n\nTypical approach:\n\nStart with only popular chips + popular comparisons (top 50k / 100k pages)\nMake sure those pages have strong unique insights\nOnce Google indexes and trusts those, gradually expand.\n\nFor the rest:\n\neither don’t generate URLs at all\nor keep them accessible but noindex,follow until they’re improved.\n\nSitemap should represent your “best pages”, not everything.",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T04:05:38.556Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1470268348682993724",
+      "serverId": "742156704203931681",
+      "content": "Thanks !! im working on add more information on my DB to enable some insights like this \"performance per watt, price/performance, upgrade recommendation etc pages\".. I understand what u mean, soo, is basically a hard work to make page really good, with real value.\n\nAbout this:\nDon’t index 1.13M pages blindly.\nOnly index pages that have:\ndecent search volume potential\nmeaningful difference between chips\npopular chips\nOthers should be noindex or not generated.\n\nSoo i would need to manually qualify what pages are good to be indexed or not ? i thought google does this under the hood... And about this you mean what pages should be on my sitemap or not ?",
+      "author": {
+        "id": "412018685184835594",
+        "username": "brenondss",
+        "displayName": "Feitan"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T04:01:30.591Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470266255822033074",
+      "serverId": "742156704203931681",
+      "content": "The thing is, rather than sheer numbers, add some analysis stuff as well\n\nBasically conclusions, that will make google think content is not duplicate.\n\nGenerate lots of insightes, performance per watt, price/performance, upgrade recommendation etc pages\n\nPeople do search question terms like \"can X chip run GTA 5\", \"can X chip run Battlefield 3\" etc\n\nDon’t index 1.13M pages blindly.\n\nOnly index pages that have:\n\ndecent search volume potential\nmeaningful difference between chips\npopular chips\n\nOthers should be noindex or not generated.\n\nAdd internal linking, create hubs like \"best i7 alternative\" and link meaningfully, Add FAQ sections like \"Should you upgrade from X to Y?\", \"Laptop models using X chip\"",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T03:53:11.614Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1470263956328415407",
+      "serverId": "742156704203931681",
+      "content": "Yes, they are similar, im still trying to make good content that google will like but is hard 😄 on your opinon, how to make good content when doing programmatic SEO ?",
+      "author": {
+        "id": "412018685184835594",
+        "username": "brenondss",
+        "displayName": "Feitan"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T03:44:03.372Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470258678870442120",
+      "serverId": "742156704203931681",
+      "content": "Because detected but not indexed usually means google found them but it feels they are not good enough to index (lot of time this is what it means)",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T03:23:05.128Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470258324007026788",
+      "serverId": "742156704203931681",
+      "content": "By any chance your site has all those generated pages with most content either similar or thin?",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T03:21:40.522Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470210038193721555",
+      "serverId": "742156704203931681",
+      "content": "Does anyone know how to make use of Hydrogen to design a store on Shopify?",
+      "author": {
+        "id": "995999193862787143",
+        "username": "cardly_martins",
+        "displayName": "Cardly Martins"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T00:09:48.287Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470208343254499510",
+      "serverId": "742156704203931681",
+      "content": "Google say \"Detected, but not indexed\"",
+      "author": {
+        "id": "412018685184835594",
+        "username": "brenondss",
+        "displayName": "Feitan"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T00:03:04.182Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470208048114172054",
+      "serverId": "742156704203931681",
+      "content": "Its a website focused on checking FPS on games, or comparing CPUS / GPUS",
+      "author": {
+        "id": "412018685184835594",
+        "username": "brenondss",
+        "displayName": "Feitan"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T00:01:53.815Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470207933324197979",
+      "serverId": "742156704203931681",
+      "content": "hello guys, im looking for some advice on how to satisfy google algorithm, my website is https://chipversus.com (**1 month and 20 days**) long and when i started there was 144 pages indexed, right now the only indexed page is the home https://chipversus.com.. Im doing programmatic SEO and i tried to make quality and usefull content and still doing it... Soo, how to get pages indexed ?\nSome examples:\nhttps://chipversus.com/fps-calculator/ryzen-7-5800x3d-rtx-4060/counter-strike-2\nhttps://chipversus.com/compare/ryzen-7-7800x3d-vs-core-i5-13600k",
+      "author": {
+        "id": "412018685184835594",
+        "username": "brenondss",
+        "displayName": "Feitan"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-09T00:01:26.447Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470082502897959160",
+      "serverId": "742156704203931681",
+      "content": "Sent you a dm!",
+      "author": {
+        "id": "576017408335020048",
+        "username": "rishiw",
+        "displayName": "Rishi"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-08T15:43:01.503Z",
+      "reactionCount": 1,
+      "replyCount": 0
+    },
+    {
+      "id": "1470082430399414415",
+      "serverId": "742156704203931681",
+      "content": "If you don’t mind, can you share the results and what tools are you using",
+      "author": {
+        "id": "576017408335020048",
+        "username": "rishiw",
+        "displayName": "Rishi"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-08T15:42:44.218Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470080104154534000",
+      "serverId": "742156704203931681",
+      "content": "Yeah getting good results in first month itself. \nI can't do this much content manually.",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-08T15:33:29.598Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470068515741630538",
+      "serverId": "742156704203931681",
+      "content": "idk but it would be dope to see if chat gbt will be like the early days of fb with the value of ads",
+      "author": {
+        "id": "875832489040543784",
+        "username": "jharkhand8845",
+        "displayName": "Mason2.0"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-08T14:47:26.705Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470065334600990877",
+      "serverId": "742156704203931681",
+      "content": "Hey <@731122618324877433>,\nhow are the results with the automated blogs?",
+      "author": {
+        "id": "576017408335020048",
+        "username": "rishiw",
+        "displayName": "Rishi"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-08T14:34:48.262Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470062775802794196",
+      "serverId": "742156704203931681",
+      "content": "lmk this may just be a billion dollar business",
+      "author": {
+        "id": "875832489040543784",
+        "username": "jharkhand8845",
+        "displayName": "Mason2.0"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-08T14:24:38.197Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470062717959147653",
+      "serverId": "742156704203931681",
+      "content": "we should create Mormon AI",
+      "author": {
+        "id": "875832489040543784",
+        "username": "jharkhand8845",
+        "displayName": "Mason2.0"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-08T14:24:24.406Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470055486324998226",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1360858205881892934",
+        "username": "gabriel.creator",
+        "displayName": "gag"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-08T13:55:40.250Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470055084904808529",
+      "serverId": "742156704203931681",
+      "content": "Can you share more context",
+      "author": {
+        "id": "849361832648900619",
+        "username": "ophir4",
+        "displayName": "Ophir"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-08T13:54:04.544Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1470037872894546163",
+      "serverId": "742156704203931681",
+      "content": "Anyone wanna try reddit for ai demos lmk its a demo and I would like your feedbakc",
+      "author": {
+        "id": "1360858205881892934",
+        "username": "gabriel.creator",
+        "displayName": "gag"
+      },
+      "channelId": "1357769830341673161",
+      "channelName": "🤖│ai",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-08T12:45:40.881Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469968692531167358",
+      "serverId": "742156704203931681",
+      "content": "<@1125226612045131777>",
+      "author": {
+        "id": "119170167136583680",
+        "username": "ph1l",
+        "displayName": "ph1l"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-08T08:10:46.997Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1469963603712020605",
+      "serverId": "742156704203931681",
+      "content": "Yeah I do automated blogging for 3 of my sites (One of my SaaS is platform for automated blogging so my other sites help as case studies to show content depth as well as results)",
+      "author": {
+        "id": "731122618324877433",
+        "username": "whiteblade6146",
+        "displayName": "Siddharth"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-08T07:50:33.728Z",
+      "reactionCount": 0,
+      "replyCount": 0
+    },
+    {
+      "id": "1468691555027128373",
+      "serverId": "742156704203931681",
+      "content": "🤔  what does the author want to tell us?",
+      "author": {
+        "id": "119170167136583680",
+        "username": "ph1l",
+        "displayName": "ph1l"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-04T19:35:53.688Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1467867053179535435",
+      "serverId": "742156704203931681",
+      "content": "craziest recovery i did",
+      "author": {
+        "id": "198706654332583936",
+        "username": "soulmoons",
+        "displayName": "Soulmoons"
+      },
+      "channelId": "742438469472878754",
+      "channelName": "💻│seo",
+      "serverName": "Furlough",
+      "timestamp": "2026-02-02T12:59:37.129Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1464062589892952187",
+      "serverId": "742156704203931681",
+      "content": "Sitemaps, duh 😁",
+      "author": {
+        "id": "1247972650094035024",
+        "username": "mhamad241",
+        "displayName": "mhamad241"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-23T01:02:02.398Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1457844910639284436",
+      "serverId": "742156704203931681",
+      "content": "Hey guys. After almost a year of research and experiments, I finally have a proven playbook that can take a brand from 0% to 20% visibility in 2 weeks. It's based on analysis of millions of prompt responses across 1000+ brands. I'll share how it's done with free tools - and how Spotlight can automate the process. You're all invited https://forms.gle/CSPRgBJyM1HfhnxCA",
+      "author": {
+        "id": "701131812759404634",
+        "username": "ka_powww",
+        "displayName": "Michael | GEO, AI visibility"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2026-01-05T21:15:12.145Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    },
+    {
+      "id": "1449460597216383076",
+      "serverId": "742156704203931681",
+      "content": "If you can, go through <#1310603650518749297> to understand the community better and if you see yourself fitting in. This is a minor episode but everything from hereon shapes how we view you, just be you and temporarily forget about getting a job here",
+      "author": {
+        "id": "1125226612045131777",
+        "username": "thebrandexperience",
+        "displayName": "Adam"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-13T17:58:56.052Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1448705751605579807",
+      "serverId": "742156704203931681",
+      "content": "Here's 10 ways to lose weight,  brought to you by Corn Syrup",
+      "author": {
+        "id": "945887783090794547",
+        "username": "jeremyd0147",
+        "displayName": "Jeremy"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-11T15:59:26.834Z",
+      "reactionCount": 3,
+      "replyCount": 0
+    },
+    {
+      "id": "1445729316062367846",
+      "serverId": "742156704203931681",
+      "content": "",
+      "author": {
+        "id": "1050052480756633680",
+        "username": "DAOWL",
+        "displayName": "DAOWL"
+      },
+      "channelId": "1379865978384420874",
+      "channelName": "📊│geo",
+      "serverName": "Furlough",
+      "timestamp": "2025-12-03T10:52:09.301Z",
+      "reactionCount": 4,
+      "replyCount": 0
+    }
+  ]
+}
