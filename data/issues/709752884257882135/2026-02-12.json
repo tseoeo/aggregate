@@ -1,0 +1,360 @@
+{
+  "date": "2026-02-12",
+  "serverId": "709752884257882135",
+  "serverName": "Bellingcat",
+  "title": "Bellingcat - February 12, 2026",
+  "generatedAt": "2026-02-12T04:15:03.516Z",
+  "channels": [
+    {
+      "channel": "academia",
+      "status": "active",
+      "summary": "Channel discussed teaching OSINT, shared multiple academic and investigative resources (on OSINT, AI-bot survey manipulation, drug quality data, and international justice labs), plus ethics of violent imagery and news about Terry Tao/UCLA.",
+      "highlights": [
+        {
+          "type": "research",
+          "title": "Reuters Institute article on OSINT in the Israel–Hamas war",
+          "details": "Article from the Reuters Institute examining how the Israel–Gaza war demonstrates both the strengths and limitations of open‑source reporting, useful as a teaching case for OSINT methodology and verification.",
+          "link": "https://reutersinstitute.politics.ox.ac.uk/news/israel-gaza-war-highlights-power-and-limits-open-source-reporting",
+          "messageId": "1349866067148800011",
+          "discordLink": "https://discord.com/channels/709752884257882135/810331796960444466/1349866067148800011"
+        },
+        {
+          "type": "research",
+          "title": "404 Media piece on an AI agent that evades online survey detection",
+          "details": "Report on a research project where an AI agent was built to complete online surveys while evading bot detection 99.8% of the time, raising major concerns about the reliability of survey data and potential poisoning of the social‑science evidence base.",
+          "link": "https://www.404media.co/a-researcher-made-an-ai-that-completely-breaks-the-online-surveys-scientists-rely-on/",
+          "messageId": "1440089080934174722",
+          "discordLink": "https://discord.com/channels/709752884257882135/810331796960444466/1440089080934174722"
+        },
+        {
+          "type": "resource",
+          "title": "ProPublica “Rx Inspector” generic drug manufacturing dataset",
+          "details": "ProPublica article and data release providing structured information on generic drug manufacturing quality and supply, intended to make it easier for academic researchers to study manufacturing standards and drug safety without navigating complex data‑access barriers.",
+          "link": "https://www.propublica.org/article/rx-inspector-generic-drugs-data",
+          "messageId": "1464255135914922088",
+          "discordLink": "https://discord.com/channels/709752884257882135/810331796960444466/1464255135914922088"
+        },
+        {
+          "type": "resource",
+          "title": "Utrecht Open Source Global Justice Investigations Lab",
+          "details": "Lab at Utrecht University focused on using open‑source methods for global justice investigations, including international crimes and accountability work; shared as a model and potential collaboration point for OSINT in academia.",
+          "link": "https://www.uu.nl/en/research/institutions-for-open-societies/contesting-governance/projects/open-source-global-justice-investigations-lab",
+          "messageId": "1425879853038829699",
+          "discordLink": "https://discord.com/channels/709752884257882135/810331796960444466/1425879853038829699"
+        },
+        {
+          "type": "resource",
+          "title": "Queen’s Belfast GLAN programme (WWII/global justice focus)",
+          "details": "Link to the Queen’s University Belfast programme with GLAN (Global Legal Action Network), relevant for those interested in law, human rights, and open‑source approaches to global justice and accountability.",
+          "link": "https://www.qub.ac.uk/schools/SchoolofLaw/news/GLAN.html",
+          "messageId": "1425880542863429665",
+          "discordLink": "https://discord.com/channels/709752884257882135/810331796960444466/1425880542863429665"
+        },
+        {
+          "type": "discussion",
+          "title": "Ethics of ‘death voyeurism’ in media",
+          "details": "Two long‑form pieces (NYT opinion and a Guardian essay) on the impact of graphic ‘moment of death’ images and war photography, used to spark discussion about ethical boundaries in using and sharing violent imagery for OSINT and journalism.",
+          "link": "https://www.nytimes.com/2025/09/13/opinion/the-flood-of-moment-of-death-videos-is-killing-us.html?unlocked_article_code=1.lk8.Uyen.Po4PAwGAKCQH&smid=url-share",
+          "messageId": "1424122016889307187",
+          "discordLink": "https://discord.com/channels/709752884257882135/810331796960444466/1424122016889307187"
+        },
+        {
+          "type": "news",
+          "title": "Terence Tao comments on reports of his research being suspended at UCLA",
+          "details": "A user queried rumors that Terry Tao’s research was being suspended as part of a political ‘crackdown’ at UCLA; they later shared Tao’s own Mathstodon post as a primary source for clarification.",
+          "link": "https://mathstodon.xyz/@tao/114956840959338146",
+          "messageId": "1401264645087559861",
+          "discordLink": "https://discord.com/channels/709752884257882135/810331796960444466/1401264645087559861"
+        }
+      ],
+      "mentions": [
+        "Bellingcat",
+        "Reuters Institute for the Study of Journalism",
+        "404 Media",
+        "ProPublica",
+        "Rx Inspector",
+        "Utrecht University",
+        "Open Source Global Justice Investigations Lab",
+        "Queen's University Belfast",
+        "GLAN (Global Legal Action Network)",
+        "New York Times",
+        "The Guardian",
+        "Terence Tao",
+        "UCLA",
+        "Mathstodon",
+        "NSF (US National Science Foundation)",
+        "HUD (US Department of Housing and Urban Development)",
+        "VA (Virginia, US state)"
+      ]
+    },
+    {
+      "channel": "announcements",
+      "status": "active",
+      "summary": "Announcements highlighted recent and upcoming Stage Talks, new Bellingcat open‑source challenges, major investigations (including DC federal enforcement and Illinois ICE raids), and a call for wildlife/environment OSINT investigations, plus moderation updates on sensitive topics.",
+      "highlights": [
+        {
+          "type": "news",
+          "title": "Bellingcat investigation of federal enforcement encounters in Washington, DC",
+          "details": "Announcement of a project documenting federal enforcement actions in DC during a period of federal control, verifying 42 encounters (many involving DC police), including traffic stops turning into detentions and workers pulled from mopeds. Shared as a major recent investigation and example of systematic open‑source documentation.",
+          "link": "",
+          "messageId": "1414684914607067246",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1414684914607067246"
+        },
+        {
+          "type": "resource",
+          "title": "Stage Talk: Identifying Explosive Ordnance (recording available)",
+          "details": "Recording of a Stage Talk with an expert guest on identifying different types of explosive ordnance and current EO use in various conflicts. Technical issues were edited out and the session was made available as part of the ‘Stage Talks with Bellingcat’ podcast.",
+          "link": "",
+          "messageId": "1356301706207694988",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1356301706207694988"
+        },
+        {
+          "type": "resource",
+          "title": "Stage Talk: Open Source Munitions Portal",
+          "details": "Announcement and recording link for a Stage Talk episode focused on the Open Source Munitions Portal, explaining how to use it to identify and track munitions in conflict zones.",
+          "link": "https://rss.com/podcasts/bellingcatstagetalk/1945244",
+          "messageId": "1351258682037633135",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1351258682037633135"
+        },
+        {
+          "type": "resource",
+          "title": "Bellingcat Open Source Challenge platform",
+          "details": "Multiple reminders that new OSINT puzzles are live on Bellingcat’s challenge platform, encouraging members to solve them and share methods in the dedicated channel or on external platforms.",
+          "link": "https://challenge.bellingcat.com/",
+          "messageId": "1348703570752442472",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1348703570752442472"
+        },
+        {
+          "type": "news",
+          "title": "Cold‑case murder investigation video: mafia, gamblers, and pigeons",
+          "details": "Promotion of a YouTube talk by Bellingcat researcher Peter Barth showing how open‑source research can reconstruct decades‑old murders, presented as an educational case study for historical OSINT work.",
+          "link": "https://youtu.be/TZcWblhJc_k",
+          "messageId": "1379127900426604645",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1379127900426604645"
+        },
+        {
+          "type": "news",
+          "title": "Illinois ICE raids investigation and use‑of‑force assessment",
+          "details": "Announcement of a Bellingcat and Evident Media investigation into ICE raids in Illinois, focusing on documentation and assessment of use of force around recent court‑ordered operations.",
+          "link": "https://www.bellingcat.com/news/2025/10/31/illinois-immigration-protests/?utm_source=Discord",
+          "messageId": "1434954106069581826",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1434954106069581826"
+        },
+        {
+          "type": "research",
+          "title": "Call for wildlife and environment OSINT investigations",
+          "details": "Bellingcat invited pitches for wildlife and environment‑related investigations using open‑source methods, welcoming non‑journalists provided the work meets international investigative standards and passes rigorous fact‑checking.",
+          "link": "",
+          "messageId": "1349713257593704491",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1349713257593704491"
+        },
+        {
+          "type": "resource",
+          "title": "Upcoming Stage Talk with DoubleThinkLab on FIMI and inauthentic accounts",
+          "details": "Announcement of a Stage Talk with Jasper Hewitt of DoubleThinkLab, covering monitoring of inauthentic accounts, deep‑dive Foreign Information Manipulation and Interference (FIMI) cases, and training for journalists and disinformation researchers.",
+          "link": "https://doublethinklab.org/",
+          "messageId": "1369333753163419779",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1369333753163419779"
+        },
+        {
+          "type": "moderation",
+          "title": "Dedicated, mute‑able forum thread for Epstein‑related discussion",
+          "details": "To reduce harm for survivors and others, moderators moved Epstein‑related conversations into a dedicated forum post that members can mute, instead of a general channel, to better manage exposure to distressing content.",
+          "link": "",
+          "messageId": "1398291788162404353",
+          "discordLink": "https://discord.com/channels/709752884257882135/709768274031935560/1398291788162404353"
+        }
+      ],
+      "mentions": [
+        "Bellingcat",
+        "Evident Media",
+        "DoubleThinkLab",
+        "Peter Barth",
+        "Lisa Broekhuizen",
+        "Space4Good",
+        "Lloyd's List",
+        "ICE (US Immigration and Customs Enforcement)",
+        "US federal agents",
+        "Bellingcat Challenge",
+        "Stage Talks with Bellingcat",
+        "Open Source Munitions Portal",
+        "Epstein"
+      ]
+    },
+    {
+      "channel": "apac-geolocation",
+      "status": "not-important",
+      "summary": "Light activity: users casually mentioned interesting balloon/airship sites in remote parts of China and suggested comparing two islands off Myanmar, but there was no substantive follow‑up or documented analysis."
+    },
+    {
+      "channel": "art-crime",
+      "status": "active",
+      "summary": "Channel shared updates on museum thefts, a major new digital archive of Nuremberg Trial documents, discussion on under‑reported cultural heritage recoveries, and practical tips for accessing out‑of‑print art‑crime literature.",
+      "highlights": [
+        {
+          "type": "moderation",
+          "title": "Art‑crime office hour temporarily cancelled",
+          "details": "Moderation note that the dedicated art‑crime office hour is paused due to staffing and may return later; members are encouraged to keep using the channel to share tools, tips, and investigations in the meantime.",
+          "link": "",
+          "messageId": "1461044592664383498",
+          "discordLink": "https://discord.com/channels/709752884257882135/1314267278535036988/1461044592664383498"
+        },
+        {
+          "type": "news",
+          "title": "Silver theft at Zilvermuseum Doesburg (Netherlands)",
+          "details": "Blog post summarizing a significant theft of around 300 pieces of silver from the Zilvermuseum in Doesburg, Netherlands, illustrating ongoing risks to museum collections and the commodification of stolen heritage.",
+          "link": "https://art-crime.blogspot.com/2026/01/the-theft-at-zilvermuseum-doesburg-and.html",
+          "messageId": "1463811555777843364",
+          "discordLink": "https://discord.com/channels/709752884257882135/1314267278535036988/1463811555777843364"
+        },
+        {
+          "type": "resource",
+          "title": "Harvard’s complete digitized Nuremberg Trials collection",
+          "details": "Harvard Law School Library released the first complete, fully searchable, digitized English collection of official evidentiary documents and trial transcripts from all 13 Nuremberg Trials, highlighted as a valuable resource for WWII‑era claims and historical investigations.",
+          "link": "https://nuremberg.law.harvard.edu",
+          "messageId": "1441452256284381276",
+          "discordLink": "https://discord.com/channels/709752884257882135/1314267278535036988/1441452256284381276"
+        },
+        {
+          "type": "discussion",
+          "title": "Lack of multi‑language coverage of heritage recovery cases",
+          "details": "A member described writing up heritage recovery stories in English because many significant cases (including a Spanish case about the recovery of two bronze toddler statues on loan to the Met, linked to multinational trafficking) receive little non‑local coverage, underscoring information gaps for international audiences.",
+          "link": "",
+          "messageId": "1460609041498640508",
+          "discordLink": "https://discord.com/channels/709752884257882135/1314267278535036988/1460609041498640508"
+        },
+        {
+          "type": "resource",
+          "title": "Tip for accessing out‑of‑print art‑crime books",
+          "details": "Practical suggestion that financially constrained readers sometimes can obtain draft copies of out‑of‑print books by directly contacting authors, provided contracts allow it.",
+          "link": "",
+          "messageId": "1450438386094571660",
+          "discordLink": "https://discord.com/channels/709752884257882135/1314267278535036988/1450438386094571660"
+        }
+      ],
+      "mentions": [
+        "Zilvermuseum Doesburg",
+        "Harvard Law School Library",
+        "Nuremberg Trials",
+        "Metropolitan Museum of Art",
+        "ARCA (Association for Research into Crimes against Art)"
+      ]
+    },
+    {
+      "channel": "asia-pacific",
+      "status": "active",
+      "summary": "Discussion focused on Cambodian scam‑factory networks: the deportation of tycoon Chen Zhi, whose conglomerate is tied to pig‑butchering scams and forced labor, and the precarious situation of people who escaped these scam compounds.",
+      "highlights": [
+        {
+          "type": "news",
+          "title": "Deportation of Cambodian tycoon Chen Zhi (Prince Holding Group) to China",
+          "details": "Shared report that Chen Zhi (Vincent Chen), founder of Prince Holding Group, was deported to China amid allegations of around US$10 billion in fraud and money laundering connected to human‑trafficking‑driven pig‑butchering scams and forced labor operations.",
+          "link": "https://www.thestandard.com.hk/china-news/article/321019/Cambodian-",
+          "messageId": "1458490610594873417",
+          "discordLink": "https://discord.com/channels/709752884257882135/709783693857783929/1458490610594873417"
+        },
+        {
+          "type": "news",
+          "title": "The Conversation article on scam‑factory survivors in Cambodia",
+          "details": "Article describing how individuals who escaped appalling conditions in scam factories are now living on the streets in Cambodia, highlighting ongoing vulnerabilities and state responses after rescue.",
+          "link": "https://theconversation.com/they-escaped-appalling-conditions-in-scam-factories-now-they-are-living-on-the-streets-in-cambodia-275218",
+          "messageId": "1471020896042094664",
+          "discordLink": "https://discord.com/channels/709752884257882135/709783693857783929/1471020896042094664"
+        }
+      ],
+      "mentions": [
+        "Chen Zhi",
+        "Vincent Chen",
+        "Prince Holding Group",
+        "Prince Group",
+        "Cambodia",
+        "China",
+        "The Standard (Hong Kong)",
+        "The Conversation"
+      ]
+    },
+    {
+      "channel": "aviation",
+      "status": "active",
+      "summary": "Channel actively analyzed unusual temporary flight restrictions (TFRs) over the Texas–New Mexico border region, speculating about FAA–DoD tensions, drone operations, and special forces activity, while sharing tools and official notices related to GPS jamming and military movements.",
+      "highlights": [
+        {
+          "type": "tool",
+          "title": "ATC app for real‑time TFR alerts",
+          "details": "Members recommended the ATC mobile app, noting it provided push notifications about the Texas/New Mexico TFRs before there was broader social‑media coverage, making it a useful tool for monitoring sudden airspace changes.",
+          "link": "https://atc.com/",
+          "messageId": "1471225520296427621",
+          "discordLink": "https://discord.com/channels/709752884257882135/1319318313519812619/1471225520296427621"
+        },
+        {
+          "type": "resource",
+          "title": "FAA Safety Team notice on GPS jamming near Fort Hood",
+          "details": "A January 28, 2026 FAA Safety Team notice warned that Fort Hood would be conducting GPS jamming overnight throughout February, shared to contextualize the unusual TFRs and possible navigation issues in the region.",
+          "link": "https://www.faasafety.gov/spans/noticeView.aspx?nid=14807",
+          "messageId": "1471125288070156479",
+          "discordLink": "https://discord.com/channels/709752884257882135/1319318313519812619/1471125288070156479"
+        },
+        {
+          "type": "news",
+          "title": "Social‑media posts on Texas/New Mexico TFRs and 1st Armored Division activity",
+          "details": "Members linked to posts by Jennifer Jacobs and others, including a 1st Armored Division social‑media update, as part of crowdsourced efforts to understand why extensive non‑Class A airspace near El Paso was temporarily closed.",
+          "link": "https://fixupx.com/1stArmoredDiv/status/2021585127638262139?s=20",
+          "messageId": "1471148950005485668",
+          "discordLink": "https://discord.com/channels/709752884257882135/1319318313519812619/1471148950005485668"
+        },
+        {
+          "type": "resource",
+          "title": "DoW CTO tweet documenting TFRs",
+          "details": "A DoW CTO account post on X was shared as an example of external tracking of the TFRs, with moderators reminding users to always include source links when posting aviation information.",
+          "link": "https://x.com/DoWCTO/status/2021593574932943185",
+          "messageId": "1471224175975731313",
+          "discordLink": "https://discord.com/channels/709752884257882135/1319318313519812619/1471224175975731313"
+        },
+        {
+          "type": "discussion",
+          "title": "Speculation on causes of border‑area TFRs and FAA–DoD friction",
+          "details": "Members debated possible reasons for the broad TFRs up to 18,000 ft near El Paso, including conflicts between FAA and DoD over drone operations, counter‑drone/jamming activities that extend beyond Class A airspace, and special forces reconnaissance crossing into Mexico—while explicitly dismissing nuclear‑testing rumors.",
+          "link": "",
+          "messageId": "1471161703247904989",
+          "discordLink": "https://discord.com/channels/709752884257882135/1319318313519812619/1471161703247904989"
+        },
+        {
+          "type": "discussion",
+          "title": "Anecdotal reports of prior special forces cross‑border activity",
+          "details": "One user relayed base scuttlebutt that special forces had routinely crossed the US–Mexico border for reconnaissance while infantry units patrolled the same area, and that senior leadership at Colorado Springs recently held an unusual emergency meeting, shared as context for ongoing aviation anomalies.",
+          "link": "",
+          "messageId": "1471112461380747264",
+          "discordLink": "https://discord.com/channels/709752884257882135/1319318313519812619/1471112461380747264"
+        }
+      ],
+      "mentions": [
+        "FAA (Federal Aviation Administration)",
+        "DoD (US Department of Defense)",
+        "US special forces",
+        "1st Armored Division",
+        "Fort Hood",
+        "El Paso",
+        "Texas",
+        "New Mexico",
+        "Mexico",
+        "ATC app",
+        "FAA Safety Team",
+        "Jennifer Jacobs",
+        "Aaron Rupar",
+        "DoW CTO"
+      ]
+    }
+  ],
+  "stats": {
+    "totalMessages": 934,
+    "activeChannels": 5,
+    "sourcesUsed": [
+      "discord:Bellingcat#academia",
+      "discord:Bellingcat#announcements",
+      "discord:Bellingcat#apac-geolocation",
+      "discord:Bellingcat#art-crime",
+      "discord:Bellingcat#asia-pacific",
+      "discord:Bellingcat#aviation"
+    ]
+  }
+}
