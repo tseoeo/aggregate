@@ -1,0 +1,34 @@
+{
+  "servers": [
+    {
+      "id": "709752884257882135",
+      "name": "Bellingcat",
+      "channels": [
+        { "id": "953245629117788210", "name": "data-science-and-engineering" },
+        { "id": "710132336884449300", "name": "infosec" },
+        { "id": "709755421836967978", "name": "tools-and-sites" },
+        { "id": "709752884794753128", "name": "open-source-general" },
+        { "id": "710132322552381520", "name": "reading-list" },
+        { "id": "1019616849593372692", "name": "research" },
+        { "id": "709773224103247953", "name": "research-assistance" },
+        { "id": "709760265268363273", "name": "show-your-work" }
+      ]
+    },
+    {
+      "id": "518979695702704132",
+      "name": "Project Owl",
+      "channels": [
+        { "id": "705617123057074188", "name": "information-technology" },
+        { "id": "590645723754659865", "name": "information-security" },
+        { "id": "578760018371936256", "name": "intel" },
+        { "id": "581572657884168193", "name": "osint-media" },
+        { "id": "839958785304166410", "name": "general-osint" },
+        { "id": "575506536118485032", "name": "signals" },
+        { "id": "576227269127831612", "name": "markets-and-finance" },
+        { "id": "597224136774778900", "name": "news-and-osint-updates" },
+        { "id": "949002385005613096", "name": "integrated-operations-center" },
+        { "id": "1075196643953090561", "name": "general-science" }
+      ]
+    }
+  ]
+}

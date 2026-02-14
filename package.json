@@ -8,7 +8,8 @@
     "preview": "astro preview",
     "fetch-discord": "tsx scripts/fetch-discord.ts",
     "summarize": "tsx scripts/summarize.ts",
-    "generate-daily": "tsx scripts/generate-daily.ts"
+    "generate-daily": "tsx scripts/generate-daily.ts",
+    "research-fetch": "tsx scripts/research-fetch.ts"
   },
   "dependencies": {
     "@astrojs/tailwind": "^6.0.2",
